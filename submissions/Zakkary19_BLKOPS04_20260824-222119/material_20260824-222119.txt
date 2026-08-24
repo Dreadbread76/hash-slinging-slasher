@@ -1,0 +1,2 @@
+24215220d1452004,mc/mtl_veh_t8_civ_truck_pickup_interior3_seat_rubber2_dead
+7b4c7af5a5ece6e3,mc/mtl_veh_t8_civ_truck_pickup_interior3_seat_rubber2_clean
