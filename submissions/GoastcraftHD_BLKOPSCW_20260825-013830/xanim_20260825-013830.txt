@@ -1,0 +1,5 @@
+cad0e07d1b51939,vm_claymore_handpose_l
+cad2807d1b54567,vm_claymore_handpose_r
+fad6d2efeeffda0,pt_rifle_t9_ar_accurate_stand_fem_inspect
+6f004d0a02ea3fee,pt_rifle_t9_ar_accurate_prone_fem_inspect
+7859c11ed0604dbc,vm_tr_longburst_t9_ads_zoom_down
