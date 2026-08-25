@@ -1,0 +1,2 @@
+e506406ead9fab3,mc/mtl_veh_t8_mil_truck_cargo_headstock_a_dk_dirty_mp_dark
+4a5e18e1b1badaef,mc/mtl_veh_t8_mil_truck_cargo_hood_01_dk_dirty_mp_dark
