@@ -1,0 +1,2 @@
+31fae2380990f649,vm_pistol_briefcase_t9_melee_briefcase
+6b91bdbcd86fb35e,vm_mtx_t9_dw_devil_horns
