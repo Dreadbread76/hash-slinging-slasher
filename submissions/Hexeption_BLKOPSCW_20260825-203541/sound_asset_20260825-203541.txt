@@ -1,0 +1,6 @@
+4481fb6bd7adcda,uin/2k20/battlepass/tier_purchase/battlepass_tier_purch_s6.sn75.pc.all.snd
+227c8c3299796a09,uin/2k20/battlepass/tier_purchase/battlepass_tier_purch_s3.sn75.pc.all.snd
+3443fbe0eb4359f3,uin/2k20/battlepass/tier_purchase/battlepass_tier_purch_s5.sn75.pc.all.snd
+35586e45c48dade0,uin/2k20/battlepass/tier_purchase/battlepass_tier_purch_s4.sn75.pc.all.snd
+3f47b044418b7fd4,uin/2k20/battlepass/tier_purchase/battlepass_tier_purch_s8.sn75.pc.all.snd
+4691d5e947151d1d,uin/2k20/battlepass/tier_purchase/battlepass_tier_purch_s7.sn75.pc.all.snd
