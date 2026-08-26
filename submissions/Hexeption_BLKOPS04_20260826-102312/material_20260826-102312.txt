@@ -1,0 +1,2 @@
+10551caa4476ab1f,mc/mtl_attach_t8_loot_ar_doubletap_long_barrel_mk2
+439f71a28db2062f,mc/mtl_t8_camo_solid_color_black
