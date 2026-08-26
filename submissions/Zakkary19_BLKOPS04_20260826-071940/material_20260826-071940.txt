@@ -1,0 +1,2 @@
+140a893f6c7e3e9b,mc/mtl_wpn_t8_zm_melee_chakram_blade_stage_01_emissive
+2d69612a63ad4dfc,mc/mtl_veh_t8_decal_graphic_japan_konbini_stripe_02_red
