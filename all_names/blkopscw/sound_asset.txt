@@ -13,7 +13,16 @@ ec0151ea605d6b6,mpl/executions/exec_136/exec_136_prone.ln75.pc.all.snd
 2948df5d8da9d310,mpl/intros/mp_moscow/mp_moscow_van_door_v5.ln75.pc.all.snd
 72c0915480ac1b91,mpl/intros/mp_moscow/mp_moscow_van_foley_v12.ln75.pc.all.snd
 3cb4818d15ce1ea2,mus/cp/rus_amerika/3.0_caught/mus_amerika_caught_v1.1_live_edit.sn75.pc.all.snd
+2a8f69529ef0cea,mus/cp/rus_yamantau/11.2_airlift/mus_yamantau_airlift_v2.1_live_exit.sn75.pc.all.snd
+6cf974b77e482094,uin/2k20/battlepass/global_purchase/bik_mtx_global_purchase_confirmed_s2.sn75.pc.all.snd
+730de574c2f6b91b,uin/2k20/battlepass/pass_purchase/battlepass_purchase_s2.sn75.pc.all.snd
 551047bbde574246,uin/2k20/battlepass/tier_purchase/battlepass_tier_purch_s2.sn75.pc.all.snd
+227c8c3299796a09,uin/2k20/battlepass/tier_purchase/battlepass_tier_purch_s3.sn75.pc.all.snd
+35586e45c48dade0,uin/2k20/battlepass/tier_purchase/battlepass_tier_purch_s4.sn75.pc.all.snd
+3443fbe0eb4359f3,uin/2k20/battlepass/tier_purchase/battlepass_tier_purch_s5.sn75.pc.all.snd
+4481fb6bd7adcda,uin/2k20/battlepass/tier_purchase/battlepass_tier_purch_s6.sn75.pc.all.snd
+4691d5e947151d1d,uin/2k20/battlepass/tier_purchase/battlepass_tier_purch_s7.sn75.pc.all.snd
+3f47b044418b7fd4,uin/2k20/battlepass/tier_purchase/battlepass_tier_purch_s8.sn75.pc.all.snd
 47370e49aa78862a,vox/scripted/mpl/abnd/vox_abnd_dbl_atpsy_oprt_00.rn75.pc.en.snd
 192ed62bd28eb707,vox/scripted/mpl/abnd/vox_abnd_dbl_atpsy_oprt_01.rn75.pc.en.snd
 18be692e2568c983,vox/scripted/mpl/abnd/vox_abnd_dbl_rnd_end_oprt_dead_dblagt_00.rn75.pc.en.snd
@@ -147,6 +156,7 @@ df5334158b4df09,vox/scripted/mpl/anme/vox_anme_stk_hub_offline_01.rn75.pc.en.snd
 7583fa84433ab619,vox/scripted/mpl/anme/vox_anme_stk_hub_online_mult_00.rn75.pc.en.snd
 467c66409bb5bb14,vox/scripted/mpl/anme/vox_anme_stk_hub_online_mult_01.rn75.pc.en.snd
 1fb27ba5e5dbbf97,vox/scripted/operators/adlr/vox_adlr_mtx_execute_esad_00.rn75.pc.en.snd
+54beb798107b03f5,vox/scripted/operators/adlr/vox_adlr_mtx_execute_point_blank_00.rn75.pc.en.snd
 34e0e14a3150ace,vox/scripted/operators/adlr/vox_adlr_mtx_execute_rare_00.rn75.pc.en.snd
 698b9ef4383963ab,vox/scripted/operators/adlr/vox_adlr_mtx_execute_rare_01.rn75.pc.en.snd
 1b12b72ca2ea3754,vox/scripted/operators/adlr/vox_adlr_mtx_execute_rare_02.rn75.pc.en.snd
@@ -156,6 +166,7 @@ df5334158b4df09,vox/scripted/mpl/anme/vox_anme_stk_hub_offline_01.rn75.pc.en.snd
 4fbdf4d4e7d0a4f8,vox/scripted/operators/adlr/vox_adlr_mtx_execute_rare_06.rn75.pc.en.snd
 2a3d54754f02f23d,vox/scripted/operators/adlr/vox_adlr_mtx_execute_rare_07.rn75.pc.en.snd
 12f083ce51f3947b,vox/scripted/operators/antv/vox_antv_mtx_execute_esad_00.rn75.pc.en.snd
+2ee2ed4c39796471,vox/scripted/operators/antv/vox_antv_mtx_execute_point_blank_00.rn75.pc.en.snd
 52673fbb4d050cba,vox/scripted/operators/antv/vox_antv_mtx_execute_rare_00.rn75.pc.en.snd
 4491055cbe59df57,vox/scripted/operators/antv/vox_antv_mtx_execute_rare_01.rn75.pc.en.snd
 7aee9640c7a82ff0,vox/scripted/operators/antv/vox_antv_mtx_execute_rare_02.rn75.pc.en.snd
@@ -165,6 +176,7 @@ df5334158b4df09,vox/scripted/mpl/anme/vox_anme_stk_hub_offline_01.rn75.pc.en.snd
 2fc3fe62edcd570c,vox/scripted/operators/antv/vox_antv_mtx_execute_rare_06.rn75.pc.en.snd
 4216f39cd9400eb1,vox/scripted/operators/antv/vox_antv_mtx_execute_rare_07.rn75.pc.en.snd
 503f8ef15c10b255,vox/scripted/operators/bakr/vox_bakr_mtx_execute_esad_00.rn75.pc.en.snd
+25f630ff98c91403,vox/scripted/operators/bakr/vox_bakr_mtx_execute_point_blank_00.rn75.pc.en.snd
 77c928d86498f350,vox/scripted/operators/bakr/vox_bakr_mtx_execute_rare_00.rn75.pc.en.snd
 364c145400a58775,vox/scripted/operators/bakr/vox_bakr_mtx_execute_rare_01.rn75.pc.en.snd
 51e02f75a8bae89a,vox/scripted/operators/bakr/vox_bakr_mtx_execute_rare_02.rn75.pc.en.snd
@@ -174,6 +186,7 @@ df5334158b4df09,vox/scripted/mpl/anme/vox_anme_stk_hub_offline_01.rn75.pc.en.snd
 1be51c9348669b66,vox/scripted/operators/bakr/vox_bakr_mtx_execute_rare_06.rn75.pc.en.snd
 4459f1f6ac9edb83,vox/scripted/operators/bakr/vox_bakr_mtx_execute_rare_07.rn75.pc.en.snd
 6a88253bbda5e2b5,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_esad_00.rn75.pc.en.snd
+748e129c5df6b23,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_point_blank_00.rn75.pc.en.snd
 125f8871a9fabdb0,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_rare_00.rn75.pc.en.snd
 c3bf26061b95ad5,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_rare_01.rn75.pc.en.snd
 704a15fa7800257a,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_rare_02.rn75.pc.en.snd
@@ -183,6 +196,7 @@ c3bf26061b95ad5,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_rare_01.rn75.pc
 372df8895b97ecc6,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_rare_06.rn75.pc.en.snd
 5ef0518ff200a5e3,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_rare_07.rn75.pc.en.snd
 fce7f446bb47bcf,vox/scripted/operators/beck/vox_beck_mtx_execute_esad_00.rn75.pc.en.snd
+667c000506cab7ed,vox/scripted/operators/beck/vox_beck_mtx_execute_point_blank_00.rn75.pc.en.snd
 2587637cb756be06,vox/scripted/operators/beck/vox_beck_mtx_execute_rare_00.rn75.pc.en.snd
 5bd70bb9c3247c23,vox/scripted/operators/beck/vox_beck_mtx_execute_rare_01.rn75.pc.en.snd
 5546e6b68254150c,vox/scripted/operators/beck/vox_beck_mtx_execute_rare_02.rn75.pc.en.snd
@@ -192,6 +206,7 @@ fce7f446bb47bcf,vox/scripted/operators/beck/vox_beck_mtx_execute_esad_00.rn75.pc
 20717e945c2eedf0,vox/scripted/operators/beck/vox_beck_mtx_execute_rare_06.rn75.pc.en.snd
 6bfcf6af4b379a15,vox/scripted/operators/beck/vox_beck_mtx_execute_rare_07.rn75.pc.en.snd
 1836d4c81049d0fd,vox/scripted/operators/frs1/vox_frs1_mtx_execute_esad_00.rn75.pc.en.snd
+5c518b11f237a8ab,vox/scripted/operators/frs1/vox_frs1_mtx_execute_point_blank_00.rn75.pc.en.snd
 5a9ca70837cd0438,vox/scripted/operators/frs1/vox_frs1_mtx_execute_rare_00.rn75.pc.en.snd
 6d1536d4d8f4f07d,vox/scripted/operators/frs1/vox_frs1_mtx_execute_rare_01.rn75.pc.en.snd
 69bf2470e05e8ac2,vox/scripted/operators/frs1/vox_frs1_mtx_execute_rare_02.rn75.pc.en.snd
@@ -201,6 +216,7 @@ fce7f446bb47bcf,vox/scripted/operators/beck/vox_beck_mtx_execute_esad_00.rn75.pc
 42ce0f834d903e0e,vox/scripted/operators/frs1/vox_frs1_mtx_execute_rare_06.rn75.pc.en.snd
 43e21ab43509b7eb,vox/scripted/operators/frs1/vox_frs1_mtx_execute_rare_07.rn75.pc.en.snd
 41011ac92f1ae833,vox/scripted/operators/frs2/vox_frs2_mtx_execute_esad_00.rn75.pc.en.snd
+38391dca48bf4489,vox/scripted/operators/frs2/vox_frs2_mtx_execute_point_blank_00.rn75.pc.en.snd
 29d7ece26c282632,vox/scripted/operators/frs2/vox_frs2_mtx_execute_rare_00.rn75.pc.en.snd
 1f8d16e58b32b9af,vox/scripted/operators/frs2/vox_frs2_mtx_execute_rare_01.rn75.pc.en.snd
 256be675931fc728,vox/scripted/operators/frs2/vox_frs2_mtx_execute_rare_02.rn75.pc.en.snd
@@ -210,6 +226,7 @@ fce7f446bb47bcf,vox/scripted/operators/beck/vox_beck_mtx_execute_esad_00.rn75.pc
 4d119182fa219184,vox/scripted/operators/frs2/vox_frs2_mtx_execute_rare_06.rn75.pc.en.snd
 8271b8b8a58a349,vox/scripted/operators/frs2/vox_frs2_mtx_execute_rare_07.rn75.pc.en.snd
 3cb47ef505eb79b9,vox/scripted/operators/fuze/vox_fuze_mtx_execute_esad_00.rn75.pc.en.snd
+72406ce4c43c999f,vox/scripted/operators/fuze/vox_fuze_mtx_execute_point_blank_00.rn75.pc.en.snd
 91a27c21282482c,vox/scripted/operators/fuze/vox_fuze_mtx_execute_rare_00.rn75.pc.en.snd
 2f0b8be01c0c47d1,vox/scripted/operators/fuze/vox_fuze_mtx_execute_rare_01.rn75.pc.en.snd
 3f146b719212f8a6,vox/scripted/operators/fuze/vox_fuze_mtx_execute_rare_02.rn75.pc.en.snd
@@ -219,6 +236,7 @@ fce7f446bb47bcf,vox/scripted/operators/beck/vox_beck_mtx_execute_esad_00.rn75.pc
 29a2ae802979bbda,vox/scripted/operators/fuze/vox_fuze_mtx_execute_rare_06.rn75.pc.en.snd
 16da045bb061e277,vox/scripted/operators/fuze/vox_fuze_mtx_execute_rare_07.rn75.pc.en.snd
 3b8468c106ac1153,vox/scripted/operators/grca/vox_grca_mtx_execute_esad_00.rn75.pc.en.snd
+4c4305329af386e9,vox/scripted/operators/grca/vox_grca_mtx_execute_point_blank_00.rn75.pc.en.snd
 3565a21f9ba12fd2,vox/scripted/operators/grca/vox_grca_mtx_execute_rare_00.rn75.pc.en.snd
 7355f2717e5a714f,vox/scripted/operators/grca/vox_grca_mtx_execute_rare_01.rn75.pc.en.snd
 394cda3e3657b3c8,vox/scripted/operators/grca/vox_grca_mtx_execute_rare_02.rn75.pc.en.snd
@@ -228,6 +246,7 @@ fce7f446bb47bcf,vox/scripted/operators/beck/vox_beck_mtx_execute_esad_00.rn75.pc
 3af740aba16a1c24,vox/scripted/operators/grca/vox_grca_mtx_execute_rare_06.rn75.pc.en.snd
 4c63d4baa4889c69,vox/scripted/operators/grca/vox_grca_mtx_execute_rare_07.rn75.pc.en.snd
 2dcd84df946f6209,vox/scripted/operators/gstf/vox_gstf_mtx_execute_esad_00.rn75.pc.en.snd
+2f555367da42b94f,vox/scripted/operators/gstf/vox_gstf_mtx_execute_point_blank_00.rn75.pc.en.snd
 42798478142415dc,vox/scripted/operators/gstf/vox_gstf_mtx_execute_rare_00.rn75.pc.en.snd
 3cac82b69f2cd041,vox/scripted/operators/gstf/vox_gstf_mtx_execute_rare_01.rn75.pc.en.snd
 3a02f586e99640d6,vox/scripted/operators/gstf/vox_gstf_mtx_execute_rare_02.rn75.pc.en.snd
@@ -238,6 +257,7 @@ fce7f446bb47bcf,vox/scripted/operators/beck/vox_beck_mtx_execute_esad_00.rn75.pc
 59c124eaf334c067,vox/scripted/operators/gstf/vox_gstf_mtx_execute_rare_07.rn75.pc.en.snd
 3e5b39e0a20e8ffb,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_esad_00.rn75.pc.en.snd
 4830c1daf74b8c22,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_newb_00.rn75.pc.en.snd
+6d5a577dad5d8af1,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_point_blank_00.rn75.pc.en.snd
 7dd1f5cd9d20083a,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_rare_00.rn75.pc.en.snd
 6ffbbb6f0e74dad7,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_rare_01.rn75.pc.en.snd
 26594c5317c32b70,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_rare_02.rn75.pc.en.snd
@@ -246,7 +266,9 @@ fce7f446bb47bcf,vox/scripted/operators/beck/vox_beck_mtx_execute_esad_00.rn75.pc
 61bed9787eb8b9a3,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_rare_05.rn75.pc.en.snd
 5b2eb4753de8528c,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_rare_06.rn75.pc.en.snd
 6d81a9af295b0a31,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_rare_07.rn75.pc.en.snd
+188edafb574187c4,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_sniper_rifle_00.rn75.pc.en.snd
 59f4b1a2dfe02f55,vox/scripted/operators/jckl/vox_jckl_mtx_execute_esad_00.rn75.pc.en.snd
+164d298c96d30303,vox/scripted/operators/jckl/vox_jckl_mtx_execute_point_blank_00.rn75.pc.en.snd
 17e4b89e8687050,vox/scripted/operators/jckl/vox_jckl_mtx_execute_rare_00.rn75.pc.en.snd
 4001370584750475,vox/scripted/operators/jckl/vox_jckl_mtx_execute_rare_01.rn75.pc.en.snd
 5b9552272c8a659a,vox/scripted/operators/jckl/vox_jckl_mtx_execute_rare_02.rn75.pc.en.snd
@@ -256,6 +278,7 @@ fce7f446bb47bcf,vox/scripted/operators/beck/vox_beck_mtx_execute_esad_00.rn75.pc
 259a3f44cc361866,vox/scripted/operators/jckl/vox_jckl_mtx_execute_rare_06.rn75.pc.en.snd
 4e0f14a8306e5883,vox/scripted/operators/jckl/vox_jckl_mtx_execute_rare_07.rn75.pc.en.snd
 17d8f2a4a06b0f7b,vox/scripted/operators/kngs/vox_kngs_mtx_execute_esad_00.rn75.pc.en.snd
+509d5364bd959d71,vox/scripted/operators/kngs/vox_kngs_mtx_execute_point_blank_00.rn75.pc.en.snd
 574fae919b7c87ba,vox/scripted/operators/kngs/vox_kngs_mtx_execute_rare_00.rn75.pc.en.snd
 497974330cd15a57,vox/scripted/operators/kngs/vox_kngs_mtx_execute_rare_01.rn75.pc.en.snd
 7fd70517161faaf0,vox/scripted/operators/kngs/vox_kngs_mtx_execute_rare_02.rn75.pc.en.snd
@@ -265,6 +288,7 @@ fce7f446bb47bcf,vox/scripted/operators/beck/vox_beck_mtx_execute_esad_00.rn75.pc
 34ac6d393c44d20c,vox/scripted/operators/kngs/vox_kngs_mtx_execute_rare_06.rn75.pc.en.snd
 46ff627327b789b1,vox/scripted/operators/kngs/vox_kngs_mtx_execute_rare_07.rn75.pc.en.snd
 368592ba61ad0445,vox/scripted/operators/kngt/vox_kngt_mtx_execute_esad_00.rn75.pc.en.snd
+311288b3941e853,vox/scripted/operators/kngt/vox_kngt_mtx_execute_point_blank_00.rn75.pc.en.snd
 4fdc4a7531825820,vox/scripted/operators/kngt/vox_kngt_mtx_execute_rare_00.rn75.pc.en.snd
 284d259a3e8e785,vox/scripted/operators/kngt/vox_kngt_mtx_execute_rare_01.rn75.pc.en.snd
 4ec009ac1805596a,vox/scripted/operators/kngt/vox_kngt_mtx_execute_rare_02.rn75.pc.en.snd
@@ -274,6 +298,7 @@ fce7f446bb47bcf,vox/scripted/operators/beck/vox_beck_mtx_execute_esad_00.rn75.pc
 3a4cac6a1ccc47b6,vox/scripted/operators/kngt/vox_kngt_mtx_execute_rare_06.rn75.pc.en.snd
 1faca4e63f1ee313,vox/scripted/operators/kngt/vox_kngt_mtx_execute_rare_07.rn75.pc.en.snd
 2fb7860989757085,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_esad_00.rn75.pc.en.snd
+5ece246b0a0db193,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_point_blank_00.rn75.pc.en.snd
 20dbee2219fe4a60,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_rare_00.rn75.pc.en.snd
 92a77327e30f4c5,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_rare_01.rn75.pc.en.snd
 11407d31ae88a4aa,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_rare_02.rn75.pc.en.snd
@@ -283,6 +308,7 @@ fce7f446bb47bcf,vox/scripted/operators/beck/vox_beck_mtx_execute_esad_00.rn75.pc
 6e8ce1ca6eb274f6,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_rare_06.rn75.pc.en.snd
 78aae582cebf7c53,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_rare_07.rn75.pc.en.snd
 4465be30148e23b,vox/scripted/operators/lazr/vox_lazr_mtx_execute_esad_00.rn75.pc.en.snd
+3b11fd0f3dceca31,vox/scripted/operators/lazr/vox_lazr_mtx_execute_point_blank_00.rn75.pc.en.snd
 70a58f4a17ce037a,vox/scripted/operators/lazr/vox_lazr_mtx_execute_rare_00.rn75.pc.en.snd
 663554eb8c05ff17,vox/scripted/operators/lazr/vox_lazr_mtx_execute_rare_01.rn75.pc.en.snd
 12bb01c149c89bb0,vox/scripted/operators/lazr/vox_lazr_mtx_execute_rare_02.rn75.pc.en.snd
@@ -292,6 +318,7 @@ c976bb0018738d5,vox/scripted/operators/lazr/vox_lazr_mtx_execute_rare_03.rn75.pc
 291eeadc74d76dcc,vox/scripted/operators/lazr/vox_lazr_mtx_execute_rare_06.rn75.pc.en.snd
 54b987376e18ac71,vox/scripted/operators/lazr/vox_lazr_mtx_execute_rare_07.rn75.pc.en.snd
 225b5b76017fb60b,vox/scripted/operators/masn/vox_masn_mtx_execute_esad_00.rn75.pc.en.snd
+5b664ff5772ba661,vox/scripted/operators/masn/vox_masn_mtx_execute_point_blank_00.rn75.pc.en.snd
 52cb412bfe783faa,vox/scripted/operators/masn/vox_masn_mtx_execute_rare_00.rn75.pc.en.snd
 24c3090e268e7087,vox/scripted/operators/masn/vox_masn_mtx_execute_rare_01.rn75.pc.en.snd
 6266b21c69ede560,vox/scripted/operators/masn/vox_masn_mtx_execute_rare_02.rn75.pc.en.snd
@@ -301,6 +328,7 @@ c976bb0018738d5,vox/scripted/operators/lazr/vox_lazr_mtx_execute_rare_03.rn75.pc
 57d5090547c6b77c,vox/scripted/operators/masn/vox_masn_mtx_execute_rare_06.rn75.pc.en.snd
 5b218746c01a0061,vox/scripted/operators/masn/vox_masn_mtx_execute_rare_07.rn75.pc.en.snd
 627ead4bce9e882b,vox/scripted/operators/maxi/vox_maxi_mtx_execute_esad_00.rn75.pc.en.snd
+14b35f9fd486eb41,vox/scripted/operators/maxi/vox_maxi_mtx_execute_point_blank_00.rn75.pc.en.snd
 3d30772492ec66ca,vox/scripted/operators/maxi/vox_maxi_mtx_execute_rare_00.rn75.pc.en.snd
 76410468cf4d0c27,vox/scripted/operators/maxi/vox_maxi_mtx_execute_rare_01.rn75.pc.en.snd
 66bdeaa8bad85480,vox/scripted/operators/maxi/vox_maxi_mtx_execute_rare_02.rn75.pc.en.snd
@@ -326,6 +354,7 @@ fb085684d7b2d9c,vox/scripted/operators/maxi/vox_maxi_mtx_execute_rare_06.rn75.pc
 5e81452170b3ca3b,vox/scripted/operators/mcln/vox_mcln_mtx_execute_rare_14.rn75.pc.en.snd
 13072495d1f5cc5e,vox/scripted/operators/mcln/vox_mcln_mtx_execute_rare_15.rn75.pc.en.snd
 75f190bbfa8b51db,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_esad_00.rn75.pc.en.snd
+4237e710105aaa91,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_point_blank_00.rn75.pc.en.snd
 1ed26ecc5345e11a,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_rare_00.rn75.pc.en.snd
 7f7627eb5fb109b7,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_rare_01.rn75.pc.en.snd
 44bb682f0f23ebd0,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_rare_02.rn75.pc.en.snd
@@ -335,6 +364,7 @@ fb085684d7b2d9c,vox/scripted/operators/maxi/vox_maxi_mtx_execute_rare_06.rn75.pc
 13ed3c9ccd15e16c,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_rare_06.rn75.pc.en.snd
 e3a20b146645e11,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_rare_07.rn75.pc.en.snd
 53a37d8f69152621,vox/scripted/operators/mrs2/vox_mrs2_mtx_execute_esad_00.rn75.pc.en.snd
+2a1b96c72ecee7c7,vox/scripted/operators/mrs2/vox_mrs2_mtx_execute_point_blank_00.rn75.pc.en.snd
 5866bcabcc9fde14,vox/scripted/operators/mrs2/vox_mrs2_mtx_execute_rare_00.rn75.pc.en.snd
 76e50ef7424d919,vox/scripted/operators/mrs2/vox_mrs2_mtx_execute_rare_01.rn75.pc.en.snd
 363bab9c296308e,vox/scripted/operators/mrs2/vox_mrs2_mtx_execute_rare_02.rn75.pc.en.snd
@@ -344,6 +374,7 @@ e3a20b146645e11,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_rare_07.rn75.pc
 2a54cfa755647d42,vox/scripted/operators/mrs2/vox_mrs2_mtx_execute_rare_06.rn75.pc.en.snd
 12c1fc83f3bed2ff,vox/scripted/operators/mrs2/vox_mrs2_mtx_execute_rare_07.rn75.pc.en.snd
 4d7835edd702c56b,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_esad_00.rn75.pc.en.snd
+410341e7c0998a81,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_point_blank_00.rn75.pc.en.snd
 7c9fede9bba69f0a,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_rare_00.rn75.pc.en.snd
 ed65541df98fc67,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_rare_01.rn75.pc.en.snd
 26e30e14850a01c0,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_rare_02.rn75.pc.en.snd
@@ -353,6 +384,7 @@ ed65541df98fc67,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_rare_01.rn75.pc
 778eb4cf008851dc,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_rare_06.rn75.pc.en.snd
 71c1b30d8b910c41,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_rare_07.rn75.pc.en.snd
 6cdcd5e88b28569b,vox/scripted/operators/naga/vox_naga_mtx_execute_esad_00.rn75.pc.en.snd
+59a0e7f2f5f70451,vox/scripted/operators/naga/vox_naga_mtx_execute_point_blank_00.rn75.pc.en.snd
 e0b1851f02709da,vox/scripted/operators/naga/vox_naga_mtx_execute_rare_00.rn75.pc.en.snd
 7b426e2d770f3077,vox/scripted/operators/naga/vox_naga_mtx_execute_rare_01.rn75.pc.en.snd
 435a75c7a2af1690,vox/scripted/operators/naga/vox_naga_mtx_execute_rare_02.rn75.pc.en.snd
@@ -362,6 +394,7 @@ e0b1851f02709da,vox/scripted/operators/naga/vox_naga_mtx_execute_rare_00.rn75.pc
 6d829193d92f962c,vox/scripted/operators/naga/vox_naga_mtx_execute_rare_06.rn75.pc.en.snd
 1373f5b1e2b995d1,vox/scripted/operators/naga/vox_naga_mtx_execute_rare_07.rn75.pc.en.snd
 46e3750d832f3b05,vox/scripted/operators/park/vox_park_mtx_execute_esad_00.rn75.pc.en.snd
+3d3225e07b9aed13,vox/scripted/operators/park/vox_park_mtx_execute_point_blank_00.rn75.pc.en.snd
 3807dd2613b814e0,vox/scripted/operators/park/vox_park_mtx_execute_rare_00.rn75.pc.en.snd
 2056663677eabf45,vox/scripted/operators/park/vox_park_mtx_execute_rare_01.rn75.pc.en.snd
 286c6c35a8426f2a,vox/scripted/operators/park/vox_park_mtx_execute_rare_02.rn75.pc.en.snd
@@ -371,6 +404,7 @@ e0b1851f02709da,vox/scripted/operators/naga/vox_naga_mtx_execute_rare_00.rn75.pc
 5b8d0ce686c3f76,vox/scripted/operators/park/vox_park_mtx_execute_rare_06.rn75.pc.en.snd
 fd6d486c87946d3,vox/scripted/operators/park/vox_park_mtx_execute_rare_07.rn75.pc.en.snd
 1f9a2eb7f378d3f9,vox/scripted/operators/prce/vox_prce_mtx_execute_esad_00.rn75.pc.en.snd
+1099b29781560ddf,vox/scripted/operators/prce/vox_prce_mtx_execute_point_blank_00.rn75.pc.en.snd
 6396a55c83bf1d6c,vox/scripted/operators/prce/vox_prce_mtx_execute_rare_00.rn75.pc.en.snd
 5de38970fd0d9a11,vox/scripted/operators/prce/vox_prce_mtx_execute_rare_01.rn75.pc.en.snd
 3880c4a9a99acfe6,vox/scripted/operators/prce/vox_prce_mtx_execute_rare_02.rn75.pc.en.snd
@@ -380,6 +414,7 @@ fd6d486c87946d3,vox/scripted/operators/park/vox_park_mtx_execute_rare_07.rn75.pc
 6e7bd78c09ef1d1a,vox/scripted/operators/prce/vox_prce_mtx_execute_rare_06.rn75.pc.en.snd
 4f1f90ab165a45b7,vox/scripted/operators/prce/vox_prce_mtx_execute_rare_07.rn75.pc.en.snd
 6a20dc0471625035,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_esad_00.rn75.pc.en.snd
+1c582c3fda6417a3,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_point_blank_00.rn75.pc.en.snd
 11f83f3a5db72b30,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_rare_00.rn75.pc.en.snd
 bd4a9291575c855,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_rare_01.rn75.pc.en.snd
 6fe2ccc32bbc92fa,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_rare_02.rn75.pc.en.snd
@@ -395,6 +430,7 @@ bd4a9291575c855,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_rare_01.rn75.pc
 6e0871c52c039d0c,vox/scripted/operators/rmbo/vox_rmbo_mtx_execute_rare_04.rn75.pc.en.snd
 5b66ff177654b1,vox/scripted/operators/rmbo/vox_rmbo_mtx_execute_rare_05.rn75.pc.en.snd
 7c33dc66f4f1c6f1,vox/scripted/operators/rvas/vox_rvas_mtx_execute_esad_00.rn75.pc.en.snd
+7bc4bc515ef2c3f7,vox/scripted/operators/rvas/vox_rvas_mtx_execute_point_blank_00.rn75.pc.en.snd
 5ead6a48ec02b844,vox/scripted/operators/rvas/vox_rvas_mtx_execute_rare_00.rn75.pc.en.snd
 2e49fe91a0a7b009,vox/scripted/operators/rvas/vox_rvas_mtx_execute_rare_01.rn75.pc.en.snd
 29c501fe30c9913e,vox/scripted/operators/rvas/vox_rvas_mtx_execute_rare_02.rn75.pc.en.snd
@@ -404,6 +440,7 @@ bd4a9291575c855,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_rare_01.rn75.pc
 17f280ad251382f2,vox/scripted/operators/rvas/vox_rvas_mtx_execute_rare_06.rn75.pc.en.snd
 29fe7d676a044d6f,vox/scripted/operators/rvas/vox_rvas_mtx_execute_rare_07.rn75.pc.en.snd
 19a7aecbfd584f27,vox/scripted/operators/sala/vox_sala_mtx_execute_esad_00.rn75.pc.en.snd
+105013c459dc21e5,vox/scripted/operators/sala/vox_sala_mtx_execute_point_blank_00.rn75.pc.en.snd
 3b8b88b7b03c6c7e,vox/scripted/operators/sala/vox_sala_mtx_execute_rare_00.rn75.pc.en.snd
 4a27d9f1e6ef91db,vox/scripted/operators/sala/vox_sala_mtx_execute_rare_01.rn75.pc.en.snd
 4e6a8a15ae21884,vox/scripted/operators/sala/vox_sala_mtx_execute_rare_02.rn75.pc.en.snd
@@ -413,6 +450,7 @@ bd4a9291575c855,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_rare_01.rn75.pc
 5d40fd93f3e04e28,vox/scripted/operators/sala/vox_sala_mtx_execute_rare_06.rn75.pc.en.snd
 5c6e1ba32748512d,vox/scripted/operators/sala/vox_sala_mtx_execute_rare_07.rn75.pc.en.snd
 1dd3994ca65540fd,vox/scripted/operators/sims/vox_sims_mtx_execute_esad_00.rn75.pc.en.snd
+705e1570ffe078ab,vox/scripted/operators/sims/vox_sims_mtx_execute_point_blank_00.rn75.pc.en.snd
 60396b8ccdd87438,vox/scripted/operators/sims/vox_sims_mtx_execute_rare_00.rn75.pc.en.snd
 72b1fb596f00607d,vox/scripted/operators/sims/vox_sims_mtx_execute_rare_01.rn75.pc.en.snd
 6f5be8f57669fac2,vox/scripted/operators/sims/vox_sims_mtx_execute_rare_02.rn75.pc.en.snd
@@ -422,6 +460,7 @@ bd4a9291575c855,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_rare_01.rn75.pc
 486ad407e39bae0e,vox/scripted/operators/sims/vox_sims_mtx_execute_rare_06.rn75.pc.en.snd
 497edf38cb1527eb,vox/scripted/operators/sims/vox_sims_mtx_execute_rare_07.rn75.pc.en.snd
 5f006fcca1acc301,vox/scripted/operators/stch/vox_stch_mtx_execute_esad_00.rn75.pc.en.snd
+2ab247add587ce67,vox/scripted/operators/stch/vox_stch_mtx_execute_point_blank_00.rn75.pc.en.snd
 358eaa5b46d179f4,vox/scripted/operators/stch/vox_stch_mtx_execute_rare_00.rn75.pc.en.snd
 42b0eefa7250fef9,vox/scripted/operators/stch/vox_stch_mtx_execute_rare_01.rn75.pc.en.snd
 2db3b45e20bfb6e,vox/scripted/operators/stch/vox_stch_mtx_execute_rare_02.rn75.pc.en.snd
@@ -431,6 +470,7 @@ bd4a9291575c855,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_rare_01.rn75.pc
 1c045dc8a3d41322,vox/scripted/operators/stch/vox_stch_mtx_execute_rare_06.rn75.pc.en.snd
 7af7a8713dd6b25f,vox/scripted/operators/stch/vox_stch_mtx_execute_rare_07.rn75.pc.en.snd
 5e3b14ca9f26ba35,vox/scripted/operators/stry/vox_stry_mtx_execute_esad_00.rn75.pc.en.snd
+6ffb51c17e5ec5a3,vox/scripted/operators/stry/vox_stry_mtx_execute_point_blank_00.rn75.pc.en.snd
 61278008b7b9530,vox/scripted/operators/stry/vox_stry_mtx_execute_rare_00.rn75.pc.en.snd
 7feee1ef433a3255,vox/scripted/operators/stry/vox_stry_mtx_execute_rare_01.rn75.pc.en.snd
 63fd05895980fcfa,vox/scripted/operators/stry/vox_stry_mtx_execute_rare_02.rn75.pc.en.snd
@@ -440,6 +480,7 @@ bd4a9291575c855,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_rare_01.rn75.pc
 2ae0e8183d18c446,vox/scripted/operators/stry/vox_stry_mtx_execute_rare_06.rn75.pc.en.snd
 52a3411ed3817d63,vox/scripted/operators/stry/vox_stry_mtx_execute_rare_07.rn75.pc.en.snd
 7892301238311bab,vox/scripted/operators/weav/vox_weav_mtx_execute_esad_00.rn75.pc.en.snd
+1e7d6971746a19c1,vox/scripted/operators/weav/vox_weav_mtx_execute_point_blank_00.rn75.pc.en.snd
 5343f9eafc7efa4a,vox/scripted/operators/weav/vox_weav_mtx_execute_rare_00.rn75.pc.en.snd
 c54872f38df9fa7,vox/scripted/operators/weav/vox_weav_mtx_execute_rare_01.rn75.pc.en.snd
 7cd16d6f246ae800,vox/scripted/operators/weav/vox_weav_mtx_execute_rare_02.rn75.pc.en.snd
@@ -449,6 +490,7 @@ c54872f38df9fa7,vox/scripted/operators/weav/vox_weav_mtx_execute_rare_01.rn75.pc
 25c4082eb70dc11c,vox/scripted/operators/weav/vox_weav_mtx_execute_rare_06.rn75.pc.en.snd
 39d96fd857061581,vox/scripted/operators/weav/vox_weav_mtx_execute_rare_07.rn75.pc.en.snd
 1c4dcd15f7998cb1,vox/scripted/operators/wolf/vox_wolf_mtx_execute_esad_00.rn75.pc.en.snd
+eddf8c0cdc33fb7,vox/scripted/operators/wolf/vox_wolf_mtx_execute_point_blank_00.rn75.pc.en.snd
 5de4d80b9c025104,vox/scripted/operators/wolf/vox_wolf_mtx_execute_rare_00.rn75.pc.en.snd
 18fa62142c3962c9,vox/scripted/operators/wolf/vox_wolf_mtx_execute_rare_01.rn75.pc.en.snd
 1489b821f15ca4fe,vox/scripted/operators/wolf/vox_wolf_mtx_execute_rare_02.rn75.pc.en.snd
@@ -458,6 +500,7 @@ c54872f38df9fa7,vox/scripted/operators/weav/vox_weav_mtx_execute_rare_01.rn75.pc
 3aab336b0e08e5b2,vox/scripted/operators/wolf/vox_wolf_mtx_execute_rare_06.rn75.pc.en.snd
 30605d6e2d13792f,vox/scripted/operators/wolf/vox_wolf_mtx_execute_rare_07.rn75.pc.en.snd
 125fc29f1469e77b,vox/scripted/operators/wood/vox_wood_mtx_execute_esad_00.rn75.pc.en.snd
+bd65f310dc86571,vox/scripted/operators/wood/vox_wood_mtx_execute_point_blank_00.rn75.pc.en.snd
 51d67e8c0f7b5fba,vox/scripted/operators/wood/vox_wood_mtx_execute_rare_00.rn75.pc.en.snd
 4400442d80d03257,vox/scripted/operators/wood/vox_wood_mtx_execute_rare_01.rn75.pc.en.snd
 7a5dd5118a1e82f0,vox/scripted/operators/wood/vox_wood_mtx_execute_rare_02.rn75.pc.en.snd
@@ -467,6 +510,7 @@ c54872f38df9fa7,vox/scripted/operators/weav/vox_weav_mtx_execute_rare_01.rn75.pc
 2f333d33b043aa0c,vox/scripted/operators/wood/vox_wood_mtx_execute_rare_06.rn75.pc.en.snd
 4186326d9bb661b1,vox/scripted/operators/wood/vox_wood_mtx_execute_rare_07.rn75.pc.en.snd
 6e10a248f322d7ab,vox/scripted/operators/wrth/vox_wrth_mtx_execute_esad_00.rn75.pc.en.snd
+733fed57a16dedc1,vox/scripted/operators/wrth/vox_wrth_mtx_execute_point_blank_00.rn75.pc.en.snd
 48c26c21b770b64a,vox/scripted/operators/wrth/vox_wrth_mtx_execute_rare_00.rn75.pc.en.snd
 1d2f965f3d15ba7,vox/scripted/operators/wrth/vox_wrth_mtx_execute_rare_01.rn75.pc.en.snd
 724fdfa5df5ca400,vox/scripted/operators/wrth/vox_wrth_mtx_execute_rare_02.rn75.pc.en.snd
@@ -476,6 +520,7 @@ c54872f38df9fa7,vox/scripted/operators/weav/vox_weav_mtx_execute_rare_01.rn75.pc
 1b427a6571ff7d1c,vox/scripted/operators/wrth/vox_wrth_mtx_execute_rare_06.rn75.pc.en.snd
 2f57e20f11f7d181,vox/scripted/operators/wrth/vox_wrth_mtx_execute_rare_07.rn75.pc.en.snd
 1ac6499ee1036ea1,vox/scripted/operators/zyna/vox_zyna_mtx_execute_esad_00.rn75.pc.en.snd
+23fabba809fed47,vox/scripted/operators/zyna/vox_zyna_mtx_execute_point_blank_00.rn75.pc.en.snd
 1f8988bb448e2694,vox/scripted/operators/zyna/vox_zyna_mtx_execute_rare_00.rn75.pc.en.snd
 4e911cfeec132199,vox/scripted/operators/zyna/vox_zyna_mtx_execute_rare_01.rn75.pc.en.snd
 4a8686c93a84790e,vox/scripted/operators/zyna/vox_zyna_mtx_execute_rare_02.rn75.pc.en.snd
