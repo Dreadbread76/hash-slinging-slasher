@@ -1,0 +1,2 @@
+369e0ba811cbd273,veh_t8_civ_truck_mini_spawn_hood_wht
+3db32ea8155c57a5,veh_t8_civ_truck_mini_spawn_hood_tan
