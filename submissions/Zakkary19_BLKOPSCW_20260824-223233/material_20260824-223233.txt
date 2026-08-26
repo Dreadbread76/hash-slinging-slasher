@@ -1,0 +1,2 @@
+3d3b4ab13b115c57,vd/mtl_c_t8_zmb_dlc0_elephant_decal_blood_drip_wall_directional_01
+43276789bdd0ceea,vd/mtl_c_t8_zmb_dlc0_elephant_decal_blood_splatter_wall_directional_02
