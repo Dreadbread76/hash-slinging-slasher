@@ -1,0 +1,2 @@
+2a12008a395320a5,vm_slow_grenade_rh_pullpin
+5ce1a92c18099bbe,vm_frag_grenade_rh_pullpin
