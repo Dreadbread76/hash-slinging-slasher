@@ -1,0 +1,2 @@
+87a3c424aa19b3d,zmb_ai_stoker_shovel_impact_plr_swt
+5a24d26f47986f4c,zmb_ai_stoker_shovel_impact_npc_swt
