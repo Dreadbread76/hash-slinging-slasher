@@ -1,0 +1,3 @@
+9fc0f1ea00ab6e6,ui_icon_ultimate_lightninggun
+24ee4902c1f90669,ui_icon_ability_lightninggun
+25f3bd41ded87c54,fxt8_pstfx_fire_dmg_vignette
