@@ -1,0 +1,2 @@
+5b8c12691996024b,wpn_pistol_fullauto_d_rf_fire_pap_plr
+6423b368d67b4926,wpn_pistol_fullauto_d_rf_fire_pap_npc
