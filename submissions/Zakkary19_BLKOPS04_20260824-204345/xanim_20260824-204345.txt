@@ -1,0 +1,2 @@
+40ffc692f9c1cf8a,pt_sword_pistol_stand_melee_swipe_lvl1
+463784bf9ebd1b04,pt_sword_pistol_crouch_melee_swipe_lvl1
