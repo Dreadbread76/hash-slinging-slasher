@@ -1,0 +1,2 @@
+4eb0e86823e9ac3b,mc/mtl_veh_t8_mil_truck_att_extras_metal_black01_dirty
+6c5ae3c3314964a8,mc/mtl_veh_t8_mil_truck_att_body_front_black01_dirty
