@@ -1,0 +1,5 @@
+23636e8abe20002e,pt_rifle_stand_grab_gesture
+3cdc608d8282bcda,pt_crossbow_t8_first_raise_stand
+5cc77ae67bad3a74,pt_rifle_prone_grab_gesture
+5d8320dd435563e5,pt_brawler_stand_grab_gesture
+616af996505f9be2,vm_ir_strobe_gesture
