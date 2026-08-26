@@ -1,0 +1,2 @@
+655cb1e449f66f2b,mc/mtl_veh_t9_mil_air_cargo_prop_a_paint_gray_a
+655cb2e449f670de,mc/mtl_veh_t9_mil_air_cargo_prop_a_paint_gray_b
