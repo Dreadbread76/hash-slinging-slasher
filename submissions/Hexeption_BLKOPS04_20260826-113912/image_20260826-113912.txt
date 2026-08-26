@@ -1,0 +1,7 @@
+5cf7bff9d243aaa,mp_morocco_bc3_srgb_combo
+8c3224749a2c6f7,mp_hacienda_bc3_srgb_combo
+1d32a2a45478d65d,mp_austria_bc3_srgb_combo
+1dd113f5f80a6860,mp_station_bc3_srgb_combo
+4884aeaeacf18814,mp_seaside_bc3_srgb_combo
+5880fd0768973f63,mp_casino_bc3_srgb_combo
+5c6e0ad432b3496f,mp_militia_bc3_srgb_combo
