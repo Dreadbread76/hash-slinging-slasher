@@ -1,0 +1,7 @@
+7d1fe96b023a9a1,mp_austria_bc7_srgb_combo
+36a098fa372d80fb,zm_escape_bc7_srgb_combo
+3adcca7d8561196f,mp_casino_bc7_srgb_combo
+6756a4af61353c77,zm_zodt8_bc7_srgb_combo
+7384e4047682fcae,mp_morocco_bc7_srgb_combo
+741077d41f518ad4,mp_station_bc7_srgb_combo
+7a123d5e15e96f63,mp_militia_bc7_srgb_combo
