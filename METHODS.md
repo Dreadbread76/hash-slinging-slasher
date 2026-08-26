@@ -249,7 +249,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | measured tails of length 8 | 2 | 6 | 271 | 753,428,154,966 | 2,780,177,693 | 1,435,820,931 | 2,357,317,948 | 2026-08-25 | 2026-08-25 | live |
 | measured tails of length 4 | 1 | 4 | 69 | 192,512,386,856 | 2,790,034,592 | 1,850,196,005 | 3,210,073,152 | 2026-08-25 | 2026-08-25 | live |
 | measured heads of length 28 | 1 | 2 | 92 | 257,912,038,902 | 2,803,391,727 | 2,433,132,442 | 2,433,132,442 | 2026-08-25 | 2026-08-25 | live |
-| all-boundary cores x uncarried endings | 1 | 16 | 964 | 2,863,502,634,740 | 2,970,438,417 | 594,582,025 | 89,501,095,002 | 2026-08-25 | 2026-08-26 | spent |
+| all-boundary cores x uncarried endings | 1 | 17 | 1,005 | 3,042,423,023,926 | 3,027,286,590 | 594,582,025 | 89,501,095,002 | 2026-08-25 | 2026-08-26 | spent |
 | measured heads of length 5 | 1 | 1 | 1 | 3,218,726,238 | 3,218,726,238 | 3,218,726,238 | 3,218,726,238 | 2026-08-25 | 2026-08-25 | untried |
 | image cores borrowed, image decorations measured | 1 | 11 | 649 | 2,116,221,088,000 | 3,260,741,275 | 1,015,745,750 | 1,117,830,750 | 2026-08-24 | 2026-08-24 | live |
 | measured tails of length 28 | 1 | 2 | 57 | 199,395,031,004 | 3,498,158,438 | 1,917,259,913 | 1,917,259,913 | 2026-08-25 | 2026-08-25 | live |
@@ -359,7 +359,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-282 distinct methods, run 329 ways between them, across 1291 runs. `names` is what each run
+282 distinct methods, run 329 ways between them, across 1292 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
