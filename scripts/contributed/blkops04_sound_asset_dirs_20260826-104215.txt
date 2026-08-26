@@ -1,0 +1,9 @@
+lmg_vox/
+lmg_vox/scripted/
+lmg_vox/scripted/zm_operators/
+lmg_vox/scripted/zm_operators/bdzr/
+mc/
+p8_foliage_/
+p8_foliage_/scripted/
+p8_foliage_/scripted/mpl/
+p8_foliage_/scripted/mpl/anme/
