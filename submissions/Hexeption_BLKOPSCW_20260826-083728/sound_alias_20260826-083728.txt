@@ -1,0 +1,2 @@
+326014448fafac03,wpn_doa_buzzsaw_fire_npc
+7f841d4473314dde,wpn_doa_buzzsaw_fire_plr
