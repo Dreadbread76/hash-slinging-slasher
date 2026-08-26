@@ -1,0 +1,2 @@
+654758ccfb669020,attach_t8_pistol_standard_quickdraw_plate_world_sig01
+7253d78c43dd8fbf,attach_t8_pistol_standard_quickdraw_plate_view_sig01
