@@ -48,7 +48,11 @@ seconds regardless of corpus size. See `scripts/final_byte.py` for the arithmeti
 """
 import argparse, glob, os, sys
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT = os.path.dirname(os.path.abspath(__file__))
+while ROOT != os.path.dirname(ROOT) and not os.path.isfile(
+    os.path.join(ROOT, "scripts", "snapshot.py")
+):
+    ROOT = os.path.dirname(ROOT)
 sys.path.insert(0, os.path.join(ROOT, "scripts"))
 import snapshot  # noqa: E402
 

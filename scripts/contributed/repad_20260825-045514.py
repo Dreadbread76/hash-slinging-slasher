@@ -26,7 +26,11 @@ never more than one edit from a name known to be real -- the shape METHODS recor
 """
 import os, re, sys
 
-REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+REPO = os.path.dirname(os.path.abspath(__file__))
+while REPO != os.path.dirname(REPO) and not os.path.isfile(
+    os.path.join(REPO, "scripts", "snapshot.py")
+):
+    REPO = os.path.dirname(REPO)
 sys.path.insert(0, os.path.join(REPO, "scripts"))
 import snapshot  # noqa: E402
 

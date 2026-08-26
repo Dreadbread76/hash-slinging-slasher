@@ -36,7 +36,11 @@ Both directions live here rather than in two files because they differ by one sl
 import argparse, os, sys
 from collections import Counter
 
-REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+REPO = os.path.dirname(os.path.abspath(__file__))
+while REPO != os.path.dirname(REPO) and not os.path.isfile(
+    os.path.join(REPO, "scripts", "snapshot.py")
+):
+    REPO = os.path.dirname(REPO)
 sys.path.insert(0, os.path.join(REPO, "scripts"))
 import snapshot  # noqa: E402
 

@@ -38,7 +38,11 @@ keeping whatever lands on a Black Ops 4 sound_asset id.
 import os, re, sys, glob
 from collections import Counter
 
-_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+_root = os.path.dirname(os.path.abspath(__file__))
+while _root != os.path.dirname(_root) and not os.path.isfile(
+    os.path.join(_root, "scripts", "snapshot.py")
+):
+    _root = os.path.dirname(_root)
 sys.path.insert(0, os.path.join(_root, "scripts"))
 import snapshot
 
