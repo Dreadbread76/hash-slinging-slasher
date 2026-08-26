@@ -1,0 +1,2 @@
+18f9149bdfa4c740,t8_hud_waypoints_drone_hunter_scaled_down
+2f0b23b36b617c01,minimap_collapse_ring
