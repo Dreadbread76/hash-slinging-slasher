@@ -1,0 +1,4 @@
+3e87acdd23822bc,vm_mtx_t9_dw_cigar_additive
+3a3e86927449f73f,pt_pistol_t9_pi_semiauto_dw_prone_inspect
+52e9a00379f76868,pt_pistol_t9_pi_burst_dw_stand_inspect
+5f68981c0736f46f,pt_pistol_t9_pi_revolver_dw_stand_inspect
