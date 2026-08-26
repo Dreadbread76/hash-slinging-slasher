@@ -1,0 +1,1 @@
+197010dfbc5d2059,wpn_pistol_fullauto_d_rf_fire_dist_npc
