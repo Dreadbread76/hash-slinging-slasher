@@ -1,0 +1,1 @@
+37bd046aa9367a77,wpn_pistol_fullauto_d_sup_fire_dist_npc
