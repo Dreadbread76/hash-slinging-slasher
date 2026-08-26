@@ -80,6 +80,19 @@ a program that prints names; anything that can print names is a method.
 |---|---|
 | `tend.sh` | **The maintainer's, not a method.** Merges submission pull requests as they land and deletes the branches behind them, refusing anything that touches code and holding any new or changed generator for a human to read. Nothing an agent should run. |
 
+### Not accepted
+
+One contributed script has been refused and removed. The submission it arrived with was merged --
+the names were confirmed and are kept -- but the script itself is not in the repository and should
+not be re-added.
+
+| script | |
+|---|---|
+| `overnight_suite_20260826-004415.py` | **Not allowed.** A fixed grinding rotation. This project is driven by an assistant deciding what to run next; a script that removes that decision is not accepted here, regardless of what it contains or how well it is written. See section 2 of `AGENTS.md`. |
+
+This is a standing rule, not a judgement about one contributor. Anything of the same shape will be
+refused the same way, and the names that come with it will still be kept.
+
 ## Contributing a script
 
 The easiest way is to name it when you confirm:
