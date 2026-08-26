@@ -78,7 +78,7 @@ a program that prints names; anything that can print names is a method.
 
 | script | |
 |---|---|
-| `tend.sh` | **The maintainer's, not a method.** Merges submission pull requests as they land and deletes the branches behind them, refusing anything that touches code and holding any new or changed generator for a human to read. Nothing an agent should run. |
+| `tend.sh` | **The maintainer's, not a method.** Merges submission pull requests as they land and deletes the branches behind them, refusing anything that touches code, holding any new or changed generator for a human to read, and waiting for each pull request's checks to have run and passed. Nothing an agent should run. |
 
 ### Not accepted
 
