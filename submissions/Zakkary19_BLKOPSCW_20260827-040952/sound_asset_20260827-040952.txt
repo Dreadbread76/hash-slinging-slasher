@@ -1,0 +1,10 @@
+119a176cc29e007d,uin/2k20/battlepass/pass_purchase/battlepass_purchase_s8.sn75.pc.all.snd
+25cb44ac8c3b8131,uin/2k20/battlepass/pass_purchase/battlepass_purchase_s4.sn75.pc.all.snd
+2a3bc7733ee7f534,uin/2k20/battlepass/pass_purchase/battlepass_purchase_s7.sn75.pc.all.snd
+3615e68a782c5177,uin/2k20/battlepass/global_purchase/bik_mtx_global_purchase_confirmed_s3.sn75.pc.all.snd
+45a2daf5e70f41e2,uin/2k20/battlepass/global_purchase/bik_mtx_global_purchase_confirmed_s4.sn75.pc.all.snd
+4e8b1614c95feec8,uin/2k20/battlepass/pass_purchase/battlepass_purchase_s3.sn75.pc.all.snd
+532ff1e4d8a4f417,uin/2k20/battlepass/pass_purchase/battlepass_purchase_s6.sn75.pc.all.snd
+5342a42c6388da2e,uin/2k20/battlepass/pass_purchase/battlepass_purchase_s5.sn75.pc.all.snd
+59dd4fca87f92265,uin/2k20/battlepass/global_purchase/bik_mtx_global_purchase_confirmed_s5.sn75.pc.all.snd
+6596a799d409f928,uin/2k20/battlepass/global_purchase/bik_mtx_global_purchase_confirmed_s6.sn75.pc.all.snd
