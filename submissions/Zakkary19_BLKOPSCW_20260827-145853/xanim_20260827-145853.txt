@@ -1,0 +1,3 @@
+1e277c230f8fde66,pt_pistol_briefcase_t9_prone_fem_reload
+4bfc16e523bb5a84,pt_pistol_briefcase_t9_crouch_fem_reload
+4f3ea39a52befd8c,pt_pistol_briefcase_t9_stand_fem_reload
