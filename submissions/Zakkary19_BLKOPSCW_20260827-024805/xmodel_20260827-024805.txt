@@ -1,0 +1,2 @@
+8c915dc631fdf9e,c_t9_zmb_gold_zombie_omega_soldier_head_balaclava
+375c809c285a1eb5,c_t9_zmb_sv_zombie_omega_soldier_head_balaclava
