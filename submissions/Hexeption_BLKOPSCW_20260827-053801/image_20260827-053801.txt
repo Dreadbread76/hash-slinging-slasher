@@ -1,0 +1,2 @@
+3fc7e24a95da300d,theater_lighter_move_cancel
+5c9c0d644e269514,theater_lighter_edit_exit
