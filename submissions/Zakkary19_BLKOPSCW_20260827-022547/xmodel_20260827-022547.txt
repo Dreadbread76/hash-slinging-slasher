@@ -1,0 +1,2 @@
+5fdbed789502e93e,c_t9_zmb_sv_zombie_omega_soldier_body_2_g_larmoff
+7caa36ba71767e04,c_t9_zmb_sv_zombie_omega_soldier_body_2_g_rarmoff
