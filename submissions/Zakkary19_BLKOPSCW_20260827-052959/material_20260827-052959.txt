@@ -1,0 +1,2 @@
+4b492bab201583de,clt/mtl_p8_news_camera_set_plastic_black_matt
+77bd92fbc696b3a2,cltp/mtl_p8_news_camera_set_plastic_black_matt
