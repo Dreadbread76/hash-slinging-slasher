@@ -1,0 +1,3 @@
+52469a9f8411494b,el/gfx9_lightning_beam_trail_hdrg
+594659d41db8a10c,el/gfx9_sam_trail_smoke_hdrg
+71bd66d55b1fa5fb,el/gfx9_lightning_bolt_trail_hdrg
