@@ -1,0 +1,8 @@
+fa9d6d519eb09c5,mtl_sky_cookie
+125cdb9e48b50411,bloom_final_output
+1bbc614afb5c46de,bloom_colorgrade_lut3d
+39224308dc463599,passthru_alpha_scene
+49e237f89eab306b,passthru_alpha_postfx
+5f6a13e6656be363,bloom_antialias
+71aacce32ed1d777,noncombat_stage4
+7b51a36a25e52e8e,spot_shadowoverlay
