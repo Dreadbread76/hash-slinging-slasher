@@ -1,0 +1,2 @@
+2723d9e93175a04b,mc/mtl_c_t8_mp_spe_seraph_cw1_forearm_armor_exo1_cst
+75540af04cd1c560,mc/mtl_c_t8_mp_spe_seraph_cw2_forearm_armor_exo1_cst
