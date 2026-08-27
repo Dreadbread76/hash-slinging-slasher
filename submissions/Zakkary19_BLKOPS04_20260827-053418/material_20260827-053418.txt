@@ -1,0 +1,4 @@
+24f0bfbe7a3a03e0,mc/mtl_p8_news_camera_set_plastic_gray_glossy
+4a52bd270999ee12,mc/mtl_p8_news_camera_set_plastic_red_glossy
+638abb3af3e653ab,mc/mtl_veh_t8_mil_apc_macv_front_top_metalred
+7292aae4fc4e6294,mc/mtl_veh_t8_mil_apc_macv_front_top_metalred_dirty
