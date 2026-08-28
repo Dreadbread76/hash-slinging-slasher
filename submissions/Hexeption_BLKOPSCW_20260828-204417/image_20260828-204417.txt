@@ -1,0 +1,2 @@
+7cfa5f125be2ba70,i_wpn_t9_smg_heavy_stock_base_emissive_blade_c
+7cfa6d125be2d23a,i_wpn_t9_smg_heavy_stock_base_emissive_blade_m
