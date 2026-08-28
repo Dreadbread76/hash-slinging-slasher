@@ -1,0 +1,3 @@
+23ebf31d22eaece5,mc/mtl_p8_cas_lob_door_large_wood
+3080c45c9604b383,mc/mtl_p8_ice_mb_lift_02_barrier_metal
+4cbdd22ee8c6bf9e,mc/mtl_p8_afr_window_24x48_shutter_01_wood
