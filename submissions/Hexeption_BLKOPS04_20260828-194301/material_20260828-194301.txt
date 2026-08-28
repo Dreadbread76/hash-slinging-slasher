@@ -1,0 +1,2 @@
+234f27e60574b619,mc/mtl_veh_t8_mil_truck_att_extras_metal_black02_dirty_mp_light
+5c4b9f143e6c0ae7,mc/mtl_veh_t8_mil_truck_att_extras_metal_black02_dirty_mp_dark
