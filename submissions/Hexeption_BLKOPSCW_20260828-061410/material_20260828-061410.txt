@@ -1,0 +1,2 @@
+1cc36d673a52c083,mc/mtl_p9_rm_zoo2_aquarium_house_dome_wear
+6a99e3fb3dc8519c,mc/mtl_p9_rm_zoo2_door_wood_single_wear
