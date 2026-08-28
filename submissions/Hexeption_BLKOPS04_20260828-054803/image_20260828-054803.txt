@@ -1,0 +1,2 @@
+46acd6b676d1c38e,i_mtl_veh_t8_civ_cube_truck_rear_bumper_dead
+4798efff6b508e4d,i_mtl_veh_t8_civ_cube_truck_front_bumper_dead
