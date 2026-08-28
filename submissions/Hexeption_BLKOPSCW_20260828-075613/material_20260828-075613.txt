@@ -1,0 +1,2 @@
+519e409fc6f9922,mc/mtl_p9_rm_zoo2_monorail_rail_service_metal_08
+27b6c88397568b6f,mc/mtl_veh_t9_mil_ru_truck_gaz_tigr_body_main_back_surface
