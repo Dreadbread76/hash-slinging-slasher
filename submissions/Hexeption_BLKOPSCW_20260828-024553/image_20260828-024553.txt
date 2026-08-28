@@ -1,0 +1,7 @@
+34e3f409d9bb709,$white_image3d
+fa7438b2ce73517,$ggx_energy_compensation
+243c2eb6198c20e9,$fltc_mat
+3a1ba102075a10d4,$pqhdr_to_bt709_tex3d
+44217f94f1a1b861,$thinfilm_lookup
+47ade6b62dd9299d,$fltc_amp
+64cc44c4f029b1a3,$black_image3d
