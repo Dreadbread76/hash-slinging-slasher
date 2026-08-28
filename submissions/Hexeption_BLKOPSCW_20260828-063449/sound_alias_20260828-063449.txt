@@ -1,0 +1,4 @@
+138fba0237073649,zmb_mq_boss_phase_player_dot
+3cde91717ade80e3,zmb_doa_ai_plaguehound_vocal_walk
+5d6f0fad8b437e16,zmb_doa_ai_hellhound_vocal_walk
+6b133b0dbef0797c,zmb_doa_ai_ghosthound_vocal_walk
