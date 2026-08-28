@@ -1,0 +1,3 @@
+5dcb78bc34c79ed9,i_pstfx_zm_man_curse_n
+5dcb83bc34c7b18a,i_pstfx_zm_man_curse_c
+5dcb94bc34c7ce6d,i_pstfx_zm_man_curse_r
