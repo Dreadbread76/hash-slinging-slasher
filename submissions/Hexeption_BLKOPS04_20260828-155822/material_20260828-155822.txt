@@ -1,0 +1,4 @@
+63a71e1eb451c67,mc/mtl_c_t8_mp_spe_ruin_viking1_forearm_armor_com
+10d92d2917946e61,mc/mtl_veh_t7_mphd_gaz_tigr_dead_body_main_back_metal
+10ea839cdf9647ce,mc/mtl_p8_jpn_square_ceiling_lamp_01_dirt
+21497ae57a9e910d,mc/mtl_c_t8_bo_zombie_male_shirtsleeves_1
