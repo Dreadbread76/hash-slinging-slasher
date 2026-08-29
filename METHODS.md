@@ -301,7 +301,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | cold war, uncarried three-segment endings | 1 | 2 | 742 | 42,578,054,890 | 57,382,823 | 23,804,371 | 203,050,496 | 2026-08-23 | 2026-08-23 | cooling |
 | cold war sound, uncarried two-segment endings | 1 | 1 | 195 | 11,273,898,861 | 57,814,865 | 57,814,865 | 57,814,865 | 2026-08-23 | 2026-08-23 | untried |
 | uncarried two-segment endings over the full published core list | 1 | 2 | 264 | 20,951,727,534 | 79,362,604 | 72,749,053 | 87,298,864 | 2026-08-23 | 2026-08-23 | live |
-| confirmed-only all-boundary cores x uncarried endings | 2 | 15 | 1,176 | 95,698,656,977 | 81,376,408 | 29,860,502 | 431,098,060 | 2026-08-26 | 2026-08-29 | spent |
+| confirmed-only all-boundary cores x uncarried endings | 2 | 16 | 1,184 | 102,597,825,968 | 86,653,569 | 29,860,502 | 862,396,123 | 2026-08-26 | 2026-08-29 | spent |
 | character substitution material current | 1 | 1 | 5 | 466,937,880 | 93,387,576 | 93,387,576 | 93,387,576 | 2026-08-25 | 2026-08-25 | untried |
 | char substitutions cw | 1 | 3 | 41 | 3,975,824,680 | 96,971,333 | 66,239,055 | 265,122,255 | 2026-08-24 | 2026-08-25 | cooling |
 | char substitutions bo4 | 1 | 2 | 23 | 2,650,269,779 | 115,229,120 | 94,629,420 | 147,273,098 | 2026-08-24 | 2026-08-24 | live |
@@ -490,7 +490,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-412 distinct methods, run 472 ways between them, across 1734 runs. `names` is what each run
+412 distinct methods, run 472 ways between them, across 1735 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
