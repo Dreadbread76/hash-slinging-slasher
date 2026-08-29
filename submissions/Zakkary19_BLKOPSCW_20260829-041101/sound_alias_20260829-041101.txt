@@ -1,0 +1,3 @@
+7948d01b75c340f,evt_sur_mq1_stp6_monkey_trap_drop
+9e6f00b90946d4c,zmb_powerup_chalice_bronze_spawn
+3cb51e23a18e2499,zmb_powerup_chalice_bronze_pickup
