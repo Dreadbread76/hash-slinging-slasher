@@ -43,7 +43,7 @@ python scripts/coverage.py --five                where the unnamed assets actual
 | 24 | measured image channels | `image`, through the channels method 13's hand-written list omits | `scripts/contributed/image_channels_wide_20260823-043005.py` | 36 names, but it widens a derivation `derive_closure` re-runs every round: 231 of 250 real channels were uncarried, `_thermalmap` alone heads 16,000 |
 | 25 | all-boundary cores | every method built as core x ending | `scripts/contributed/uncarried_endings_allboundary_20260823-134935.py` -> `confirm_plan` | **the most productive change measured on 2026-08-23.** Not a new method -- a fix to how every ending sweep builds its cores. Turned 2,065 names into 2,553 while using five times fewer endings, and 1,385 sound names into 1,746 in a single pass |
 | 30 | family grid completion | `sound_alias` above all | `scripts/unnamed_profile.py --grid`, `contrib/family_grid.py` -> `confirm_list` | **23 on Black Ops 4, and `derive_closure` turned those into 102 more.** Rank families by tails shared across more than one axis value, not by raw product: `i_` looks like 158 M cells and collapses to 694 K under that, because it is not a grid, it is every name beginning `i_` |
-| 31 | beginnings the ceiling drops | any type, through the beginnings `data/prefixes.txt` measures and then **discards for want of a slot** | `scripts/contributed/ceiling_dropped_begins_20260829-064955.py` -> `confirm_plan` | **9 on Cold War sound, and `derive_closure` turned them into 18 more.** Distinct from 22/23: those are endings the list never measured, these are beginnings it *did* measure and the 700 ceiling threw away. Spent by nothing yet; re-run after any pass that grows the corpus, since the cut list changes |
+| 31 | beginnings the ceiling drops | any type, through the beginnings `data/prefixes.txt` measures and then **discards for want of a slot** | `scripts/contributed/ceiling_dropped_begins_20260829-064955.py` -> `confirm_plan` | **9 on Cold War sound, and `derive_closure` turned them into 18 more; 1 more on the general half.** Distinct from 22/23: those are endings the list never measured, these are beginnings it *did* measure and the 700 ceiling threw away. Spent by nothing yet; re-run after any pass that grows the corpus, since the cut list changes |
 | — | localize unfolding | `localizeentry` | `confirm_localize` | **off, and refuses to run.** Worthless — see dead ends |
 
 ### Every method that has actually been run
@@ -1499,8 +1499,16 @@ The 153 are not exotic. They are ordinary Cold War sound paths too deep for a 70
 
 Nothing yet, and it does not decay the way a recombination does: the cut list is recomputed from
 the corpus, so **every pass that confirms names changes which beginnings the ceiling drops**. Re-run
-it after any gain. The general lists have the same hole -- `--general` aims it there -- and that
-half is unmeasured.
+it after any gain.
+
+**The general half is measured too, and it is much the thinner of the two.** `prefixes.txt` drops
+27 beginnings against `sound.prefixes.txt`'s 153, and 27 x 1,771,555 all-boundary cores x 4,629
+endings -- 230 billion candidates -- returned **1 name**, with the closure adding nothing on top.
+Two reasons, and both were visible beforehand: five of the 27 are `mcdp/` cuts, which method 19
+already mined for 2,846, and the rest are single deep paths (`vdd/gfx_english/sound/vox/...`,
+`zombietron_raw/portuguese/...`) rather than families. The sound side is where this method lives:
+there the cap is binding on a list that is genuinely short of slots, and `xsounds` sits at 10.7%
+named because of it.
 
 The honest ceiling on it is the cap itself: 153 beginnings is all a 700-slot file is currently
 hiding, so this is a seam rather than a mine. Raising `MOST_PREFIXES` would close it altogether,
