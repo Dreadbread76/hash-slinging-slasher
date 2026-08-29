@@ -1,0 +1,3 @@
+10af79a09228c04c,p8_plaster_stucco_corner_damaged_01_64
+1221534bf59d151b,p8_plaster_stucco_corner_01_32_top
+38684d9020641b1a,p8_plaster_stucco_corner_damaged_03_64
