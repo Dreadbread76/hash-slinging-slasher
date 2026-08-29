@@ -7,7 +7,11 @@ inventing a replacement alphabet.
 import os
 import sys
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT = os.path.dirname(os.path.abspath(__file__))
+while ROOT != os.path.dirname(ROOT) and not os.path.isfile(
+    os.path.join(ROOT, "scripts", "snapshot.py")
+):
+    ROOT = os.path.dirname(ROOT)
 sys.path.insert(0, os.path.join(ROOT, "scripts"))
 import snapshot
 

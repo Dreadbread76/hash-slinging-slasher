@@ -7,7 +7,9 @@ reaching combinations no cross-pool pass can express.
 import pathlib, re, sys
 from collections import defaultdict, Counter
 
-ROOT = pathlib.Path(__file__).resolve().parent.parent
+ROOT = pathlib.Path(__file__).resolve().parent
+while ROOT != ROOT.parent and not (ROOT / "scripts" / "snapshot.py").is_file():
+    ROOT = ROOT.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 import snapshot
 

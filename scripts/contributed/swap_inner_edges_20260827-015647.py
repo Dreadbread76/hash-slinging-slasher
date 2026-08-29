@@ -1,6 +1,12 @@
 """Swap the second and penultimate basename characters."""
 import os,sys
-sys.path.insert(0,os.path.join(os.path.dirname(__file__),"..","scripts")); import snapshot
+_root = os.path.dirname(os.path.abspath(__file__))
+while _root != os.path.dirname(_root) and not os.path.isfile(
+    os.path.join(_root, "scripts", "snapshot.py")
+):
+    _root = os.path.dirname(_root)
+sys.path.insert(0, os.path.join(_root, "scripts"))
+import snapshot
 TABLES=("fnv1a_xmaterials","fnv1a_ximages","fnv1a_xmodels","fnv1a_xanims")
 def main():
  names=set(snapshot.table_names(*TABLES)); names.update(snapshot.confirmed_names()); out=set()

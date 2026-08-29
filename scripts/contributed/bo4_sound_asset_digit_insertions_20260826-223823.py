@@ -7,7 +7,9 @@ from tail replacement and directory/basename recombination.
 import pathlib
 import sys
 
-ROOT = pathlib.Path(__file__).resolve().parents[1]
+ROOT = pathlib.Path(__file__).resolve().parent
+while ROOT != ROOT.parent and not (ROOT / "scripts" / "snapshot.py").is_file():
+    ROOT = ROOT.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 import snapshot
 

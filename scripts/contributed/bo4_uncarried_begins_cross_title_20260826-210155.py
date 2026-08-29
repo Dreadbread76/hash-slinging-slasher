@@ -8,7 +8,9 @@ import collections
 import pathlib
 import sys
 
-ROOT = pathlib.Path(__file__).resolve().parent.parent
+ROOT = pathlib.Path(__file__).resolve().parent
+while ROOT != ROOT.parent and not (ROOT / "scripts" / "snapshot.py").is_file():
+    ROOT = ROOT.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 import seams
 import snapshot

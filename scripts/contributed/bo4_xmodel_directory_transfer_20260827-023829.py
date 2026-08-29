@@ -1,7 +1,9 @@
 """Transfer observed xmodel basenames across observed xmodel directories."""
 import sys
 from pathlib import Path
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent
+while ROOT != ROOT.parent and not (ROOT / "scripts" / "snapshot.py").is_file():
+    ROOT = ROOT.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 import snapshot
 names = {n.strip().lower().replace("\\", "/") for n in snapshot.table_names("fnv1a_xmodels") if n.strip()}

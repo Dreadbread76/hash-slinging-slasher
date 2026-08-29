@@ -1,7 +1,9 @@
 """Move the first underscore token of each known BO4 non-sound basename to the end."""
 import sys
 from pathlib import Path
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent
+while ROOT != ROOT.parent and not (ROOT / "scripts" / "snapshot.py").is_file():
+    ROOT = ROOT.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 import snapshot
 tables = ("fnv1a_xmodels", "fnv1a_xmaterials", "fnv1a_ximages", "fnv1a_xanims")

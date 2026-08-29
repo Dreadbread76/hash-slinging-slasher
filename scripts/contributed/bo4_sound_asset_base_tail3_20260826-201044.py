@@ -1,6 +1,8 @@
 """Build a BO4 sound_asset plan by replacing the final three base-path bytes."""
 import argparse, collections, itertools, os, pathlib, sys
-ROOT = pathlib.Path(__file__).resolve().parents[1]
+ROOT = pathlib.Path(__file__).resolve().parent
+while ROOT != ROOT.parent and not (ROOT / "scripts" / "snapshot.py").is_file():
+    ROOT = ROOT.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 import snapshot
 

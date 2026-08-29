@@ -4,7 +4,11 @@ This probes zero-padding and other two-character spelling changes that one-chara
 reach.  Directory components are preserved; only the basename is edited.
 """
 import argparse, os, sys
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT = os.path.dirname(os.path.abspath(__file__))
+while ROOT != os.path.dirname(ROOT) and not os.path.isfile(
+    os.path.join(ROOT, "scripts", "snapshot.py")
+):
+    ROOT = os.path.dirname(ROOT)
 sys.path.insert(0, os.path.join(ROOT, "scripts"))
 import snapshot
 
