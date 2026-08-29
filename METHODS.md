@@ -2205,6 +2205,33 @@ to identify anything. This paragraph originally closed by calling the cross unme
 true when it was written and was overtaken within the day; it is kept because the reasoning that
 motivated it is still the right reasoning, and only its conclusion moved.
 
+### Which segment depth pays, measured across all five — 2026-08-29
+
+Method 25 is usually run at the depth somebody happened to pick. Swept properly against Cold War
+sound on one afternoon, on freshly generated lists each time, the depths are not close:
+
+| segments | endings offered | names | closure on top |
+|---|---|---|---|
+| 1 | 28,627 | 46 | -- |
+| **2** | **157,824** | **634** | **47** |
+| 3 | 200,000 | 49 | 2 |
+| 4 | 300,000 | 66 | 0 |
+| 5 | 300,000 | 17 | 21 |
+
+**Depth 2 is worth roughly ten times any other**, and it is not because it was offered more
+endings -- depths 3, 4 and 5 were each offered more and returned a fraction. Two segments is
+simply where a sound name's ending actually lives: long enough to identify a real tail
+(`.ln100.pc.snd`), short enough that the core in front of it is still shared across many names.
+
+Depth 2 is also the one that *exhausts*: the corpus holds only 157,846 uncarried two-segment sound
+endings, so `--top 200000` already takes all of them and a larger `--top` changes nothing. The
+deeper lists are nowhere near exhausted and still return little, which is the same statement from
+the other side.
+
+**Run depth 2 first, and take the whole list.** 418 of the 634 came back already claimed by
+another contributor working the same seam the same day, which is what a productive seam looks
+like rather than a problem -- `submit` dropped them and sent the 216 that were new.
+
 ## Aim at the unnamed distribution, not the published one
 
 Written 2026-08-23. It is the most useful hour of that day and it cost no machine time at all.
