@@ -1,0 +1,17 @@
+"""Append a duplicate of the first basename token to known non-sound names."""
+import os, sys
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "scripts"))
+import snapshot
+
+tables = ("fnv1a_xmaterials", "fnv1a_ximages", "fnv1a_xmodels", "fnv1a_xanims")
+names = set(snapshot.table_names(*tables)); names.update(snapshot.confirmed_names())
+for name in sorted(names):
+    d, sep, b = name.rpartition("/")
+    if not sep:
+        d, b = "", name
+    tokens = b.split("_")
+    if len(tokens) < 3:
+        continue
+    candidate = (d + "/" if d else "") + "_".join(tokens + [tokens[0]])
+    if candidate not in names:
+        print(candidate)
