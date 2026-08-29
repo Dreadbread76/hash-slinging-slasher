@@ -1,0 +1,2 @@
+a50a55065cf0474,pt_shotgun_t9_semiauto_prone_pullout_first
+2a21b31a570126b6,pt_shotgun_t9_semiauto_stand_pullout_first
