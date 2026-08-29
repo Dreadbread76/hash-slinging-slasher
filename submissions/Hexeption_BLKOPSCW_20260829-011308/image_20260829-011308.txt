@@ -1,0 +1,2 @@
+2e991a153f25ec24,i_mtl_p9_sur_console_control_01_decal_omega_logo_r
+2e992b153f260907,i_mtl_p9_sur_console_control_01_decal_omega_logo_c
