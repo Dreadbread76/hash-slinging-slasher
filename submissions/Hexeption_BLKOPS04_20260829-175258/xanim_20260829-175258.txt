@@ -1,0 +1,2 @@
+61c071e7c37cf7a,pb_emote_shared_male_circle_of_death
+11815f7d16c73a49,pb_emote_shared_fem_circle_of_death
