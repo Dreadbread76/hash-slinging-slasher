@@ -154,9 +154,9 @@ table under a name you would not have guessed is the thing you are about to rebu
 | cold war material token edits after new findings | 1 | 1 | 90 | 32,460,299 | 360,669 | 360,669 | 360,669 | 2026-08-26 | 2026-08-26 | untried |
 | deep image channel completion after pr979 | 1 | 1 | 10 | 3,766,987 | 376,698 | 376,698 | 376,698 | 2026-08-27 | 2026-08-27 | untried |
 | \ refreshed mcdp material core redecorations\ | 1 | 1 | 3 | 1,199,830 | 399,943 | 399,943 | 399,943 | 2026-08-29 | 2026-08-29 | untried |
-| corpus-mined substitutions | 3 | 8 | 386 | 158,306,742 | 410,121 | 89,416 | 4,208,547 | 2026-08-25 | 2026-08-29 | spent |
 | rare shared-token splices family size 121-240 | 1 | 2 | 29 | 12,188,574 | 420,295 | 320,751 | 320,751 | 2026-08-28 | 2026-08-28 | live |
 | cross-game sound stem transfer | 1 | 1 | 27 | 11,737,632 | 434,727 | 434,727 | 434,727 | 2026-08-20 | 2026-08-20 | untried |
+| corpus-mined substitutions | 3 | 9 | 405 | 179,349,510 | 442,838 | 89,416 | 1,107,514 | 2026-08-25 | 2026-08-29 | spent |
 | shared-tail family grid follow-up | 1 | 1 | 8 | 3,578,096 | 447,262 | 447,262 | 447,262 | 2026-08-26 | 2026-08-26 | untried |
 | rare shared-token splices families 13801-14100 | 1 | 2 | 15 | 7,293,903 | 486,260 | 260,496 | 260,496 | 2026-08-28 | 2026-08-28 | live |
 | mined substitutions, ranking tail | 1 | 1 | 237 | 129,160,520 | 544,981 | 544,981 | 544,981 | 2026-08-25 | 2026-08-25 | untried |
@@ -485,7 +485,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-407 distinct methods, run 465 ways between them, across 1676 runs. `names` is what each run
+407 distinct methods, run 465 ways between them, across 1677 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
