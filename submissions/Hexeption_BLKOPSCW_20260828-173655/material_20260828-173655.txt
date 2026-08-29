@@ -1,0 +1,2 @@
+16fa904d50777c36,mc/mtl_attach_t9_val_handguard_02_smg_heavy_emissive_blade
+53cd3e859c423727,mc/mtl_attach_t9_cheekrest_01_pro_smg_heavy_emissive_blade
