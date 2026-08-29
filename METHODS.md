@@ -433,6 +433,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | image cores under borrowed image endings | 1 | 4 | 66 | 8,319,045,063,000 | 126,046,137,318 | 47,775,902,275 | 173,376,335,343 | 2026-08-24 | 2026-08-24 | cooling |
 | v2 material borrowed endings, ranks 8001-9000 | 1 | 3 | 5 | 644,545,902,000 | 128,909,180,400 | 107,346,739,500 | 107,463,105,750 | 2026-08-27 | 2026-08-28 | live |
 | build strings under measured decorations | 1 | 1 | 6 | 885,240,258,000 | 147,540,043,000 | 147,540,043,000 | 147,540,043,000 | 2026-08-24 | 2026-08-24 | untried |
+| general beginnings the 700 ceiling drops | 1 | 2 | 2 | 321,364,313,570 | 160,682,156,785 | 91,699,923,370 | 91,699,923,370 | 2026-08-29 | 2026-08-29 | live |
 | v2 material borrowed endings, ranks 11001-12000 | 1 | 3 | 4 | 644,581,938,000 | 161,145,484,500 | 107,352,745,500 | 214,938,223,500 | 2026-08-27 | 2026-08-28 | live |
 | v2 material borrowed endings, ranks 8001-16000 | 1 | 1 | 10 | 1,695,151,867,500 | 169,515,186,750 | 169,515,186,750 | 169,515,186,750 | 2026-08-25 | 2026-08-25 | untried |
 | measured shells, head 6 tail 6, top 1200 | 1 | 2 | 8 | 1,500,901,899,758 | 187,612,737,469 | 150,090,189,975 | 250,150,316,626 | 2026-08-25 | 2026-08-25 | live |
@@ -446,7 +447,6 @@ table under a name you would not have guessed is the thing you are about to rebu
 | v2 material borrowed endings, ranks 17001-18000 | 1 | 1 | 1 | 214,711,497,000 | 214,711,497,000 | 214,711,497,000 | 214,711,497,000 | 2026-08-27 | 2026-08-27 | untried |
 | v2 material borrowed endings, ranks 19001-20000 | 1 | 1 | 1 | 214,712,998,500 | 214,712,998,500 | 214,712,998,500 | 214,712,998,500 | 2026-08-27 | 2026-08-27 | untried |
 | v2 material borrowed endings, ranks 24001-25000 | 1 | 1 | 1 | 214,717,503,000 | 214,717,503,000 | 214,717,503,000 | 214,717,503,000 | 2026-08-27 | 2026-08-27 | untried |
-| general beginnings the 700 ceiling drops | 1 | 1 | 1 | 229,664,390,200 | 229,664,390,200 | 229,664,390,200 | 229,664,390,200 | 2026-08-29 | 2026-08-29 | untried |
 | v2 image borrowed endings, ranks 8001-16000 | 1 | 1 | 6 | 1,386,725,319,000 | 231,120,886,500 | 231,120,886,500 | 231,120,886,500 | 2026-08-26 | 2026-08-26 | untried |
 | v2 image borrowed endings, ranks 1-8000 | 1 | 2 | 12 | 2,773,570,653,000 | 231,130,887,750 | 173,348,165,812 | 173,348,165,812 | 2026-08-25 | 2026-08-25 | live |
 | bo3 mod tools vocabulary under measured decorations | 1 | 2 | 19 | 5,624,859,212,000 | 296,045,221,684 | 281,242,960,600 | 312,492,178,444 | 2026-08-24 | 2026-08-24 | live |
@@ -488,7 +488,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-410 distinct methods, run 470 ways between them, across 1714 runs. `names` is what each run
+410 distinct methods, run 470 ways between them, across 1715 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
