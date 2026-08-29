@@ -44,7 +44,7 @@
     },
     "blkopscw": {
       "files": 6,
-      "names": 60719,
+      "names": 60831,
       "types": {
         "image": {
           "found_pct": 84.4,
@@ -53,15 +53,15 @@
           "total": 245235
         },
         "material": {
-          "found_pct": 86.8,
-          "named": 137330,
-          "names": 16959,
+          "found_pct": 86.9,
+          "named": 137435,
+          "names": 17064,
           "total": 158158
         },
         "sound_alias": {
           "found_pct": 71.3,
-          "named": 36287,
-          "names": 27868,
+          "named": 36294,
+          "names": 27875,
           "total": 50890
         },
         "sound_asset": {
@@ -95,6 +95,6 @@
   ],
   "totals": {
     "games": 2,
-    "names": 138270
+    "names": 138382
   }
 }
