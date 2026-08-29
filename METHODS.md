@@ -219,6 +219,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | character deletion and transposition | 1 | 2 | 50 | 134,487,400 | 2,689,748 | 1,601,046 | 1,601,046 | 2026-08-24 | 2026-08-24 | live |
 | model token insertion and deletion after pr987 | 1 | 1 | 5 | 13,695,779 | 2,739,155 | 2,739,155 | 2,739,155 | 2026-08-27 | 2026-08-27 | untried |
 | \ cold war rare shared-token splice family 2401-2700 material\ | 1 | 1 | 3 | 8,787,217 | 2,929,072 | 2,929,072 | 2,929,072 | 2026-08-28 | 2026-08-28 | untried |
+| token edits anim current | 1 | 1 | 1 | 2,980,123 | 2,980,123 | 2,980,123 | 2,980,123 | 2026-08-29 | 2026-08-29 | untried |
 | \ cold war rare shared-token splice family 3001-3300 material\ | 1 | 1 | 2 | 5,966,595 | 2,983,297 | 2,983,297 | 2,983,297 | 2026-08-28 | 2026-08-28 | untried |
 | token order transpositions | 1 | 2 | 3 | 8,952,148 | 2,984,049 | 2,238,036 | 4,476,076 | 2026-08-24 | 2026-08-24 | live |
 | rare shared-token splices family size 1201-1500 | 1 | 2 | 17 | 51,936,301 | 3,055,076 | 2,596,884 | 2,596,884 | 2026-08-28 | 2026-08-28 | live |
@@ -491,7 +492,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-413 distinct methods, run 473 ways between them, across 1739 runs. `names` is what each run
+414 distinct methods, run 474 ways between them, across 1740 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
