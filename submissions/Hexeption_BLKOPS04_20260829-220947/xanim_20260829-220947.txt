@@ -1,0 +1,2 @@
+10fa4e5e6fdbccb4,ai_t8_zm_avogadro_charge_attack_move
+1c3ba6a8c94fc000,ai_t8_zm_mannequin_ally_hover_start
