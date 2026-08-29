@@ -2230,6 +2230,13 @@ endings, so `--top 200000` already takes all of them and a larger `--top` change
 deeper lists are nowhere near exhausted and still return little, which is the same statement from
 the other side.
 
+**And it does reach Black Ops 4, weakly.** The same depth-2 plan against Black Ops 4's own
+158,563 unnamed ids returns **12**, against Cold War's 219 on the non-sound side and 634 on
+sound. Worth stating precisely because the retracted row above claimed the opposite from a
+sweep that read stale lists: the seam is not absent in Black Ops 4, it is about twenty times
+thinner, which is consistent with every other Black Ops 4 result here rather than a new
+mystery.
+
 **Run depth 2 first, and take the whole list.** 418 of the 634 came back already claimed by
 another contributor working the same seam the same day, which is what a productive seam looks
 like rather than a problem -- `submit` dropped them and sent the 216 that were new.
