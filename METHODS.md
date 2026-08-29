@@ -276,6 +276,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | corpus-mined substitutions, deep cut | 1 | 1 | 2 | 43,582,606 | 21,791,303 | 21,791,303 | 21,791,303 | 2026-08-25 | 2026-08-25 | untried |
 | black ops 4 sound, uncarried two-segment endings | 1 | 1 | 509 | 11,274,140,892 | 22,149,589 | 22,149,589 | 22,149,589 | 2026-08-23 | 2026-08-23 | untried |
 | image cores spelled as material | 2 | 3 | 10 | 221,738,750 | 22,173,875 | 14,270,250 | 39,518,125 | 2026-08-28 | 2026-08-28 | live |
+| char edits current | 1 | 1 | 3 | 68,250,824 | 22,750,274 | 22,750,274 | 22,750,274 | 2026-08-29 | 2026-08-29 | untried |
 | \\ cold war image token length stream\\ | 1 | 1 | 2 | 45,579,875 | 22,789,937 | 22,789,937 | 22,789,937 | 2026-08-29 | 2026-08-29 | untried |
 | keyword sweep: zombie models | 1 | 1 | 4 | 100,074,665 | 25,018,666 | 25,018,666 | 25,018,666 | 2026-08-21 | 2026-08-21 | untried |
 | cold war, uncarried five-segment endings | 1 | 1 | 382 | 9,963,115,100 | 26,081,453 | 26,081,453 | 26,081,453 | 2026-08-23 | 2026-08-23 | untried |
@@ -494,7 +495,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-416 distinct methods, run 476 ways between them, across 1746 runs. `names` is what each run
+417 distinct methods, run 477 ways between them, across 1747 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
