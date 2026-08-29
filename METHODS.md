@@ -1279,6 +1279,38 @@ minutes of work, and **zero**, which is the answer METHODS already predicts for 
 older-title names and is worth having measured on a corpus this size.
 `contrib/harvest_iwd.py`.
 
+### Every install on this machine, and why the unread ones are unread — 2026-08-29
+
+The table above measured five sources and left the rest looking merely unvisited. They are not
+unvisited. **They are encrypted**, and that is a different problem with a different answer, so
+here is the whole disk with the reason per install. `scripts/contributed/survey_builds_20260829-154201.py`
+regenerates it, with `--probe` for the payload test.
+
+| install | containers | state |
+|---|---|---|
+| Black Ops 4 | CASC, 148 archives + 12 loose `TAff0000` | **read.** `harvest_bo4.py`; the index and BLTE censuses above prove it complete |
+| Black Ops III | 283 `TAff0000`, 10.95 GB | **read.** `harvest_bo3.py` |
+| Cold War | CASC, no `.ff` | frames reassemble, fast files AES-256-CTR inside |
+| Black Ops II | 297 `TAff0100` v147, 3.84 GB | **encrypted, and the best-specified lead here.** Header carries the `PHEEBs71` marker at +0x0C, then the zone name; Salsa20 with a per-title key schedule. 37.0% printable, no zlib stream anywhere in the header |
+| Modern Warfare 3 | 94 `IWffu100` + 65 `IWff0100`, 5.28 GB | encrypted. 36.5% printable, no zlib |
+| Modern Warfare 2 | 52 `IWffu100` + 44 `IWff0100`, 4.70 GB | encrypted, same |
+| Black Ops | 146 `IWffu100`, 2.99 GB | encrypted. 35.8% printable |
+| World at War | 130 `IWffu100`, 2.43 GB | encrypted. 10.1% printable |
+| Call of Duty 4 | 83 `IWffu100`, 2.72 GB | encrypted |
+| Modern Warfare Remastered | `.dcache`, `.h1` | no `.ff`; newer engine, and re-hashing newer titles is measured 0 |
+| Call of Duty, Call of Duty 2 | `.pk3`, `.iwd` | already covered by the `.iwd` sweep, which returned 0 |
+
+**`IWffu100` does not mean plaintext, and this is the trap worth writing down.** The flag describes
+the container, not the payload. Every one of these reads 10-36% printable with strings like
+`XK_gsO` and `7Al_Sd_z` -- long enough and underscore-bearing enough to pass a loose name filter,
+and pure noise. A harvester pointed at them without the printable gate `harvest_bo4.py` already
+uses would produce hundreds of thousands of confident non-names. Neither spelling holds a zlib
+stream at any offset in its header, so they are not merely compressed differently.
+
+**So "walk the builds nobody has walked" is not a cheap lead and should not be listed as one.**
+Every unread container on this disk is behind a cipher. The cheap external ground is finished; what
+is left is a key, and Black Ops II is the one with a published key schedule to go and find.
+
 ### Do not walk a mod tools install. Only `zone/` is the shipped game — 2026-08-24
 
 The first version of this walked the whole Black Ops 3 install and printed 867,766 names, and
@@ -2367,8 +2399,11 @@ of what is actually on this disk:
 1. **Cold War's fast files.** 100 GB, AES-256-CTR, and the cipher is already identified. The key
    is the single largest untapped source in the project and the only remaining barrier is
    cryptographic rather than structural.
-2. **Builds nobody has walked.** Ten Call of Duty installs are on this machine; five have been
-   read. `harvest_retail.py` still points at an empty `D:\_CW_FILES`.
+2. **Black Ops II's fast files.** 297 of them, 3.84 GB, `TAff0100` v147 behind the `PHEEBs71`
+   Salsa20 marker. This is the *only* unread container on the disk with a published key
+   schedule. Everything else unread -- Black Ops, World at War, Call of Duty 4, Modern Warfare
+   2 and 3, eleven installs surveyed -- is encrypted too, so "walk the builds nobody has
+   walked" is not the cheap lead it looks like. See the survey under method 17.
 3. **Anything that reads the game rather than the names** — the loader, a memory dump, a running
    process.
 
