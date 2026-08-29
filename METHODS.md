@@ -367,7 +367,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | measured tails of length 9 | 1 | 2 | 64 | 266,568,581,576 | 4,165,134,087 | 3,920,126,199 | 4,442,809,692 | 2026-08-25 | 2026-08-25 | live |
 | uncarried two-segment endings | 1 | 1 | 23 | 102,361,883,258 | 4,450,516,663 | 4,450,516,663 | 4,450,516,663 | 2026-08-26 | 2026-08-26 | untried |
 | uncarried endings ranks 60001-120000 over published cores | 1 | 2 | 21 | 95,849,557,466 | 4,564,264,641 | 2,995,298,670 | 9,584,955,746 | 2026-08-23 | 2026-08-23 | cooling |
-| all-boundary cores x uncarried endings | 1 | 47 | 1,730 | 8,431,538,614,543 | 4,873,721,742 | 594,582,025 | 1,730,966,347 | 2026-08-25 | 2026-08-29 | live |
+| all-boundary cores x uncarried endings | 1 | 48 | 1,756 | 8,611,565,614,795 | 4,904,080,646 | 594,582,025 | 6,924,115,394 | 2026-08-25 | 2026-08-29 | spent |
 | measured tails of length 5 | 2 | 8 | 105 | 533,600,850,606 | 5,081,912,862 | 2,214,417,335 | 4,556,006,356 | 2026-08-25 | 2026-08-25 | live |
 | measured tails of length 7 | 1 | 3 | 51 | 262,284,435,218 | 5,142,832,063 | 3,013,818,603 | 12,497,565,171 | 2026-08-25 | 2026-08-25 | cooling |
 | all-boundary sound cores x uncarried sound endings | 1 | 26 | 554 | 2,852,270,729,671 | 5,148,503,122 | 1,241,985,477 | 121,526,325,405 | 2026-08-25 | 2026-08-28 | spent |
@@ -485,7 +485,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-407 distinct methods, run 467 ways between them, across 1690 runs. `names` is what each run
+407 distinct methods, run 467 ways between them, across 1691 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
