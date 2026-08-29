@@ -1,0 +1,1 @@
+199c272e5afaff05,mc/mtl_attach_t8_loot_sniper_semiauto_ext_fix_mag
