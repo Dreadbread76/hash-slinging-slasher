@@ -1371,8 +1371,16 @@ ever ship.
   exactly +30, 40 of 40 checked. Cold War indexes 2,953 frames over 214 GB and stays unreadable
   for the separate reason already recorded, that its fast files are AES-256-CTR encrypted.
   Reader: `scripts/contributed/casc_index_20260829-063030.py`.
-- **Encrypted frames.** BLTE mode `E` is Salsa20 against the build's key ring, and mode `F` is a
-  recursive frame. Both are dropped rather than guessed at. Neither has been counted.
+- **Encrypted frames -- counted 2026-08-29, and there are none.** Mode `E` is Salsa20 against the
+  build's key ring and mode `F` is a recursive frame, and both were dropped rather than guessed at
+  because nobody had counted them. Counted now, by walking every frame the index names and reading
+  the one mode byte in front of each chunk: **Black Ops 4 is 674,771 chunks, 442,577 `Z` and
+  232,194 `N`, and zero `E` or `F`.** Cold War is 3,271,834 chunks, 3,271,820 `N` and 14 `Z`,
+  also zero of either. So nothing is being skipped for want of a key at this layer and the
+  harvester was never dropping anything: Cold War's frames really do reassemble and hold nothing
+  readable, because its encryption is AES-256-CTR **inside the fast file**, a layer below BLTE.
+  Together with the `.idx` count above this closes the build: there is no unread remainder.
+  Census: `scripts/contributed/blte_modes_20260829-151441.py`.
 
 ---
 
