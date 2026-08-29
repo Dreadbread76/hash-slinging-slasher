@@ -33,7 +33,9 @@ import collections
 import pathlib
 import sys
 
-ROOT = pathlib.Path(__file__).resolve().parent.parent
+ROOT = pathlib.Path(__file__).resolve().parent
+while ROOT != ROOT.parent and not (ROOT / "scripts" / "snapshot.py").is_file():
+    ROOT = ROOT.parent
 
 TABLES = [
     "cod-name-db/csv/fnv1a_xmaterials.csv", "cod-name-db/csv/fnv1a_xmaterials_v2.csv",
