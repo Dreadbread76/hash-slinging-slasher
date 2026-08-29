@@ -440,6 +440,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | v2 material borrowed endings, ranks 17001-18000 | 1 | 1 | 1 | 214,711,497,000 | 214,711,497,000 | 214,711,497,000 | 214,711,497,000 | 2026-08-27 | 2026-08-27 | untried |
 | v2 material borrowed endings, ranks 19001-20000 | 1 | 1 | 1 | 214,712,998,500 | 214,712,998,500 | 214,712,998,500 | 214,712,998,500 | 2026-08-27 | 2026-08-27 | untried |
 | v2 material borrowed endings, ranks 24001-25000 | 1 | 1 | 1 | 214,717,503,000 | 214,717,503,000 | 214,717,503,000 | 214,717,503,000 | 2026-08-27 | 2026-08-27 | untried |
+| general beginnings the 700 ceiling drops | 1 | 1 | 1 | 229,664,390,200 | 229,664,390,200 | 229,664,390,200 | 229,664,390,200 | 2026-08-29 | 2026-08-29 | untried |
 | v2 image borrowed endings, ranks 8001-16000 | 1 | 1 | 6 | 1,386,725,319,000 | 231,120,886,500 | 231,120,886,500 | 231,120,886,500 | 2026-08-26 | 2026-08-26 | untried |
 | v2 image borrowed endings, ranks 1-8000 | 1 | 2 | 12 | 2,773,570,653,000 | 231,130,887,750 | 173,348,165,812 | 173,348,165,812 | 2026-08-25 | 2026-08-25 | live |
 | bo3 mod tools vocabulary under measured decorations | 1 | 2 | 19 | 5,624,859,212,000 | 296,045,221,684 | 281,242,960,600 | 312,492,178,444 | 2026-08-24 | 2026-08-24 | live |
@@ -481,7 +482,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-403 distinct methods, run 461 ways between them, across 1666 runs. `names` is what each run
+404 distinct methods, run 462 ways between them, across 1667 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
