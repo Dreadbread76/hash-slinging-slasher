@@ -1,0 +1,21 @@
+"""Swap each adjacent character pair in BO4 non-sound basenames."""
+import sys
+from pathlib import Path
+ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / "scripts"))
+import snapshot
+tables = ("fnv1a_xmodels", "fnv1a_xmaterials", "fnv1a_ximages", "fnv1a_xanims")
+known = {n.strip().lower().replace("\\", "/") for n in snapshot.table_names(*tables) if n.strip()}
+for kind in ("model", "material", "image", "anim"):
+    known.update(n.strip().lower().replace("\\", "/") for n in snapshot.confirmed_names(kind=kind) if n.strip())
+out = set()
+for name in known:
+    directory, _, base = name.rpartition("/")
+    if len(base) < 6 or "." in base:
+        continue
+    chars = list(base)
+    for i in range(0, len(chars) - 1, 2): chars[i], chars[i + 1] = chars[i + 1], chars[i]
+    out.add((directory + "/" if directory else "") + "".join(chars))
+out.difference_update(known)
+print(f"{len(known):,} seeds, {len(out):,} candidates", file=sys.stderr)
+for candidate in sorted(out): print(candidate)
