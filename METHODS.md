@@ -102,8 +102,8 @@ table under a name you would not have guessed is the thing you are about to rebu
 | black ops 3 build names, verbatim | 1 | 1 | 4 | 73,303 | 18,325 | 18,325 | 18,325 | 2026-08-22 | 2026-08-22 | untried |
 | bo3 mod tools asset file list | 1 | 1 | 3 | 65,355 | 21,785 | 21,785 | 21,785 | 2026-08-22 | 2026-08-22 | untried |
 | rare shared-token splices | 1 | 2 | 7 | 158,622 | 22,660 | 13,212 | 79,348 | 2026-08-28 | 2026-08-29 | cooling |
-| image siblings of confirmed materials | 1 | 92 | 5,721 | 159,609,345 | 27,898 | 393 | 2,065,041 | 2026-08-19 | 2026-08-29 | spent |
 | bo3 mod tools gdt asset names | 1 | 2 | 3 | 84,078 | 28,026 | 21,019 | 42,039 | 2026-08-22 | 2026-08-22 | live |
+| image siblings of confirmed materials | 1 | 93 | 5,725 | 161,681,442 | 28,241 | 393 | 518,024 | 2026-08-19 | 2026-08-29 | spent |
 | cold war animation token edits after new findings | 1 | 1 | 92 | 2,951,382 | 32,080 | 32,080 | 32,080 | 2026-08-26 | 2026-08-26 | untried |
 | rare shared-token splices family size 13-30 | 1 | 1 | 10 | 325,039 | 32,503 | 32,503 | 32,503 | 2026-08-28 | 2026-08-28 | untried |
 | black ops 4 family gap filling after refreshed corpus | 1 | 2 | 6 | 200,472 | 33,412 | 33,412 | 33,412 | 2026-08-27 | 2026-08-27 | live |
@@ -367,11 +367,11 @@ table under a name you would not have guessed is the thing you are about to rebu
 | measured tails of length 32 | 1 | 2 | 46 | 178,589,946,540 | 3,882,390,142 | 2,289,614,699 | 2,289,614,699 | 2026-08-25 | 2026-08-25 | live |
 | measured heads of length 56 | 1 | 2 | 3 | 12,027,546,336 | 4,009,182,112 | 3,006,886,584 | 3,006,886,584 | 2026-08-25 | 2026-08-25 | live |
 | cold war uncarried two-segment endings | 1 | 2 | 51 | 204,778,462,742 | 4,015,263,975 | 2,047,784,627 | 102,389,231,371 | 2026-08-26 | 2026-08-26 | spent |
+| all-boundary sound cores x uncarried sound endings | 1 | 28 | 753 | 3,095,911,870,289 | 4,111,436,746 | 716,595,119 | 716,595,119 | 2026-08-25 | 2026-08-29 | live |
 | measured tails of length 9 | 1 | 2 | 64 | 266,568,581,576 | 4,165,134,087 | 3,920,126,199 | 4,442,809,692 | 2026-08-25 | 2026-08-25 | live |
 | uncarried two-segment endings | 1 | 1 | 23 | 102,361,883,258 | 4,450,516,663 | 4,450,516,663 | 4,450,516,663 | 2026-08-26 | 2026-08-26 | untried |
 | uncarried endings ranks 60001-120000 over published cores | 1 | 2 | 21 | 95,849,557,466 | 4,564,264,641 | 2,995,298,670 | 9,584,955,746 | 2026-08-23 | 2026-08-23 | cooling |
 | measured tails of length 5 | 2 | 8 | 105 | 533,600,850,606 | 5,081,912,862 | 2,214,417,335 | 4,556,006,356 | 2026-08-25 | 2026-08-25 | live |
-| all-boundary sound cores x uncarried sound endings | 1 | 27 | 583 | 2,974,090,699,970 | 5,101,356,260 | 1,241,985,477 | 4,200,688,631 | 2026-08-25 | 2026-08-29 | cooling |
 | measured tails of length 7 | 1 | 3 | 51 | 262,284,435,218 | 5,142,832,063 | 3,013,818,603 | 12,497,565,171 | 2026-08-25 | 2026-08-25 | cooling |
 | measured tails of length 10 | 2 | 7 | 262 | 1,357,535,317,614 | 5,181,432,509 | 2,868,533,268 | 11,751,144,491 | 2026-08-25 | 2026-08-25 | cooling |
 | all-boundary cores x uncarried endings | 1 | 54 | 1,859 | 9,691,771,416,745 | 5,213,432,714 | 594,582,025 | 45,009,300,088 | 2026-08-25 | 2026-08-29 | spent |
@@ -488,7 +488,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-410 distinct methods, run 470 ways between them, across 1708 runs. `names` is what each run
+410 distinct methods, run 470 ways between them, across 1710 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
