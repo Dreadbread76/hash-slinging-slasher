@@ -85,7 +85,11 @@ def main():
     group.add_argument("--sound", action="store_true")
     group.add_argument("--general", action="store_true")
     parser.add_argument("--plan", help="write a plan here instead of listing the beginnings")
-    parser.add_argument("--out", default="contrib/ceiling_dropped_begins.txt",
+    # Beside the plan, not in `contrib/`: `submit` carries everything in `contrib/` into the
+    # pull request, so a generated list left there is sent as though it were a generator and
+    # the tender holds the submission for a human. It happened twice on 2026-08-29. `plans/`
+    # is gitignored and is where the thing this writes belongs.
+    parser.add_argument("--out", default="plans/ceiling_dropped_begins.txt",
                         help="where the plan's begin list is written")
     args = parser.parse_args()
 
