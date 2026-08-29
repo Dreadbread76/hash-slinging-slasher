@@ -44,7 +44,7 @@
     },
     "blkopscw": {
       "files": 6,
-      "names": 61580,
+      "names": 61581,
       "types": {
         "image": {
           "found_pct": 84.4,
@@ -54,8 +54,8 @@
         },
         "material": {
           "found_pct": 87.3,
-          "named": 138077,
-          "names": 17706,
+          "named": 138078,
+          "names": 17707,
           "total": 158158
         },
         "sound_alias": {
@@ -95,6 +95,6 @@
   ],
   "totals": {
     "games": 2,
-    "names": 139327
+    "names": 139328
   }
 }
