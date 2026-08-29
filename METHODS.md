@@ -103,7 +103,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | bo3 mod tools asset file list | 1 | 1 | 3 | 65,355 | 21,785 | 21,785 | 21,785 | 2026-08-22 | 2026-08-22 | untried |
 | rare shared-token splices | 1 | 2 | 7 | 158,622 | 22,660 | 13,212 | 79,348 | 2026-08-28 | 2026-08-29 | cooling |
 | bo3 mod tools gdt asset names | 1 | 2 | 3 | 84,078 | 28,026 | 21,019 | 42,039 | 2026-08-22 | 2026-08-22 | live |
-| image siblings of confirmed materials | 1 | 93 | 5,725 | 161,681,442 | 28,241 | 393 | 518,024 | 2026-08-19 | 2026-08-29 | spent |
+| image siblings of confirmed materials | 1 | 94 | 5,731 | 163,767,219 | 28,575 | 393 | 347,629 | 2026-08-19 | 2026-08-29 | spent |
 | cold war animation token edits after new findings | 1 | 1 | 92 | 2,951,382 | 32,080 | 32,080 | 32,080 | 2026-08-26 | 2026-08-26 | untried |
 | rare shared-token splices family size 13-30 | 1 | 1 | 10 | 325,039 | 32,503 | 32,503 | 32,503 | 2026-08-28 | 2026-08-28 | untried |
 | black ops 4 family gap filling after refreshed corpus | 1 | 2 | 6 | 200,472 | 33,412 | 33,412 | 33,412 | 2026-08-27 | 2026-08-27 | live |
@@ -126,7 +126,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | rare-token-compound-splice-model | 1 | 2 | 60 | 5,611,060 | 93,517 | 80,164 | 80,164 | 2026-08-20 | 2026-08-20 | live |
 | rare-token-compound-splice-batch | 1 | 4 | 236 | 26,219,346 | 111,098 | 48,548 | 3,278,056 | 2026-08-20 | 2026-08-20 | spent |
 | sound language and encoding variants | 1 | 1 | 38 | 4,296,303 | 113,060 | 113,060 | 113,060 | 2026-08-20 | 2026-08-20 | untried |
-| image channel completion | 1 | 62 | 1,336 | 154,313,434 | 115,504 | 5,159 | 846,565 | 2026-08-20 | 2026-08-29 | spent |
+| image channel completion | 1 | 63 | 1,337 | 156,854,389 | 117,318 | 5,159 | 2,540,955 | 2026-08-20 | 2026-08-29 | spent |
 | rare shared-token splices family size 61-120 | 1 | 1 | 18 | 2,355,489 | 130,860 | 130,860 | 130,860 | 2026-08-28 | 2026-08-28 | untried |
 | alias slot substitution, right context only | 1 | 2 | 146 | 22,349,656 | 153,079 | 121,544 | 121,544 | 2026-08-20 | 2026-08-20 | live |
 | rare shared-token splices families 18901-19200 | 1 | 1 | 20 | 3,237,958 | 161,897 | 161,897 | 161,897 | 2026-08-29 | 2026-08-29 | untried |
@@ -490,7 +490,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-412 distinct methods, run 472 ways between them, across 1722 runs. `names` is what each run
+412 distinct methods, run 472 ways between them, across 1724 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
