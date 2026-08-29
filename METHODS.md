@@ -1350,9 +1350,16 @@ ever ship.
 
 - **Cold War.** Identical layout, 100 GB, and `scripts/harvest_retail.py` still points at
   `D:\_CW_FILES`, which is empty. The same harvester needs only its root changed.
-- **The `.idx` files.** `Data/data/*.idx` maps every content key to an archive, offset and size.
-  Reading them replaces the magic hunt and reaches entries the hunt cannot see — worth doing if the
-  archive sweep's yield justifies it.
+- **The `.idx` files -- measured 2026-08-29, and the answer is no.** They do map every content
+  key to an archive, offset and size, and reading them is easy once written down (standard CASC
+  v7: 9 byte key, 5 byte big-endian storage offset packing `archive:offset` at 30 offset bits,
+  4 byte little-endian size, and over half the records are markers at exactly 30 bytes). But the
+  index lists **2,028 real frames for Black Ops 4 and the magic hunt already found 2,101**, so it
+  reaches nothing the hunt cannot see -- there is no hidden tail of the build, and `harvest_bo4`
+  was already complete. Verified rather than assumed: every frame the index names has `BLTE` at
+  exactly +30, 40 of 40 checked. Cold War indexes 2,953 frames over 214 GB and stays unreadable
+  for the separate reason already recorded, that its fast files are AES-256-CTR encrypted.
+  Reader: `scripts/contributed/casc_index_20260829-063030.py`.
 - **Encrypted frames.** BLTE mode `E` is Salsa20 against the build's key ring, and mode `F` is a
   recursive frame. Both are dropped rather than guessed at. Neither has been counted.
 
