@@ -1,0 +1,2 @@
+6144bbd3cc6bafa,mc/mtl_veh_t9_mil_ru_truck_transport_cargo_bed_c_carpaint_d_wet
+42dec5bf0dbcdb44,mc/mtl_veh_t9_civ_nt6_truck_semi_undercarriage_d_carpaint_red_b
