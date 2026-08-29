@@ -393,6 +393,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | measured tails of length 12 | 2 | 8 | 190 | 1,547,737,441,906 | 8,145,986,536 | 477,783,178 | 477,783,178 | 2026-08-25 | 2026-08-25 | live |
 | all-boundary sound cores x uncarried sound endings, 3 segments, top 200k | 1 | 1 | 49 | 406,230,831,144 | 8,290,425,125 | 8,290,425,125 | 8,290,425,125 | 2026-08-29 | 2026-08-29 | untried |
 | vox alias grid, slots composed rather than redistributed | 1 | 1 | 184 | 1,585,821,032,397 | 8,618,592,567 | 8,618,592,567 | 8,618,592,567 | 2026-08-23 | 2026-08-23 | untried |
+| all-boundary sound cores x uncarried sound endings, 4 segments, top 300k | 1 | 1 | 66 | 609,361,431,198 | 9,232,748,957 | 9,232,748,957 | 9,232,748,957 | 2026-08-29 | 2026-08-29 | untried |
 | measured tails of length 20 | 2 | 4 | 85 | 820,774,633,936 | 9,656,172,163 | 6,347,905,763 | 11,151,898,505 | 2026-08-25 | 2026-08-25 | live |
 | measured tails of length 13 | 1 | 2 | 40 | 398,901,306,104 | 9,972,532,652 | 8,671,767,524 | 8,671,767,524 | 2026-08-25 | 2026-08-25 | live |
 | black ops 1 build vocabulary | 1 | 2 | 204 | 2,038,307,570,080 | 9,991,703,774 | 6,575,185,709 | 20,799,056,837 | 2026-08-22 | 2026-08-22 | cooling |
@@ -496,7 +497,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-418 distinct methods, run 478 ways between them, across 1753 runs. `names` is what each run
+419 distinct methods, run 479 ways between them, across 1754 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
