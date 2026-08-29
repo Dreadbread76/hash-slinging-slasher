@@ -1264,6 +1264,7 @@ c03c1ba41154e8c,fly_emote_boombox_off
 cb4a0743685c399,fly_emote_eyebeam_blast
 19ebc47b177aa10c,fly_emote_eyebeam_boost
 6aee77d044a0819,fly_emote_eyebeam_f
+5cfd657502325daa,fly_emote_eyebeam_fritz
 6aeec7d044a1098,fly_emote_eyebeam_m
 3bf8c433fc4a212a,fly_emote_gen_gear
 5ee9873a29270e2d,fly_emote_icecream_alt

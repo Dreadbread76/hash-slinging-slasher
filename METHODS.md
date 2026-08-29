@@ -81,7 +81,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | cold war source literals | 1 | 1 | 251 | 35,278 | 140 | 140 | 140 | 2026-08-26 | 2026-08-26 | untried |
 | build strings, lpc fast files | 1 | 1 | 7 | 2,135 | 305 | 305 | 305 | 2026-08-24 | 2026-08-24 | untried |
 | build strings, casc blte 0.5gb probe | 1 | 1 | 10 | 3,637 | 363 | 363 | 363 | 2026-08-24 | 2026-08-24 | untried |
-| final byte solved backwards | 1 | 88 | 2,811 | 1,859,773 | 661 | 18 | 9,575 | 2026-08-22 | 2026-08-29 | spent |
+| final byte solved backwards | 1 | 89 | 2,813 | 1,878,964 | 667 | 18 | 9,595 | 2026-08-22 | 2026-08-29 | spent |
 | gaps | 2 | 5 | 376 | 346,722 | 922 | 190 | 50,180 | 2026-08-20 | 2026-08-27 | spent |
 | final-byte-after-xanim-seed | 1 | 1 | 16 | 35,919 | 2,244 | 2,244 | 2,244 | 2026-08-29 | 2026-08-29 | untried |
 | black ops 1 build names, verbatim | 1 | 2 | 271 | 651,912 | 2,405 | 1,940 | 3,164 | 2026-08-22 | 2026-08-22 | live |
@@ -102,7 +102,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | black ops 3 build names, verbatim | 1 | 1 | 4 | 73,303 | 18,325 | 18,325 | 18,325 | 2026-08-22 | 2026-08-22 | untried |
 | bo3 mod tools asset file list | 1 | 1 | 3 | 65,355 | 21,785 | 21,785 | 21,785 | 2026-08-22 | 2026-08-22 | untried |
 | rare shared-token splices | 1 | 2 | 7 | 158,622 | 22,660 | 13,212 | 79,348 | 2026-08-28 | 2026-08-29 | cooling |
-| image siblings of confirmed materials | 1 | 90 | 5,719 | 155,481,327 | 27,186 | 393 | 686,587 | 2026-08-19 | 2026-08-29 | spent |
+| image siblings of confirmed materials | 1 | 91 | 5,720 | 157,544,304 | 27,542 | 393 | 2,062,977 | 2026-08-19 | 2026-08-29 | spent |
 | bo3 mod tools gdt asset names | 1 | 2 | 3 | 84,078 | 28,026 | 21,019 | 42,039 | 2026-08-22 | 2026-08-22 | live |
 | cold war animation token edits after new findings | 1 | 1 | 92 | 2,951,382 | 32,080 | 32,080 | 32,080 | 2026-08-26 | 2026-08-26 | untried |
 | rare shared-token splices family size 13-30 | 1 | 1 | 10 | 325,039 | 32,503 | 32,503 | 32,503 | 2026-08-28 | 2026-08-28 | untried |
@@ -368,8 +368,8 @@ table under a name you would not have guessed is the thing you are about to rebu
 | measured tails of length 9 | 1 | 2 | 64 | 266,568,581,576 | 4,165,134,087 | 3,920,126,199 | 4,442,809,692 | 2026-08-25 | 2026-08-25 | live |
 | uncarried two-segment endings | 1 | 1 | 23 | 102,361,883,258 | 4,450,516,663 | 4,450,516,663 | 4,450,516,663 | 2026-08-26 | 2026-08-26 | untried |
 | uncarried endings ranks 60001-120000 over published cores | 1 | 2 | 21 | 95,849,557,466 | 4,564,264,641 | 2,995,298,670 | 9,584,955,746 | 2026-08-23 | 2026-08-23 | cooling |
-| all-boundary cores x uncarried endings | 1 | 51 | 1,817 | 9,151,660,215,687 | 5,036,686,965 | 594,582,025 | 5,807,500,009 | 2026-08-25 | 2026-08-29 | cooling |
 | measured tails of length 5 | 2 | 8 | 105 | 533,600,850,606 | 5,081,912,862 | 2,214,417,335 | 4,556,006,356 | 2026-08-25 | 2026-08-25 | live |
+| all-boundary cores x uncarried endings | 1 | 52 | 1,827 | 9,331,697,016,037 | 5,107,661,201 | 594,582,025 | 18,003,680,035 | 2026-08-25 | 2026-08-29 | spent |
 | measured tails of length 7 | 1 | 3 | 51 | 262,284,435,218 | 5,142,832,063 | 3,013,818,603 | 12,497,565,171 | 2026-08-25 | 2026-08-25 | cooling |
 | all-boundary sound cores x uncarried sound endings | 1 | 26 | 554 | 2,852,270,729,671 | 5,148,503,122 | 1,241,985,477 | 121,526,325,405 | 2026-08-25 | 2026-08-28 | spent |
 | measured tails of length 10 | 2 | 7 | 262 | 1,357,535,317,614 | 5,181,432,509 | 2,868,533,268 | 11,751,144,491 | 2026-08-25 | 2026-08-25 | cooling |
@@ -486,7 +486,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-408 distinct methods, run 468 ways between them, across 1697 runs. `names` is what each run
+408 distinct methods, run 468 ways between them, across 1700 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
