@@ -1,0 +1,3 @@
+22f99058c02bd21,mc/mtl_veh_t8_civ_car_compact_body_03_carpaintblack
+10e76bcd2f5fa8bc,mc/mtl_veh_t8_civ_car_compact_body_04_carpaintblack
+4eb2e668e0640c86,mc/mtl_veh_t8_civ_car_compact_body_02_carpaintblack
