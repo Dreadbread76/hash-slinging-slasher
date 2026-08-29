@@ -404,7 +404,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | tails of length 4 | 1 | 13 | 613 | 15,671,235,443,264 | 25,564,821,277 | 5,032,108,457 | 31,103,592,552 | 2026-08-22 | 2026-08-29 | cooling |
 | uncarried beginnings slice 0-26 | 1 | 1 | 1 | 26,086,235,266 | 26,086,235,266 | 26,086,235,266 | 26,086,235,266 | 2026-08-28 | 2026-08-28 | untried |
 | images derived from materials | 1 | 16 | 5,865 | 16,429,512,288,336 | 26,801,814,499 | 14,040,215,660 | 14,040,215,660 | 2026-08-19 | 2026-08-27 | live |
-| uncarried beginnings | 1 | 6 | 42 | 1,188,558,922,714 | 28,299,021,969 | 7,310,746,850 | 41,595,411,312 | 2026-08-23 | 2026-08-28 | cooling |
+| uncarried beginnings | 1 | 7 | 46 | 1,399,200,360,644 | 30,417,399,144 | 7,310,746,850 | 52,660,359,482 | 2026-08-23 | 2026-08-29 | cooling |
 | v2 material borrowed endings, ranks 1001-2000 | 1 | 2 | 12 | 426,823,897,500 | 35,568,658,125 | 23,561,037,500 | 71,591,520,000 | 2026-08-25 | 2026-08-28 | cooling |
 | v2 xanim borrowed endings, ranks 16001-24000 | 1 | 2 | 6 | 221,211,648,000 | 36,868,608,000 | 28,137,516,750 | 28,137,516,750 | 2026-08-25 | 2026-08-28 | live |
 | xmodel cores under borrowed xmodel endings | 1 | 2 | 71 | 2,638,444,407,000 | 37,161,188,830 | 29,316,048,966 | 50,739,315,519 | 2026-08-24 | 2026-08-24 | live |
@@ -488,7 +488,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-410 distinct methods, run 470 ways between them, across 1716 runs. `names` is what each run
+410 distinct methods, run 470 ways between them, across 1717 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
