@@ -80,8 +80,8 @@ table under a name you would not have guessed is the thing you are about to rebu
 | cold war source literals | 1 | 1 | 251 | 35,278 | 140 | 140 | 140 | 2026-08-26 | 2026-08-26 | untried |
 | build strings, lpc fast files | 1 | 1 | 7 | 2,135 | 305 | 305 | 305 | 2026-08-24 | 2026-08-24 | untried |
 | build strings, casc blte 0.5gb probe | 1 | 1 | 10 | 3,637 | 363 | 363 | 363 | 2026-08-24 | 2026-08-24 | untried |
-| final byte solved backwards | 1 | 73 | 2,755 | 1,521,808 | 552 | 18 | 1,494 | 2026-08-22 | 2026-08-26 | spent |
-| gaps | 2 | 4 | 374 | 246,361 | 658 | 190 | 6,554 | 2026-08-20 | 2026-08-20 | spent |
+| final byte solved backwards | 1 | 80 | 2,781 | 1,678,446 | 603 | 18 | 18,026 | 2026-08-22 | 2026-08-28 | spent |
+| gaps | 2 | 5 | 376 | 346,722 | 922 | 190 | 50,180 | 2026-08-20 | 2026-08-27 | spent |
 | black ops 1 build names, verbatim | 1 | 2 | 271 | 651,912 | 2,405 | 1,940 | 3,164 | 2026-08-22 | 2026-08-22 | live |
 | black ops 3 build names, respelled, full harvest | 1 | 2 | 148 | 473,642 | 3,200 | 1,691 | 29,602 | 2026-08-22 | 2026-08-22 | spent |
 | early black ops 4 source literals | 1 | 1 | 4 | 16,198 | 4,049 | 4,049 | 4,049 | 2026-08-26 | 2026-08-26 | untried |
@@ -89,38 +89,52 @@ table under a name you would not have guessed is the thing you are about to rebu
 | final byte closure, guard cleared | 1 | 1 | 2 | 15,218 | 7,609 | 7,609 | 7,609 | 2026-08-25 | 2026-08-25 | untried |
 | image siblings | 3 | 5 | 529 | 4,621,863 | 8,736 | 1,734 | 68,329 | 2026-08-20 | 2026-08-21 | spent |
 | early cold war source literals | 1 | 1 | 3 | 26,471 | 8,823 | 8,823 | 8,823 | 2026-08-26 | 2026-08-26 | untried |
-| family gap filling | 1 | 28 | 266 | 2,581,826 | 9,706 | 654 | 19,248 | 2026-08-19 | 2026-08-26 | spent |
 | channels | 2 | 4 | 916 | 9,598,953 | 10,479 | 2,732 | 602,442 | 2026-08-20 | 2026-08-20 | spent |
+| family gap filling | 1 | 32 | 274 | 2,984,862 | 10,893 | 654 | 50,395 | 2026-08-19 | 2026-08-28 | spent |
 | paired-token-blocks-anim | 1 | 1 | 33 | 410,321 | 12,433 | 12,433 | 12,433 | 2026-08-20 | 2026-08-20 | untried |
+| rare shared-token splices | 1 | 1 | 6 | 79,274 | 13,212 | 13,212 | 13,212 | 2026-08-28 | 2026-08-28 | untried |
 | black ops 3 build names, verbatim, full harvest | 1 | 2 | 177 | 2,462,622 | 13,913 | 8,858 | 32,402 | 2026-08-22 | 2026-08-22 | cooling |
+| cold war source filenames and text | 1 | 1 | 151 | 2,102,012 | 13,920 | 13,920 | 13,920 | 2026-08-27 | 2026-08-27 | untried |
 | alias slot substitution | 4 | 9 | 1,354 | 21,780,323 | 16,085 | 6,535 | 2,047,927 | 2026-08-20 | 2026-08-21 | spent |
 | rare-token-compound-splice-anim | 1 | 3 | 30 | 521,194 | 17,373 | 10,849 | 17,385 | 2026-08-20 | 2026-08-20 | live |
+| black ops 4 final-byte solve after refreshed tables | 1 | 2 | 2 | 35,304 | 17,652 | 17,652 | 17,652 | 2026-08-27 | 2026-08-27 | live |
 | black ops 3 build names, verbatim | 1 | 1 | 4 | 73,303 | 18,325 | 18,325 | 18,325 | 2026-08-22 | 2026-08-22 | untried |
 | bo3 mod tools asset file list | 1 | 1 | 3 | 65,355 | 21,785 | 21,785 | 21,785 | 2026-08-22 | 2026-08-22 | untried |
-| image siblings of confirmed materials | 1 | 76 | 5,647 | 127,069,977 | 22,502 | 393 | 636,821 | 2026-08-19 | 2026-08-26 | spent |
+| numbered families on two axes | 1 | 1 | 6 | 132,716 | 22,119 | 22,119 | 22,119 | 2026-08-27 | 2026-08-27 | untried |
+| image siblings of confirmed materials | 1 | 81 | 5,694 | 137,140,566 | 24,085 | 393 | 336,053 | 2026-08-19 | 2026-08-27 | spent |
 | bo3 mod tools gdt asset names | 1 | 2 | 3 | 84,078 | 28,026 | 21,019 | 42,039 | 2026-08-22 | 2026-08-22 | live |
+| rare shared-token splices family size 13-30 | 1 | 1 | 10 | 325,039 | 32,503 | 32,503 | 32,503 | 2026-08-28 | 2026-08-28 | untried |
+| black ops 4 family gap filling after refreshed corpus | 1 | 2 | 6 | 200,472 | 33,412 | 33,412 | 33,412 | 2026-08-27 | 2026-08-27 | live |
 | paired-token-blocks-alias-deterministic | 1 | 2 | 14 | 481,544 | 34,396 | 24,067 | 60,216 | 2026-08-20 | 2026-08-20 | live |
 | paired-token-blocks-anim-deterministic | 1 | 9 | 104 | 3,708,652 | 35,660 | 15,884 | 206,784 | 2026-08-20 | 2026-08-20 | spent |
+| external source filenames | 1 | 1 | 28 | 1,226,186 | 43,792 | 43,792 | 43,792 | 2026-08-27 | 2026-08-27 | untried |
+| \ cold war rare shared-token splice family 2401-2700 xanim\ | 1 | 1 | 8 | 409,075 | 51,134 | 51,134 | 51,134 | 2026-08-28 | 2026-08-28 | untried |
 | continuations | 1 | 1 | 776 | 39,892,300 | 51,407 | 51,407 | 51,407 | 2026-08-20 | 2026-08-20 | untried |
 | older-title vocabulary | 1 | 2 | 59 | 3,144,542 | 53,297 | 34,939 | 112,305 | 2026-08-21 | 2026-08-21 | cooling |
 | black ops 3 build names, respelled | 1 | 1 | 1 | 54,358 | 54,358 | 54,358 | 54,358 | 2026-08-22 | 2026-08-22 | untried |
 | alias slot substitution, left context only | 3 | 6 | 1,934 | 109,332,515 | 56,531 | 8,885 | 2,932,361 | 2026-08-20 | 2026-08-20 | spent |
+| image siblings from confirmed materials | 1 | 1 | 35 | 2,001,561 | 57,187 | 57,187 | 57,187 | 2026-08-26 | 2026-08-26 | untried |
 | edits anim | 2 | 5 | 208 | 12,868,629 | 61,868 | 15,318 | 15,318 | 2026-08-20 | 2026-08-20 | live |
 | adjacent-token-order-anim | 1 | 1 | 2 | 136,243 | 68,121 | 68,121 | 68,121 | 2026-08-20 | 2026-08-20 | untried |
+| rare shared-token splices family size 31-60 | 1 | 2 | 23 | 1,691,810 | 73,556 | 42,295 | 42,295 | 2026-08-28 | 2026-08-28 | live |
 | paired-token-blocks-anim-lengths2-5-rare | 1 | 5 | 72 | 5,466,329 | 75,921 | 34,115 | 547,307 | 2026-08-20 | 2026-08-20 | spent |
 | bo3 mod tools asset names | 1 | 2 | 22 | 1,735,532 | 78,887 | 78,887 | 78,887 | 2026-08-24 | 2026-08-24 | live |
 | rare-token-compound-splice-model | 1 | 2 | 60 | 5,611,060 | 93,517 | 80,164 | 80,164 | 2026-08-20 | 2026-08-20 | live |
-| image channel completion | 1 | 54 | 1,312 | 134,076,888 | 102,192 | 5,159 | 504,419 | 2026-08-20 | 2026-08-26 | spent |
+| image channel completion | 1 | 57 | 1,325 | 141,652,000 | 106,907 | 5,159 | 2,525,878 | 2026-08-20 | 2026-08-27 | spent |
 | rare-token-compound-splice-batch | 1 | 4 | 236 | 26,219,346 | 111,098 | 48,548 | 3,278,056 | 2026-08-20 | 2026-08-20 | spent |
 | sound language and encoding variants | 1 | 1 | 38 | 4,296,303 | 113,060 | 113,060 | 113,060 | 2026-08-20 | 2026-08-20 | untried |
-| corpus-mined substitutions | 1 | 2 | 345 | 43,814,316 | 126,998 | 89,416 | 89,416 | 2026-08-25 | 2026-08-25 | live |
+| rare shared-token splices family size 61-120 | 1 | 1 | 18 | 2,355,489 | 130,860 | 130,860 | 130,860 | 2026-08-28 | 2026-08-28 | untried |
 | alias slot substitution, right context only | 1 | 2 | 146 | 22,349,656 | 153,079 | 121,544 | 121,544 | 2026-08-20 | 2026-08-20 | live |
+| rare shared-token splices families 18901-19200 | 1 | 1 | 20 | 3,237,958 | 161,897 | 161,897 | 161,897 | 2026-08-29 | 2026-08-29 | untried |
 | vox speaker x line grid, unseen cells | 1 | 1 | 34 | 5,564,535 | 163,662 | 163,662 | 163,662 | 2026-08-23 | 2026-08-23 | untried |
 | correlated-token-blocks-alias-wide | 1 | 2 | 7 | 1,175,308 | 167,901 | 146,934 | 146,934 | 2026-08-20 | 2026-08-20 | live |
 | adjacent-token-order-model | 1 | 2 | 10 | 1,765,338 | 176,533 | 110,332 | 441,340 | 2026-08-20 | 2026-08-20 | cooling |
 | family grid completion, shared tails only | 1 | 1 | 23 | 4,076,970 | 177,259 | 177,259 | 177,259 | 2026-08-24 | 2026-08-24 | untried |
+| rare shared-token splices family sizes 10201-10500 | 1 | 1 | 14 | 2,725,854 | 194,703 | 194,703 | 194,703 | 2026-08-28 | 2026-08-28 | untried |
 | modern warfare 2 build names, verbatim | 1 | 1 | 1 | 209,784 | 209,784 | 209,784 | 209,784 | 2026-08-22 | 2026-08-22 | untried |
 | cross-game verbatim transfer | 1 | 1 | 3 | 702,081 | 234,027 | 234,027 | 234,027 | 2026-08-25 | 2026-08-25 | untried |
+| mcdp material redecorations after pr971 | 1 | 1 | 5 | 1,198,438 | 239,687 | 239,687 | 239,687 | 2026-08-27 | 2026-08-27 | untried |
+| refreshed mcdp material core redecorations | 1 | 1 | 5 | 1,198,717 | 239,743 | 239,743 | 239,743 | 2026-08-28 | 2026-08-28 | untried |
 | speaker grids re-run cw | 1 | 1 | 6 | 1,466,925 | 244,487 | 244,487 | 244,487 | 2026-08-24 | 2026-08-24 | untried |
 | paired-token-blocks-model-deterministic | 1 | 6 | 148 | 39,959,454 | 269,996 | 96,527 | 475,923 | 2026-08-20 | 2026-08-20 | cooling |
 | mined substitution equivalence classes | 1 | 2 | 211 | 58,068,971 | 275,208 | 151,043 | 1,529,932 | 2026-08-25 | 2026-08-25 | spent |
@@ -129,71 +143,148 @@ table under a name you would not have guessed is the thing you are about to rebu
 | adjacent-token-order-batch | 1 | 2 | 26 | 7,517,953 | 289,152 | 250,599 | 250,599 | 2026-08-20 | 2026-08-20 | live |
 | per-prefix continuations | 3 | 4 | 538 | 159,447,283 | 296,370 | 79,618 | 1,430,530 | 2026-08-19 | 2026-08-21 | spent |
 | image siblings bo4 | 1 | 1 | 6 | 1,879,167 | 313,194 | 313,194 | 313,194 | 2026-08-26 | 2026-08-26 | untried |
+| rare shared-token splices family size 241-480 | 1 | 2 | 89 | 28,268,386 | 317,622 | 224,352 | 543,622 | 2026-08-28 | 2026-08-28 | live |
 | slotswap | 2 | 4 | 1,863 | 608,798,751 | 326,784 | 183,556 | 1,578,176 | 2026-08-20 | 2026-08-20 | cooling |
 | token insertion and deletion | 5 | 20 | 1,160 | 380,455,078 | 327,978 | 34,598 | 6,143,127 | 2026-08-20 | 2026-08-23 | spent |
+| animation token insertion and deletion after pr983 | 1 | 1 | 9 | 2,961,267 | 329,029 | 329,029 | 329,029 | 2026-08-27 | 2026-08-27 | untried |
+| deep image channel completion after pr977 | 1 | 1 | 11 | 3,767,092 | 342,462 | 342,462 | 342,462 | 2026-08-27 | 2026-08-27 | untried |
+| external bo4-source core respelling | 1 | 2 | 9 | 3,192,200 | 354,688 | 319,220 | 319,220 | 2026-08-28 | 2026-08-28 | live |
+| corpus-mined substitutions | 3 | 7 | 381 | 137,264,003 | 360,272 | 89,416 | 6,035,463 | 2026-08-25 | 2026-08-29 | spent |
+| deep image channel completion after pr979 | 1 | 1 | 10 | 3,766,987 | 376,698 | 376,698 | 376,698 | 2026-08-27 | 2026-08-27 | untried |
+| rare shared-token splices family size 121-240 | 1 | 2 | 29 | 12,188,574 | 420,295 | 320,751 | 320,751 | 2026-08-28 | 2026-08-28 | live |
 | cross-game sound stem transfer | 1 | 1 | 27 | 11,737,632 | 434,727 | 434,727 | 434,727 | 2026-08-20 | 2026-08-20 | untried |
 | shared-tail family grid follow-up | 1 | 1 | 8 | 3,578,096 | 447,262 | 447,262 | 447,262 | 2026-08-26 | 2026-08-26 | untried |
-| materials from image cores | 1 | 51 | 471 | 240,064,992 | 509,692 | 68,987 | 4,761,240 | 2026-08-20 | 2026-08-26 | spent |
+| rare shared-token splices families 13801-14100 | 1 | 2 | 15 | 7,293,903 | 486,260 | 260,496 | 260,496 | 2026-08-28 | 2026-08-28 | live |
 | mined substitutions, ranking tail | 1 | 1 | 237 | 129,160,520 | 544,981 | 544,981 | 544,981 | 2026-08-25 | 2026-08-25 | untried |
+| token edits material after pr828 | 1 | 1 | 4 | 2,186,916 | 546,729 | 546,729 | 546,729 | 2026-08-26 | 2026-08-26 | untried |
+| materials from image cores | 1 | 58 | 494 | 273,425,832 | 553,493 | 68,987 | 4,767,480 | 2026-08-20 | 2026-08-28 | spent |
 | templates | 2 | 4 | 379 | 211,107,756 | 557,012 | 286,113 | 2,523,120 | 2026-08-20 | 2026-08-20 | cooling |
+| rare shared-token splices family size 481-960 | 1 | 2 | 128 | 73,051,283 | 570,713 | 314,886 | 314,886 | 2026-08-28 | 2026-08-28 | live |
+| cold war same-directory outer-inner cross | 1 | 3 | 9 | 5,196,762 | 577,418 | 577,418 | 577,418 | 2026-08-27 | 2026-08-27 | live |
 | final byte substitution | 1 | 2 | 121 | 70,135,764 | 579,634 | 467,581 | 467,581 | 2026-08-22 | 2026-08-22 | live |
 | locally evidenced adjacent token order | 1 | 1 | 2 | 1,205,866 | 602,933 | 602,933 | 602,933 | 2026-08-26 | 2026-08-26 | untried |
+| cold war same-directory token graft | 1 | 1 | 5 | 3,057,430 | 611,486 | 611,486 | 611,486 | 2026-08-27 | 2026-08-27 | untried |
 | mined classes over indel-augmented pairs | 1 | 2 | 75 | 55,459,097 | 739,454 | 396,848 | 8,962,006 | 2026-08-25 | 2026-08-25 | spent |
 | correlated-token-blocks-material-image-wide | 1 | 6 | 563 | 425,162,272 | 755,172 | 270,359 | 5,907,185 | 2026-08-20 | 2026-08-20 | spent |
+| rare shared-token splices family sizes 9901-10200 | 1 | 1 | 9 | 7,174,482 | 797,164 | 797,164 | 797,164 | 2026-08-28 | 2026-08-28 | untried |
+| length-sorted interior tokens | 1 | 1 | 1 | 816,286 | 816,286 | 816,286 | 816,286 | 2026-08-27 | 2026-08-27 | untried |
 | paired-token-blocks-model-lengths2-4 | 1 | 2 | 21 | 18,272,811 | 870,133 | 702,844 | 702,844 | 2026-08-20 | 2026-08-20 | live |
+| last-three token rotation | 1 | 2 | 2 | 1,746,976 | 873,488 | 873,488 | 873,488 | 2026-08-27 | 2026-08-27 | live |
+| family grid completion | 1 | 1 | 4 | 3,639,611 | 909,902 | 909,902 | 909,902 | 2026-08-27 | 2026-08-27 | untried |
 | sibling token substitution | 4 | 7 | 2,477 | 2,261,286,760 | 912,913 | 206,904 | 1,381,969 | 2026-08-19 | 2026-08-21 | cooling |
+| zigzag basename token recombination | 1 | 1 | 1 | 939,211 | 939,211 | 939,211 | 939,211 | 2026-08-27 | 2026-08-27 | untried |
+| zigzag basename tokens | 1 | 1 | 1 | 939,219 | 939,219 | 939,219 | 939,219 | 2026-08-27 | 2026-08-27 | untried |
+| animation token insertion and deletion after pr986 | 1 | 1 | 3 | 2,962,200 | 987,400 | 987,400 | 987,400 | 2026-08-27 | 2026-08-27 | untried |
+| rare shared-token splices family size 961-1200 | 1 | 2 | 33 | 34,762,466 | 1,053,408 | 1,022,406 | 1,086,347 | 2026-08-28 | 2026-08-28 | live |
 | edits material | 2 | 5 | 139 | 150,302,473 | 1,081,312 | 439,383 | 1,589,712 | 2026-08-20 | 2026-08-20 | cooling |
+| cold war corpus-mined substitutions rank 401-500 | 1 | 2 | 6 | 6,492,678 | 1,082,113 | 1,082,113 | 1,082,113 | 2026-08-27 | 2026-08-27 | live |
 | sibling token substitution, right context only | 1 | 1 | 369 | 461,529,482 | 1,250,757 | 1,250,757 | 1,250,757 | 2026-08-19 | 2026-08-19 | untried |
+| material cores spelled as image | 5 | 10 | 994 | 1,295,018,750 | 1,302,835 | 289,958 | 6,517,720 | 2026-08-25 | 2026-08-28 | spent |
 | sound alias slot substitution | 1 | 2 | 3 | 4,119,600 | 1,373,200 | 1,028,660 | 2,062,280 | 2026-08-21 | 2026-08-22 | live |
 | token edits material after new findings | 1 | 1 | 21 | 32,170,813 | 1,531,943 | 1,531,943 | 1,531,943 | 2026-08-25 | 2026-08-25 | untried |
+| \ cold war rare shared-token splice family 3601-3900 material\ | 1 | 1 | 3 | 4,744,802 | 1,581,600 | 1,581,600 | 1,581,600 | 2026-08-28 | 2026-08-28 | untried |
+| \ bo4 rare shared-token splice family 2701-3000 material\ | 1 | 1 | 5 | 8,580,314 | 1,716,062 | 1,716,062 | 1,716,062 | 2026-08-28 | 2026-08-28 | untried |
+| same-directory outer/interior cross 20260827 | 1 | 1 | 1 | 1,732,344 | 1,732,344 | 1,732,344 | 1,732,344 | 2026-08-27 | 2026-08-27 | untried |
+| rare shared-token splices family sizes 7501-7800 | 1 | 1 | 2 | 3,574,174 | 1,787,087 | 1,787,087 | 1,787,087 | 2026-08-28 | 2026-08-28 | untried |
+| deep image channel completion after pr980 | 1 | 1 | 2 | 3,767,176 | 1,883,588 | 1,883,588 | 1,883,588 | 2026-08-27 | 2026-08-27 | untried |
 | family column cross product | 3 | 8 | 348 | 657,442,807 | 1,889,203 | 456,163 | 7,478,471 | 2026-08-19 | 2026-08-22 | spent |
 | mcdp | 1 | 1 | 2,846 | 5,545,804,740 | 1,948,631 | 1,948,631 | 1,948,631 | 2026-08-23 | 2026-08-23 | untried |
 | mined indels, anchored | 1 | 2 | 116 | 226,836,463 | 1,955,486 | 1,435,681 | 3,065,341 | 2026-08-25 | 2026-08-25 | live |
+| rare shared-token splices family sizes 11101-11400 | 1 | 1 | 4 | 7,916,087 | 1,979,021 | 1,979,021 | 1,979,021 | 2026-08-28 | 2026-08-28 | untried |
+| rare shared-token splices families 21601-21900 | 1 | 1 | 1 | 1,980,622 | 1,980,622 | 1,980,622 | 1,980,622 | 2026-08-29 | 2026-08-29 | untried |
 | sound character substitution | 1 | 1 | 490 | 983,467,758 | 2,007,077 | 2,007,077 | 2,007,077 | 2026-08-24 | 2026-08-24 | untried |
+| rare shared-token splices family sizes 6601-6900 | 1 | 2 | 13 | 26,110,812 | 2,008,524 | 1,450,600 | 1,450,600 | 2026-08-28 | 2026-08-28 | live |
 | family grid, shared tails, cold war | 1 | 1 | 2 | 4,076,947 | 2,038,473 | 2,038,473 | 2,038,473 | 2026-08-24 | 2026-08-24 | untried |
+| rare shared-token splices family size 1501-1800 | 1 | 2 | 18 | 38,218,845 | 2,123,269 | 1,194,361 | 1,194,361 | 2026-08-28 | 2026-08-28 | live |
+| material token insertion and deletion after pr982 | 1 | 1 | 15 | 32,495,105 | 2,166,340 | 2,166,340 | 2,166,340 | 2026-08-27 | 2026-08-27 | untried |
+| rare shared-token splices families 15001-15300 | 1 | 1 | 1 | 2,199,697 | 2,199,697 | 2,199,697 | 2,199,697 | 2026-08-28 | 2026-08-28 | untried |
 | sibling token substitution, left context only | 2 | 3 | 1,401 | 3,216,420,428 | 2,295,803 | 769,926 | 3,368,815 | 2026-08-19 | 2026-08-20 | cooling |
 | image channel completion, measured channel list | 1 | 2 | 36 | 88,257,624 | 2,451,600 | 2,451,600 | 2,451,600 | 2026-08-23 | 2026-08-23 | live |
+| \ cold war rare shared-token splice family 2401-2700 image\ | 1 | 1 | 1 | 2,507,207 | 2,507,207 | 2,507,207 | 2,507,207 | 2026-08-28 | 2026-08-28 | untried |
+| sound uncarried two-segment endings top 500 | 1 | 1 | 10 | 25,397,193 | 2,539,719 | 2,539,719 | 2,539,719 | 2026-08-26 | 2026-08-26 | untried |
+| xhash external core respelling | 1 | 2 | 15 | 39,142,720 | 2,609,514 | 2,446,420 | 2,446,420 | 2026-08-28 | 2026-08-28 | live |
+| interior token duplication | 1 | 1 | 2 | 5,368,519 | 2,684,259 | 2,684,259 | 2,684,259 | 2026-08-27 | 2026-08-27 | untried |
 | character deletion and transposition | 1 | 2 | 50 | 134,487,400 | 2,689,748 | 1,601,046 | 1,601,046 | 2026-08-24 | 2026-08-24 | live |
+| model token insertion and deletion after pr987 | 1 | 1 | 5 | 13,695,779 | 2,739,155 | 2,739,155 | 2,739,155 | 2026-08-27 | 2026-08-27 | untried |
+| \ cold war rare shared-token splice family 2401-2700 material\ | 1 | 1 | 3 | 8,787,217 | 2,929,072 | 2,929,072 | 2,929,072 | 2026-08-28 | 2026-08-28 | untried |
+| corpus-mined substitutions, top 200 | 1 | 3 | 13 | 38,197,905 | 2,938,300 | 1,818,940 | 3,183,216 | 2026-08-27 | 2026-08-27 | live |
+| \ cold war rare shared-token splice family 3001-3300 material\ | 1 | 1 | 2 | 5,966,595 | 2,983,297 | 2,983,297 | 2,983,297 | 2026-08-28 | 2026-08-28 | untried |
 | token order transpositions | 1 | 2 | 3 | 8,952,148 | 2,984,049 | 2,238,036 | 4,476,076 | 2026-08-24 | 2026-08-24 | live |
+| rare shared-token splices family size 1201-1500 | 1 | 2 | 17 | 51,936,301 | 3,055,076 | 2,596,884 | 2,596,884 | 2026-08-28 | 2026-08-28 | live |
 | family grid completion: head x axis x tail, unseen cells | 1 | 1 | 15 | 50,326,771 | 3,355,118 | 3,355,118 | 3,355,118 | 2026-08-23 | 2026-08-23 | untried |
+| rare shared-token splices families 15901-16200 | 1 | 1 | 8 | 28,031,004 | 3,503,875 | 3,503,875 | 3,503,875 | 2026-08-28 | 2026-08-28 | untried |
+| bounded family column cross product | 1 | 1 | 3 | 10,956,657 | 3,652,219 | 3,652,219 | 3,652,219 | 2026-08-27 | 2026-08-27 | untried |
 | mined substitutions with left context | 1 | 1 | 29 | 108,352,260 | 3,736,284 | 3,736,284 | 3,736,284 | 2026-08-25 | 2026-08-25 | untried |
 | character substitution cw | 1 | 1 | 333 | 1,256,444,745 | 3,773,107 | 3,773,107 | 3,773,107 | 2026-08-24 | 2026-08-24 | untried |
 | black ops 4 per-suffix precedents, five-token mirror | 1 | 2 | 159 | 603,737,878 | 3,797,093 | 2,251,087 | 12,083,685 | 2026-08-26 | 2026-08-26 | cooling |
+| xmodel cores spelled as material | 3 | 7 | 105 | 399,449,625 | 3,804,282 | 1,297,902 | 17,798,958 | 2026-08-28 | 2026-08-28 | spent |
+| rare shared-token splices family sizes 5101-5400 | 1 | 2 | 6 | 22,972,418 | 3,828,736 | 2,871,552 | 2,871,552 | 2026-08-28 | 2026-08-28 | live |
+| \ bo4 rare shared-token splice family 3301-3600 material\ | 1 | 1 | 2 | 7,888,925 | 3,944,462 | 3,944,462 | 3,944,462 | 2026-08-28 | 2026-08-28 | untried |
+| material token insertion and deletion after pr983 | 1 | 1 | 8 | 32,496,827 | 4,062,103 | 4,062,103 | 4,062,103 | 2026-08-27 | 2026-08-27 | untried |
 | cold war sound stems, black ops 4 spelling | 1 | 1 | 3 | 12,257,370 | 4,085,790 | 4,085,790 | 4,085,790 | 2026-08-21 | 2026-08-21 | untried |
 | per-suffix precedents, five-token mirror | 1 | 1 | 73 | 301,603,209 | 4,131,550 | 4,131,550 | 4,131,550 | 2026-08-26 | 2026-08-26 | untried |
+| \ cold war rare shared-token splice family 2701-3000 material\ | 1 | 1 | 2 | 8,580,309 | 4,290,154 | 4,290,154 | 4,290,154 | 2026-08-28 | 2026-08-28 | untried |
 | edits model | 2 | 4 | 12 | 52,757,566 | 4,396,463 | 1,876,636 | 6,607,769 | 2026-08-20 | 2026-08-20 | cooling |
+| rare shared-token splices families 12901-13200 | 1 | 2 | 6 | 27,286,700 | 4,547,783 | 3,410,837 | 3,410,837 | 2026-08-28 | 2026-08-28 | live |
+| rare shared-token splices family sizes 6001-6300 | 1 | 2 | 3 | 14,089,319 | 4,696,439 | 3,522,329 | 3,522,329 | 2026-08-28 | 2026-08-28 | live |
+| \ bo4 rare shared-token splice family 3601-3900 material\ | 1 | 1 | 1 | 4,744,803 | 4,744,803 | 4,744,803 | 4,744,803 | 2026-08-28 | 2026-08-28 | untried |
+| rare shared-token splices family sizes 7201-7500 | 1 | 2 | 6 | 28,650,319 | 4,775,053 | 2,865,031 | 2,865,031 | 2026-08-28 | 2026-08-28 | live |
+| rare shared-token splices family sizes 9001-9300 | 1 | 1 | 2 | 10,475,702 | 5,237,851 | 5,237,851 | 5,237,851 | 2026-08-28 | 2026-08-28 | untried |
+| \ bo4 rare shared-token splice family 2401-2700 xmodel\ | 1 | 1 | 1 | 5,281,185 | 5,281,185 | 5,281,185 | 5,281,185 | 2026-08-28 | 2026-08-28 | untried |
 | token edits image after new findings | 1 | 1 | 6 | 31,740,887 | 5,290,147 | 5,290,147 | 5,290,147 | 2026-08-25 | 2026-08-25 | untried |
+| rare shared-token splices family sizes 6901-7200 | 1 | 1 | 1 | 5,494,443 | 5,494,443 | 5,494,443 | 5,494,443 | 2026-08-28 | 2026-08-28 | untried |
+| rare shared-token splices family sizes 5401-5700 | 1 | 1 | 1 | 5,806,329 | 5,806,329 | 5,806,329 | 5,806,329 | 2026-08-28 | 2026-08-28 | untried |
+| \ bo4 rare shared-token splice family 3001-3300 material\ | 1 | 1 | 1 | 5,966,596 | 5,966,596 | 5,966,596 | 5,966,596 | 2026-08-28 | 2026-08-28 | untried |
+| rare shared-token splices family sizes 4501-4800 | 1 | 1 | 5 | 34,844,158 | 6,968,831 | 6,968,831 | 6,968,831 | 2026-08-28 | 2026-08-28 | untried |
 | sab directory and basename recombination | 1 | 1 | 5 | 36,351,762 | 7,270,352 | 7,270,352 | 7,270,352 | 2026-08-21 | 2026-08-21 | untried |
 | edits image | 2 | 3 | 12 | 91,292,882 | 7,607,740 | 5,048,388 | 30,538,103 | 2026-08-20 | 2026-08-20 | cooling |
 | sound character deletion and transposition | 1 | 2 | 13 | 101,307,572 | 7,792,890 | 4,221,125 | 50,654,061 | 2026-08-24 | 2026-08-24 | spent |
+| \ cold war rare shared-token splice family 3301-3600 material\ | 1 | 1 | 1 | 7,888,923 | 7,888,923 | 7,888,923 | 7,888,923 | 2026-08-28 | 2026-08-28 | untried |
 | black ops 4, uncarried two-segment endings | 1 | 1 | 1,468 | 12,179,260,896 | 8,296,499 | 8,296,499 | 8,296,499 | 2026-08-23 | 2026-08-23 | untried |
+| rare shared-token splices family sizes 6301-6600 | 1 | 2 | 6 | 51,290,334 | 8,548,389 | 5,129,036 | 5,129,036 | 2026-08-28 | 2026-08-28 | live |
+| corpus-mined substitutions, top 1000 | 1 | 2 | 8 | 72,936,208 | 9,117,026 | 6,078,006 | 18,234,083 | 2026-08-27 | 2026-08-27 | cooling |
 | per-prefix-continuations-depth2-cap24 | 1 | 1 | 4 | 39,983,007 | 9,995,751 | 9,995,751 | 9,995,751 | 2026-08-20 | 2026-08-20 | untried |
+| rare shared-token splices family sizes 4201-4500 | 1 | 1 | 1 | 10,130,357 | 10,130,357 | 10,130,357 | 10,130,357 | 2026-08-28 | 2026-08-28 | untried |
+| \ bo4 rare shared-token splice family 2101-2400\ | 1 | 1 | 2 | 21,030,543 | 10,515,271 | 10,515,271 | 10,515,271 | 2026-08-28 | 2026-08-28 | untried |
+| corpus-mined substitutions, top 500 | 1 | 3 | 6 | 72,794,888 | 12,132,481 | 6,064,452 | 24,268,543 | 2026-08-27 | 2026-08-27 | cooling |
+| material cores spelled as xmodel | 3 | 4 | 33 | 408,718,500 | 12,385,409 | 90,750 | 3,794,836 | 2026-08-28 | 2026-08-28 | spent |
 | sibling token substitution right context current | 1 | 1 | 23 | 296,853,548 | 12,906,676 | 12,906,676 | 12,906,676 | 2026-08-25 | 2026-08-25 | untried |
 | sibling token substitution left context current | 1 | 1 | 23 | 337,560,590 | 14,676,547 | 14,676,547 | 14,676,547 | 2026-08-25 | 2026-08-25 | untried |
 | character substitution | 1 | 1 | 81 | 1,256,307,739 | 15,509,972 | 15,509,972 | 15,509,972 | 2026-08-24 | 2026-08-24 | untried |
+| rare shared-token splices family sizes 11701-12000 | 1 | 1 | 1 | 17,801,434 | 17,801,434 | 17,801,434 | 17,801,434 | 2026-08-28 | 2026-08-28 | untried |
+| corpus-mined substitutions, top 300 | 1 | 2 | 3 | 54,868,776 | 18,289,592 | 13,717,040 | 27,434,695 | 2026-08-27 | 2026-08-27 | live |
 | character insertion | 1 | 2 | 135 | 2,577,959,172 | 19,095,993 | 16,740,545 | 16,740,545 | 2026-08-24 | 2026-08-24 | live |
 | sound character substitution cw | 1 | 1 | 49 | 983,905,838 | 20,079,710 | 20,079,710 | 20,079,710 | 2026-08-24 | 2026-08-24 | untried |
 | cold war, uncarried two-segment endings | 1 | 1 | 597 | 12,179,260,896 | 20,400,772 | 20,400,772 | 20,400,772 | 2026-08-23 | 2026-08-23 | untried |
+| rare shared-token splices family size 1801-2100 | 1 | 2 | 2 | 43,513,608 | 21,756,804 | 21,756,771 | 21,756,837 | 2026-08-28 | 2026-08-28 | live |
 | corpus-mined substitutions, deep cut | 1 | 1 | 2 | 43,582,606 | 21,791,303 | 21,791,303 | 21,791,303 | 2026-08-25 | 2026-08-25 | untried |
 | black ops 4 sound, uncarried two-segment endings | 1 | 1 | 509 | 11,274,140,892 | 22,149,589 | 22,149,589 | 22,149,589 | 2026-08-23 | 2026-08-23 | untried |
+| image cores spelled as material | 2 | 3 | 10 | 221,738,750 | 22,173,875 | 14,270,250 | 39,518,125 | 2026-08-28 | 2026-08-28 | live |
 | keyword sweep: zombie models | 1 | 1 | 4 | 100,074,665 | 25,018,666 | 25,018,666 | 25,018,666 | 2026-08-21 | 2026-08-21 | untried |
 | cold war, uncarried five-segment endings | 1 | 1 | 382 | 9,963,115,100 | 26,081,453 | 26,081,453 | 26,081,453 | 2026-08-23 | 2026-08-23 | untried |
 | cold war, uncarried four-segment endings | 1 | 1 | 645 | 18,715,524,480 | 29,016,317 | 29,016,317 | 29,016,317 | 2026-08-23 | 2026-08-23 | untried |
+| rare shared-token splices families 21301-21600 | 1 | 2 | 3 | 91,884,529 | 30,628,176 | 22,971,132 | 22,971,132 | 2026-08-29 | 2026-08-29 | live |
+| image token insertion and deletion after pr984 | 1 | 1 | 1 | 31,982,799 | 31,982,799 | 31,982,799 | 31,982,799 | 2026-08-27 | 2026-08-27 | untried |
+| rare shared-token splices families 17101-17400 | 1 | 2 | 2 | 66,750,923 | 33,375,461 | 33,375,461 | 33,375,461 | 2026-08-28 | 2026-08-28 | live |
 | per-prefix-continuations-depth2-cap48 | 1 | 1 | 2 | 72,302,925 | 36,151,462 | 36,151,462 | 36,151,462 | 2026-08-20 | 2026-08-20 | untried |
+| heads of length 1 | 1 | 1 | 1 | 36,707,544 | 36,707,544 | 36,707,544 | 36,707,544 | 2026-08-27 | 2026-08-27 | untried |
 | cold war sound, uncarried 1-segment endings | 1 | 2 | 560 | 20,953,836,251 | 37,417,564 | 29,431,729 | 29,431,729 | 2026-08-23 | 2026-08-23 | live |
 | black ops 4, uncarried three-segment endings | 1 | 2 | 1,058 | 42,578,054,890 | 40,243,908 | 16,329,961 | 157,676,083 | 2026-08-23 | 2026-08-23 | cooling |
-| material cores spelled as image | 1 | 2 | 6 | 242,102,500 | 40,350,416 | 30,262,812 | 30,262,812 | 2026-08-25 | 2026-08-25 | live |
+| cold war uncarried one-segment endings top 500 after pr969 | 1 | 1 | 1 | 41,080,998 | 41,080,998 | 41,080,998 | 41,080,998 | 2026-08-27 | 2026-08-27 | untried |
 | sound character insertion | 1 | 2 | 49 | 2,032,746,695 | 41,484,626 | 22,585,574 | 254,098,957 | 2026-08-24 | 2026-08-24 | spent |
+| per-prefix continuations depth2 cap24 | 1 | 1 | 1 | 41,529,671 | 41,529,671 | 41,529,671 | 41,529,671 | 2026-08-27 | 2026-08-27 | untried |
 | two mined substitutions composed | 1 | 1 | 1 | 45,000,000 | 45,000,000 | 45,000,000 | 45,000,000 | 2026-08-25 | 2026-08-25 | untried |
+| measured image channels | 1 | 1 | 1 | 45,049,731 | 45,049,731 | 45,049,731 | 45,049,731 | 2026-08-27 | 2026-08-27 | untried |
 | black ops 4, uncarried four-segment endings | 1 | 1 | 409 | 18,715,524,480 | 45,759,228 | 45,759,228 | 45,759,228 | 2026-08-23 | 2026-08-23 | untried |
 | anim substitutions bo4 | 1 | 1 | 1 | 46,101,284 | 46,101,284 | 46,101,284 | 46,101,284 | 2026-08-26 | 2026-08-26 | untried |
 | per-prefix-continuations-depth3-cap24 | 1 | 2 | 10 | 472,580,559 | 47,258,055 | 26,254,247 | 236,292,329 | 2026-08-20 | 2026-08-20 | cooling |
+| rare shared-token splices family sizes 8401-8700 | 1 | 1 | 1 | 48,782,460 | 48,782,460 | 48,782,460 | 48,782,460 | 2026-08-28 | 2026-08-28 | untried |
 | char substitutions bo4 sounds | 1 | 1 | 21 | 1,035,667,459 | 49,317,498 | 49,317,498 | 49,317,498 | 2026-08-24 | 2026-08-24 | untried |
 | material substitutions cw | 1 | 1 | 9 | 492,105,760 | 54,678,417 | 54,678,417 | 54,678,417 | 2026-08-25 | 2026-08-25 | untried |
 | black ops 4, uncarried five-segment endings | 1 | 1 | 182 | 9,963,115,100 | 54,742,390 | 54,742,390 | 54,742,390 | 2026-08-23 | 2026-08-23 | untried |
 | cold war, uncarried three-segment endings | 1 | 2 | 742 | 42,578,054,890 | 57,382,823 | 23,804,371 | 203,050,496 | 2026-08-23 | 2026-08-23 | cooling |
 | cold war sound, uncarried two-segment endings | 1 | 1 | 195 | 11,273,898,861 | 57,814,865 | 57,814,865 | 57,814,865 | 2026-08-23 | 2026-08-23 | untried |
-| confirmed-only all-boundary cores x uncarried endings | 2 | 7 | 665 | 41,227,212,268 | 61,995,807 | 29,860,502 | 5,948,859,488 | 2026-08-26 | 2026-08-26 | spent |
+| confirmed-only all-boundary cores x uncarried endings | 2 | 8 | 729 | 47,585,675,852 | 65,275,275 | 29,860,502 | 99,350,993 | 2026-08-26 | 2026-08-26 | cooling |
 | uncarried two-segment endings over the full published core list | 1 | 2 | 264 | 20,951,727,534 | 79,362,604 | 72,749,053 | 87,298,864 | 2026-08-23 | 2026-08-23 | live |
 | character substitution material current | 1 | 1 | 5 | 466,937,880 | 93,387,576 | 93,387,576 | 93,387,576 | 2026-08-25 | 2026-08-25 | untried |
 | char substitutions cw | 1 | 3 | 41 | 3,975,824,680 | 96,971,333 | 66,239,055 | 265,122,255 | 2026-08-24 | 2026-08-25 | cooling |
@@ -207,9 +298,9 @@ table under a name you would not have guessed is the thing you are about to rebu
 | uncarried endings over all-boundary truncation cores | 1 | 6 | 4,625 | 1,120,036,280,202 | 242,170,006 | 76,634,118 | 518,821,573 | 2026-08-23 | 2026-08-23 | cooling |
 | uncarried three-segment endings over the full published core list | 1 | 2 | 56 | 13,564,678,200 | 242,226,396 | 165,422,904 | 165,422,904 | 2026-08-23 | 2026-08-23 | live |
 | uncarried three-segment endings over all-boundary cores | 1 | 2 | 1,523 | 400,012,766,734 | 262,647,909 | 221,982,667 | 221,982,667 | 2026-08-23 | 2026-08-23 | live |
+| measured heads of length 5 | 1 | 3 | 31 | 9,541,037,394 | 307,775,399 | 210,743,705 | 210,743,705 | 2026-08-25 | 2026-08-26 | live |
 | uncarried endings over published cores | 1 | 6 | 1,191 | 385,019,657,854 | 323,274,271 | 17,624,983 | 4,062,515,784 | 2026-08-23 | 2026-08-23 | spent |
 | sound, uncarried endings over all-boundary cores | 1 | 8 | 3,397 | 1,105,024,531,644 | 325,294,239 | 92,280,373 | 902,952,472 | 2026-08-23 | 2026-08-23 | cooling |
-| heads of length 3 | 1 | 4 | 702 | 231,693,648,389 | 330,047,932 | 66,983,541 | 13,522,956,272 | 2026-08-22 | 2026-08-25 | spent |
 | char insertions bo4 | 1 | 1 | 4 | 1,358,281,948 | 339,570,487 | 339,570,487 | 339,570,487 | 2026-08-24 | 2026-08-24 | untried |
 | confirmed-only cores over the full uncarried ending vocabulary | 1 | 8 | 1,576 | 555,022,909,612 | 352,171,896 | 141,523,942 | 3,319,756,536 | 2026-08-23 | 2026-08-23 | spent |
 | sound dotted tails | 1 | 3 | 126 | 29,595,227,882 | 352,324,141 | 343,483,821 | 361,595,696 | 2026-08-19 | 2026-08-24 | live |
@@ -220,18 +311,21 @@ table under a name you would not have guessed is the thing you are about to rebu
 | older-title decorations | 1 | 2 | 18 | 9,352,503,246 | 519,583,513 | 334,017,973 | 334,017,973 | 2026-08-23 | 2026-08-23 | live |
 | affix sweep | 1 | 1 | 1 | 532,497,168 | 532,497,168 | 532,497,168 | 532,497,168 | 2026-08-20 | 2026-08-20 | untried |
 | measured heads of length 48 | 1 | 2 | 51 | 30,025,694,930 | 588,739,116 | 428,938,499 | 938,302,966 | 2026-08-25 | 2026-08-25 | live |
+| heads of length 3 | 1 | 8 | 716 | 442,865,577,301 | 618,527,342 | 66,983,541 | 52,857,703,752 | 2026-08-22 | 2026-08-28 | spent |
 | animation transition grid | 1 | 2 | 2 | 1,295,625,020 | 647,812,510 | 647,812,510 | 647,812,510 | 2026-08-23 | 2026-08-23 | live |
-| family walking, numbers in place | 1 | 18 | 1,244 | 72,674,969,581 | 672,916,385 | 200,051,105 | 10,407,205,810 | 2026-08-19 | 2026-08-24 | spent |
-| tails of length 3 | 1 | 57 | 2,812 | 1,922,665,091,718 | 683,735,807 | 35,873,048 | 33,508,735,388 | 2026-08-22 | 2026-08-26 | spent |
 | xanim cores borrowed wide, stripped shallow | 1 | 2 | 78 | 54,150,768,000 | 694,240,615 | 466,816,965 | 466,816,965 | 2026-08-24 | 2026-08-24 | live |
+| family walking, numbers in place | 1 | 20 | 1,268 | 93,485,069,865 | 708,220,226 | 200,051,105 | 867,103,954 | 2026-08-19 | 2026-08-27 | cooling |
 | double deletion | 1 | 1 | 1 | 712,525,298 | 712,525,298 | 712,525,298 | 712,525,298 | 2026-08-24 | 2026-08-24 | untried |
 | measured heads of length 40 | 1 | 2 | 116 | 83,913,981,368 | 723,396,391 | 599,385,581 | 912,108,493 | 2026-08-25 | 2026-08-25 | live |
+| tails of length 3 | 1 | 61 | 2,824 | 2,057,016,924,694 | 728,405,426 | 35,873,048 | 16,814,899,224 | 2026-08-22 | 2026-08-28 | spent |
+| v2 xanim borrowed endings, ranks 1001-2000 | 1 | 1 | 19 | 14,040,526,500 | 738,975,078 | 738,975,078 | 738,975,078 | 2026-08-28 | 2026-08-28 | untried |
 | char double deletions cw | 1 | 1 | 1 | 780,126,906 | 780,126,906 | 780,126,906 | 780,126,906 | 2026-08-24 | 2026-08-24 | untried |
 | family walking, whole words | 1 | 16 | 4,248 | 57,442,202,624 | 786,879,488 | 667,921,241 | 667,921,241 | 2026-08-19 | 2026-08-23 | live |
 | cold war sound files, core tails of length 1 and 2 | 1 | 1 | 1 | 881,657,430 | 881,657,430 | 881,657,430 | 881,657,430 | 2026-08-23 | 2026-08-23 | untried |
 | uncarried four-segment endings over all-boundary cores | 1 | 2 | 381 | 400,012,766,734 | 1,049,902,274 | 1,020,440,731 | 1,020,440,731 | 2026-08-23 | 2026-08-23 | live |
 | char insertions bo4 sounds | 1 | 1 | 1 | 1,068,730,763 | 1,068,730,763 | 1,068,730,763 | 1,068,730,763 | 2026-08-24 | 2026-08-24 | untried |
 | all-boundary cores x uncarried endings, 2 segments | 1 | 1 | 163 | 177,157,271,555 | 1,086,854,426 | 1,086,854,426 | 1,086,854,426 | 2026-08-23 | 2026-08-23 | untried |
+| v2 xanim borrowed endings, ranks 2001-3000 | 1 | 2 | 24 | 28,120,092,000 | 1,171,670,500 | 639,093,000 | 7,030,023,000 | 2026-08-28 | 2026-08-28 | spent |
 | measured heads of length 32 | 1 | 2 | 162 | 196,053,608,608 | 1,210,207,460 | 1,113,940,958 | 1,324,686,544 | 2026-08-25 | 2026-08-25 | live |
 | measured heads of length 12 | 2 | 4 | 160 | 204,300,194,532 | 1,276,876,215 | 579,736,120 | 3,832,699,909 | 2026-08-25 | 2026-08-25 | cooling |
 | measured tails of length 64 | 1 | 1 | 1 | 1,336,663,110 | 1,336,663,110 | 1,336,663,110 | 1,336,663,110 | 2026-08-25 | 2026-08-25 | untried |
@@ -239,25 +333,23 @@ table under a name you would not have guessed is the thing you are about to rebu
 | measured heads of length 10 | 2 | 4 | 94 | 134,357,271,610 | 1,429,332,676 | 965,246,055 | 1,093,886,252 | 2026-08-25 | 2026-08-25 | live |
 | measured heads of length 8 | 2 | 3 | 30 | 48,116,742,888 | 1,603,891,429 | 1,199,252,869 | 1,199,252,869 | 2026-08-25 | 2026-08-25 | live |
 | uncarried one-segment endings over all-boundary cores | 1 | 2 | 316 | 522,511,859,758 | 1,653,518,543 | 1,326,172,232 | 2,195,427,982 | 2026-08-23 | 2026-08-23 | live |
+| v2 xanim borrowed endings, ranks 3001-4000 | 1 | 1 | 7 | 14,066,052,000 | 2,009,436,000 | 2,009,436,000 | 2,009,436,000 | 2026-08-28 | 2026-08-28 | untried |
 | measured heads of length 16 | 2 | 4 | 170 | 356,008,257,188 | 2,094,166,218 | 870,303,956 | 29,590,334,512 | 2026-08-25 | 2026-08-25 | spent |
-| heads of length 3, head-measured alphabet | 1 | 2 | 69 | 152,931,233,682 | 2,216,394,691 | 1,737,854,928 | 3,058,624,673 | 2026-08-23 | 2026-08-23 | live |
 | sound alias cores borrowed, sound alias decorations measured | 1 | 5 | 837 | 1,966,247,250,000 | 2,349,160,394 | 69,920,243 | 9,564,243,908 | 2026-08-24 | 2026-08-24 | spent |
 | uncarried endings ranks 3001-6000 over published cores | 1 | 1 | 1 | 2,409,887,028 | 2,409,887,028 | 2,409,887,028 | 2,409,887,028 | 2026-08-26 | 2026-08-26 | untried |
 | uncarried endings ranks 6001-9000 over published cores | 1 | 1 | 1 | 2,409,887,028 | 2,409,887,028 | 2,409,887,028 | 2,409,887,028 | 2026-08-26 | 2026-08-26 | untried |
 | measured tails of length 40 | 1 | 2 | 40 | 97,801,973,850 | 2,445,049,346 | 1,397,171,055 | 1,397,171,055 | 2026-08-25 | 2026-08-25 | live |
+| heads of length 3, head-measured alphabet | 1 | 3 | 81 | 201,629,990,289 | 2,489,259,139 | 1,737,854,928 | 4,058,229,717 | 2026-08-23 | 2026-08-27 | live |
 | measured heads of length 24 | 1 | 2 | 114 | 296,486,731,600 | 2,600,760,803 | 1,629,047,975 | 6,445,363,730 | 2026-08-25 | 2026-08-25 | cooling |
 | measured tails of length 8 | 2 | 6 | 271 | 753,428,154,966 | 2,780,177,693 | 1,435,820,931 | 2,357,317,948 | 2026-08-25 | 2026-08-25 | live |
 | measured tails of length 4 | 1 | 4 | 69 | 192,512,386,856 | 2,790,034,592 | 1,850,196,005 | 3,210,073,152 | 2026-08-25 | 2026-08-25 | live |
 | measured heads of length 28 | 1 | 2 | 92 | 257,912,038,902 | 2,803,391,727 | 2,433,132,442 | 2,433,132,442 | 2026-08-25 | 2026-08-25 | live |
-| all-boundary cores x uncarried endings | 1 | 17 | 1,005 | 3,042,423,023,926 | 3,027,286,590 | 594,582,025 | 89,501,095,002 | 2026-08-25 | 2026-08-26 | spent |
-| measured heads of length 5 | 1 | 1 | 1 | 3,218,726,238 | 3,218,726,238 | 3,218,726,238 | 3,218,726,238 | 2026-08-25 | 2026-08-25 | untried |
-| image cores borrowed, image decorations measured | 1 | 11 | 649 | 2,116,221,088,000 | 3,260,741,275 | 1,015,745,750 | 1,117,830,750 | 2026-08-24 | 2026-08-24 | live |
+| image cores borrowed, image decorations measured | 1 | 12 | 651 | 2,118,452,546,000 | 3,254,151,376 | 1,015,745,750 | 1,115,729,000 | 2026-08-24 | 2026-08-27 | live |
 | measured tails of length 28 | 1 | 2 | 57 | 199,395,031,004 | 3,498,158,438 | 1,917,259,913 | 1,917,259,913 | 2026-08-25 | 2026-08-25 | live |
 | xanim cores borrowed, xanim decorations measured | 1 | 13 | 372 | 1,426,717,710,200 | 3,835,262,661 | 26,167,942 | 5,842,897,459 | 2026-08-24 | 2026-08-24 | spent |
 | measured tails of length 32 | 1 | 2 | 46 | 178,589,946,540 | 3,882,390,142 | 2,289,614,699 | 2,289,614,699 | 2026-08-25 | 2026-08-25 | live |
 | measured heads of length 56 | 1 | 2 | 3 | 12,027,546,336 | 4,009,182,112 | 3,006,886,584 | 3,006,886,584 | 2026-08-25 | 2026-08-25 | live |
 | cold war uncarried two-segment endings | 1 | 2 | 51 | 204,778,462,742 | 4,015,263,975 | 2,047,784,627 | 102,389,231,371 | 2026-08-26 | 2026-08-26 | spent |
-| all-boundary sound cores x uncarried sound endings | 1 | 12 | 325 | 1,342,069,707,634 | 4,129,445,254 | 1,241,985,477 | 40,374,072,890 | 2026-08-25 | 2026-08-26 | spent |
 | measured tails of length 9 | 1 | 2 | 64 | 266,568,581,576 | 4,165,134,087 | 3,920,126,199 | 4,442,809,692 | 2026-08-25 | 2026-08-25 | live |
 | uncarried two-segment endings | 1 | 1 | 23 | 102,361,883,258 | 4,450,516,663 | 4,450,516,663 | 4,450,516,663 | 2026-08-26 | 2026-08-26 | untried |
 | uncarried endings ranks 60001-120000 over published cores | 1 | 2 | 21 | 95,849,557,466 | 4,564,264,641 | 2,995,298,670 | 9,584,955,746 | 2026-08-23 | 2026-08-23 | cooling |
@@ -265,6 +357,8 @@ table under a name you would not have guessed is the thing you are about to rebu
 | measured tails of length 7 | 1 | 3 | 51 | 262,284,435,218 | 5,142,832,063 | 3,013,818,603 | 12,497,565,171 | 2026-08-25 | 2026-08-25 | cooling |
 | measured tails of length 10 | 2 | 7 | 262 | 1,357,535,317,614 | 5,181,432,509 | 2,868,533,268 | 11,751,144,491 | 2026-08-25 | 2026-08-25 | cooling |
 | all-boundary sound cores x uncarried sound endings, 2 segments | 1 | 1 | 37 | 198,601,685,997 | 5,367,613,135 | 5,367,613,135 | 5,367,613,135 | 2026-08-23 | 2026-08-23 | untried |
+| all-boundary sound cores x uncarried sound endings | 1 | 22 | 439 | 2,366,248,769,440 | 5,390,088,313 | 1,241,985,477 | 121,526,325,405 | 2026-08-25 | 2026-08-28 | spent |
+| all-boundary cores x uncarried endings | 1 | 35 | 1,138 | 6,275,731,756,690 | 5,514,702,773 | 594,582,025 | 59,882,765,488 | 2026-08-25 | 2026-08-28 | spent |
 | material cores borrowed, material decorations measured | 1 | 13 | 465 | 2,658,661,307,900 | 5,717,551,199 | 333,052,312 | 4,008,337,500 | 2026-08-24 | 2026-08-24 | spent |
 | measured heads of length 14 | 1 | 2 | 15 | 92,163,619,882 | 6,144,241,325 | 5,760,226,242 | 6,583,115,705 | 2026-08-25 | 2026-08-25 | live |
 | measured tails of length 6 | 2 | 7 | 91 | 628,969,016,333 | 6,911,747,432 | 1,977,717,171 | 9,578,231,709 | 2026-08-25 | 2026-08-25 | cooling |
@@ -279,64 +373,80 @@ table under a name you would not have guessed is the thing you are about to rebu
 | measured tails of length 13 | 1 | 2 | 40 | 398,901,306,104 | 9,972,532,652 | 8,671,767,524 | 8,671,767,524 | 2026-08-25 | 2026-08-25 | live |
 | black ops 1 build vocabulary | 1 | 2 | 204 | 2,038,307,570,080 | 9,991,703,774 | 6,575,185,709 | 20,799,056,837 | 2026-08-22 | 2026-08-22 | cooling |
 | measured tails of length 11 | 1 | 2 | 33 | 346,197,974,320 | 10,490,847,706 | 9,110,473,008 | 9,110,473,008 | 2026-08-25 | 2026-08-25 | live |
+| v2 sound alias borrowed endings, ranks 16001-19155 | 1 | 2 | 13 | 138,052,908,000 | 10,619,454,461 | 6,275,132,181 | 34,513,227,000 | 2026-08-28 | 2026-08-28 | cooling |
 | measured tails of length 24 | 2 | 4 | 54 | 627,132,483,832 | 11,613,564,515 | 3,309,040,403 | 64,813,595,798 | 2026-08-25 | 2026-08-25 | spent |
 | measured heads of length 20 | 2 | 4 | 36 | 456,964,818,448 | 12,693,467,179 | 6,682,647,252 | 21,184,377,456 | 2026-08-25 | 2026-08-25 | cooling |
 | head of one name, tail of another | 1 | 2 | 7 | 96,000,800,000 | 13,714,400,000 | 8,000,066,666 | 8,000,066,666 | 2026-08-22 | 2026-08-22 | live |
+| v2 xanim borrowed endings, ranks 5001-6000 | 1 | 1 | 1 | 14,078,064,000 | 14,078,064,000 | 14,078,064,000 | 14,078,064,000 | 2026-08-28 | 2026-08-28 | untried |
+| v2 xanim borrowed endings, ranks 6001-7000 | 1 | 2 | 2 | 28,171,143,000 | 14,085,571,500 | 14,085,571,500 | 14,085,571,500 | 2026-08-28 | 2026-08-28 | live |
 | xmodel cores borrowed wide, stripped shallow | 1 | 1 | 1 | 17,342,167,500 | 17,342,167,500 | 17,342,167,500 | 17,342,167,500 | 2026-08-24 | 2026-08-24 | untried |
-| tails of length 4 | 1 | 8 | 552 | 9,628,596,057,780 | 17,443,108,800 | 5,032,108,457 | 399,042,824,716 | 2026-08-22 | 2026-08-26 | spent |
 | material cores borrowed wide, stripped shallow | 1 | 2 | 6 | 106,477,308,000 | 17,746,218,000 | 13,309,663,500 | 13,309,663,500 | 2026-08-24 | 2026-08-24 | live |
 | measured tails of length 15 | 1 | 2 | 22 | 406,264,584,852 | 18,466,572,038 | 11,948,958,378 | 40,626,458,485 | 2026-08-25 | 2026-08-25 | cooling |
-| v2 material borrowed endings, ranks 2001-3000 | 1 | 1 | 10 | 211,989,277,500 | 21,198,927,750 | 21,198,927,750 | 21,198,927,750 | 2026-08-25 | 2026-08-25 | untried |
 | harvested strings, tails of length 3 | 1 | 1 | 4 | 86,898,811,198 | 21,724,702,799 | 21,724,702,799 | 21,724,702,799 | 2026-08-24 | 2026-08-24 | untried |
-| v2 material borrowed endings, ranks 1001-2000 | 1 | 1 | 9 | 212,049,337,500 | 23,561,037,500 | 23,561,037,500 | 23,561,037,500 | 2026-08-25 | 2026-08-25 | untried |
 | black ops 3 build vocabulary | 1 | 2 | 293 | 7,358,148,299,220 | 25,113,134,127 | 15,655,634,679 | 63,432,312,924 | 2026-08-22 | 2026-08-22 | cooling |
+| tails of length 4 | 1 | 12 | 574 | 14,458,195,333,736 | 25,188,493,612 | 5,032,108,457 | 1,207,659,390,426 | 2026-08-22 | 2026-08-27 | spent |
+| uncarried beginnings slice 0-26 | 1 | 1 | 1 | 26,086,235,266 | 26,086,235,266 | 26,086,235,266 | 26,086,235,266 | 2026-08-28 | 2026-08-28 | untried |
+| images derived from materials | 1 | 16 | 5,865 | 16,429,512,288,336 | 26,801,814,499 | 14,040,215,660 | 14,040,215,660 | 2026-08-19 | 2026-08-27 | live |
+| uncarried beginnings | 1 | 6 | 42 | 1,188,558,922,714 | 28,299,021,969 | 7,310,746,850 | 41,595,411,312 | 2026-08-23 | 2026-08-28 | cooling |
+| v2 material borrowed endings, ranks 1001-2000 | 1 | 2 | 12 | 426,823,897,500 | 35,568,658,125 | 23,561,037,500 | 71,591,520,000 | 2026-08-25 | 2026-08-28 | cooling |
+| v2 xanim borrowed endings, ranks 16001-24000 | 1 | 2 | 6 | 221,211,648,000 | 36,868,608,000 | 28,137,516,750 | 28,137,516,750 | 2026-08-25 | 2026-08-28 | live |
 | xmodel cores under borrowed xmodel endings | 1 | 2 | 71 | 2,638,444,407,000 | 37,161,188,830 | 29,316,048,966 | 50,739,315,519 | 2026-08-24 | 2026-08-24 | live |
 | uncarried beginnings, optics and prefixed families | 1 | 2 | 7 | 271,475,197,760 | 38,782,171,108 | 27,147,519,776 | 67,868,799,440 | 2026-08-22 | 2026-08-22 | live |
-| images derived from materials | 1 | 14 | 5,540 | 11,656,161,398,832 | 40,472,782,634 | 22,270,957,777 | 22,270,957,777 | 2026-08-19 | 2026-08-23 | live |
 | image cores borrowed wide, stripped shallow | 1 | 2 | 6 | 243,078,381,000 | 40,513,063,500 | 30,384,797,625 | 30,384,797,625 | 2026-08-24 | 2026-08-24 | live |
-| v2 material borrowed endings, ranks 5001-6000 | 1 | 1 | 5 | 212,014,803,000 | 42,402,960,600 | 42,402,960,600 | 42,402,960,600 | 2026-08-25 | 2026-08-25 | untried |
 | v2 xanim borrowed endings, ranks 24001-32000 | 1 | 2 | 5 | 219,351,415,500 | 43,870,283,100 | 36,644,580,000 | 36,644,580,000 | 2026-08-26 | 2026-08-26 | live |
-| heads of length 4, slash-bearing beginnings | 1 | 4 | 17 | 800,498,223,000 | 47,088,130,764 | 24,929,570,784 | 66,937,515,075 | 2026-08-24 | 2026-08-26 | live |
-| v2 xanim borrowed endings, ranks 16001-24000 | 1 | 1 | 2 | 108,661,581,000 | 54,330,790,500 | 54,330,790,500 | 54,330,790,500 | 2026-08-25 | 2026-08-25 | untried |
+| v2 material borrowed endings, ranks 6001-7000 | 1 | 3 | 13 | 644,194,551,000 | 49,553,427,000 | 26,853,389,062 | 26,853,389,062 | 2026-08-27 | 2026-08-28 | live |
+| v2 material borrowed endings, ranks 9001-10000 | 1 | 3 | 13 | 644,377,734,000 | 49,567,518,000 | 30,670,926,000 | 107,420,313,000 | 2026-08-27 | 2026-08-28 | cooling |
+| v2 material borrowed endings, ranks 5001-6000 | 1 | 4 | 17 | 856,345,990,500 | 50,373,293,558 | 35,804,268,500 | 107,412,805,500 | 2026-08-25 | 2026-08-28 | live |
+| heads of length 4, slash-bearing beginnings | 1 | 5 | 19 | 1,002,949,411,050 | 52,786,811,107 | 24,929,570,784 | 101,225,594,025 | 2026-08-24 | 2026-08-27 | cooling |
 | v2 xanim borrowed endings, ranks 48001-56000 | 1 | 1 | 2 | 110,209,774,500 | 55,104,887,250 | 55,104,887,250 | 55,104,887,250 | 2026-08-26 | 2026-08-26 | untried |
+| v2 material borrowed endings, ranks 2001-3000 | 1 | 4 | 15 | 856,342,987,500 | 57,089,532,500 | 21,198,927,750 | 71,614,042,500 | 2026-08-25 | 2026-08-28 | cooling |
+| v2 material borrowed endings, ranks 7001-8000 | 1 | 3 | 11 | 644,394,250,500 | 58,581,295,500 | 30,693,234,000 | 214,852,638,000 | 2026-08-27 | 2026-08-28 | cooling |
 | harvested strings, heads of length 3 | 1 | 2 | 4 | 252,118,784,000 | 63,029,696,000 | 63,029,696,000 | 63,029,696,000 | 2026-08-24 | 2026-08-24 | live |
 | material cores under borrowed material endings | 1 | 4 | 128 | 8,470,420,821,000 | 66,175,162,664 | 35,223,652,406 | 101,779,003,800 | 2026-08-24 | 2026-08-24 | live |
 | v2 sound alias borrowed endings, ranks 8001-16000 | 1 | 2 | 4 | 334,133,761,500 | 83,533,440,375 | 57,019,126,500 | 57,019,126,500 | 2026-08-25 | 2026-08-26 | live |
+| v2 material borrowed endings, ranks 4001-5000 | 1 | 4 | 10 | 856,398,543,000 | 85,639,854,300 | 42,934,791,900 | 214,842,127,500 | 2026-08-25 | 2026-08-28 | cooling |
 | tails of length 5 | 1 | 5 | 729 | 62,471,271,397,845 | 85,694,473,796 | 10,653,467,440 | 723,042,398,138 | 2026-08-22 | 2026-08-25 | spent |
-| uncarried beginnings | 1 | 2 | 4 | 364,450,467,250 | 91,112,616,812 | 73,924,584,790 | 73,924,584,790 | 2026-08-23 | 2026-08-23 | live |
-| v2 material borrowed endings, ranks 3001-4000 | 1 | 1 | 2 | 212,014,803,000 | 106,007,401,500 | 106,007,401,500 | 106,007,401,500 | 2026-08-25 | 2026-08-25 | untried |
-| v2 material borrowed endings, ranks 4001-5000 | 1 | 1 | 2 | 212,040,328,500 | 106,020,164,250 | 106,020,164,250 | 106,020,164,250 | 2026-08-25 | 2026-08-25 | untried |
+| v2 material borrowed endings, ranks 3001-4000 | 1 | 3 | 6 | 641,527,887,000 | 106,921,314,500 | 106,007,401,500 | 107,421,063,750 | 2026-08-25 | 2026-08-28 | live |
+| v2 material borrowed endings, ranks 21001-22000 | 1 | 1 | 2 | 214,714,500,000 | 107,357,250,000 | 107,357,250,000 | 107,357,250,000 | 2026-08-27 | 2026-08-27 | untried |
 | v2 sound alias borrowed endings, ranks 1-8000 | 1 | 2 | 3 | 325,972,741,500 | 108,657,580,500 | 81,460,181,250 | 163,052,379,000 | 2026-08-25 | 2026-08-25 | live |
-| v2 xanim borrowed endings, ranks 72001-80000 | 1 | 1 | 1 | 108,865,606,500 | 108,865,606,500 | 108,865,606,500 | 108,865,606,500 | 2026-08-25 | 2026-08-25 | untried |
 | v2 xanim borrowed endings, ranks 8001-16000 | 1 | 1 | 1 | 108,889,609,500 | 108,889,609,500 | 108,889,609,500 | 108,889,609,500 | 2026-08-25 | 2026-08-25 | untried |
 | v2 xanim borrowed endings, ranks 56001-64000 | 1 | 1 | 1 | 109,885,734,000 | 109,885,734,000 | 109,885,734,000 | 109,885,734,000 | 2026-08-26 | 2026-08-26 | untried |
+| v2 xanim borrowed endings, ranks 72001-80000 | 1 | 2 | 2 | 221,415,673,500 | 110,707,836,750 | 108,865,606,500 | 112,550,067,000 | 2026-08-25 | 2026-08-28 | live |
 | image cores under borrowed image endings | 1 | 4 | 66 | 8,319,045,063,000 | 126,046,137,318 | 47,775,902,275 | 173,376,335,343 | 2026-08-24 | 2026-08-24 | cooling |
+| v2 material borrowed endings, ranks 8001-9000 | 1 | 3 | 5 | 644,545,902,000 | 128,909,180,400 | 107,346,739,500 | 107,463,105,750 | 2026-08-27 | 2026-08-28 | live |
 | build strings under measured decorations | 1 | 1 | 6 | 885,240,258,000 | 147,540,043,000 | 147,540,043,000 | 147,540,043,000 | 2026-08-24 | 2026-08-24 | untried |
+| v2 material borrowed endings, ranks 11001-12000 | 1 | 3 | 4 | 644,581,938,000 | 161,145,484,500 | 107,352,745,500 | 214,938,223,500 | 2026-08-27 | 2026-08-28 | live |
 | v2 material borrowed endings, ranks 8001-16000 | 1 | 1 | 10 | 1,695,151,867,500 | 169,515,186,750 | 169,515,186,750 | 169,515,186,750 | 2026-08-25 | 2026-08-25 | untried |
 | measured shells, head 6 tail 6, top 1200 | 1 | 2 | 8 | 1,500,901,899,758 | 187,612,737,469 | 150,090,189,975 | 250,150,316,626 | 2026-08-25 | 2026-08-25 | live |
 | v2 material borrowed endings, ranks 16001-24000 | 1 | 1 | 9 | 1,695,319,888,500 | 188,368,876,500 | 188,368,876,500 | 188,368,876,500 | 2026-08-25 | 2026-08-25 | untried |
 | v2 material borrowed endings, ranks 24001-32000 | 1 | 1 | 9 | 1,695,727,939,500 | 188,414,215,500 | 188,414,215,500 | 188,414,215,500 | 2026-08-25 | 2026-08-25 | untried |
 | info removed | 1 | 8 | 428 | 87,647,273,961,206 | 204,783,350,376 | 6,559 | 2,241,115,004,915 | 2026-08-23 | 2026-08-23 | spent |
-| v2 material borrowed endings, ranks 1-1000 | 1 | 1 | 1 | 212,022,310,500 | 212,022,310,500 | 212,022,310,500 | 212,022,310,500 | 2026-08-25 | 2026-08-25 | untried |
-| heads of length 4 | 1 | 1 | 9 | 1,980,280,765,968 | 220,031,196,218 | 220,031,196,218 | 220,031,196,218 | 2026-08-24 | 2026-08-24 | untried |
+| v2 material borrowed endings, ranks 1-1000 | 1 | 3 | 3 | 641,356,716,000 | 213,785,572,000 | 212,022,310,500 | 214,667,953,500 | 2026-08-25 | 2026-08-27 | live |
+| v2 material borrowed endings, ranks 10001-11000 | 1 | 1 | 1 | 214,703,989,500 | 214,703,989,500 | 214,703,989,500 | 214,703,989,500 | 2026-08-27 | 2026-08-27 | untried |
+| v2 material borrowed endings, ranks 12001-13000 | 1 | 1 | 1 | 214,708,494,000 | 214,708,494,000 | 214,708,494,000 | 214,708,494,000 | 2026-08-27 | 2026-08-27 | untried |
+| v2 material borrowed endings, ranks 13001-14000 | 1 | 1 | 1 | 214,709,995,500 | 214,709,995,500 | 214,709,995,500 | 214,709,995,500 | 2026-08-27 | 2026-08-27 | untried |
+| v2 material borrowed endings, ranks 17001-18000 | 1 | 1 | 1 | 214,711,497,000 | 214,711,497,000 | 214,711,497,000 | 214,711,497,000 | 2026-08-27 | 2026-08-27 | untried |
+| v2 material borrowed endings, ranks 19001-20000 | 1 | 1 | 1 | 214,712,998,500 | 214,712,998,500 | 214,712,998,500 | 214,712,998,500 | 2026-08-27 | 2026-08-27 | untried |
+| v2 material borrowed endings, ranks 24001-25000 | 1 | 1 | 1 | 214,717,503,000 | 214,717,503,000 | 214,717,503,000 | 214,717,503,000 | 2026-08-27 | 2026-08-27 | untried |
 | v2 image borrowed endings, ranks 8001-16000 | 1 | 1 | 6 | 1,386,725,319,000 | 231,120,886,500 | 231,120,886,500 | 231,120,886,500 | 2026-08-26 | 2026-08-26 | untried |
 | v2 image borrowed endings, ranks 1-8000 | 1 | 2 | 12 | 2,773,570,653,000 | 231,130,887,750 | 173,348,165,812 | 173,348,165,812 | 2026-08-25 | 2026-08-25 | live |
 | bo3 mod tools vocabulary under measured decorations | 1 | 2 | 19 | 5,624,859,212,000 | 296,045,221,684 | 281,242,960,600 | 312,492,178,444 | 2026-08-24 | 2026-08-24 | live |
-| general search | 2 | 79 | 110,913 | 2,151,070,451,439,470 | 399,678,642,036 | 35,073,084,706 | 3,662,839,276,519 | 2026-08-19 | 2026-08-26 | spent |
+| heads of length 4 | 1 | 2 | 13 | 3,981,775,705,600 | 306,290,438,892 | 220,031,196,218 | 500,373,734,908 | 2026-08-24 | 2026-08-27 | live |
+| general search | 2 | 81 | 110,977 | 2,151,070,451,439,470 | 399,678,642,036 | 35,073,084,706 | 3,662,839,276,519 | 2026-08-19 | 2026-08-29 | spent |
 | v2 material borrowed endings, ranks 56001-64000 | 1 | 2 | 8 | 3,394,468,255,500 | 424,308,531,937 | 339,049,575,900 | 566,406,792,000 | 2026-08-26 | 2026-08-26 | live |
 | v2 material borrowed endings, ranks 80001-88000 | 1 | 1 | 4 | 1,698,956,343,000 | 424,739,085,750 | 424,739,085,750 | 424,739,085,750 | 2026-08-26 | 2026-08-26 | untried |
 | v2 material borrowed endings, ranks 1-8000 | 1 | 1 | 3 | 1,694,983,846,500 | 564,994,615,500 | 564,994,615,500 | 564,994,615,500 | 2026-08-25 | 2026-08-25 | untried |
 | newer-title cores respelled | 1 | 2 | 61 | 34,510,658,565,958 | 565,748,501,081 | 367,134,665,595 | 1,232,523,520,212 | 2026-08-22 | 2026-08-22 | cooling |
 | mw19 middles decorated | 1 | 1 | 51 | 29,134,495,063,900 | 571,264,609,096 | 571,264,609,096 | 571,264,609,096 | 2026-08-24 | 2026-08-24 | untried |
-| sound files and aliases | 1 | 53 | 30,276 | 829,449,161,788,762 | 693,519,366,044 | 172,038,900,754 | 1,641,890,141,664 | 2026-08-19 | 2026-08-25 | cooling |
 | v2 material borrowed endings, ranks 64001-72000 | 1 | 3 | 7 | 5,089,812,147,000 | 727,116,021,000 | 565,158,636,000 | 566,326,782,000 | 2026-08-26 | 2026-08-26 | live |
+| sound files and aliases | 1 | 63 | 31,092 | 1,479,207,913,597,329 | 735,192,799,998 | 172,038,900,754 | 2,978,871,349,242 | 2026-08-19 | 2026-08-28 | spent |
+| v2 image borrowed endings, ranks 16001-24000 | 1 | 3 | 5 | 4,199,720,899,500 | 839,944,179,900 | 468,370,539,000 | 1,405,111,617,000 | 2026-08-26 | 2026-08-28 | live |
 | v2 material borrowed endings, ranks 48001-56000 | 1 | 3 | 5 | 5,090,196,195,000 | 1,018,039,239,000 | 565,186,639,500 | 1,699,076,358,000 | 2026-08-25 | 2026-08-26 | cooling |
 | v2 material borrowed endings, ranks 72001-80000 | 1 | 2 | 3 | 3,394,432,251,000 | 1,131,477,417,000 | 847,761,957,000 | 1,698,908,337,000 | 2026-08-26 | 2026-08-26 | live |
-| v2 image borrowed endings, ranks 16001-24000 | 1 | 1 | 1 | 1,389,497,665,500 | 1,389,497,665,500 | 1,389,497,665,500 | 1,389,497,665,500 | 2026-08-26 | 2026-08-26 | untried |
-| v2 material borrowed endings, ranks 40001-48000 | 1 | 1 | 1 | 1,695,091,860,000 | 1,695,091,860,000 | 1,695,091,860,000 | 1,695,091,860,000 | 2026-08-26 | 2026-08-26 | untried |
+| v2 material borrowed endings, ranks 40001-48000 | 1 | 2 | 3 | 3,413,430,625,500 | 1,137,810,208,500 | 859,169,382,750 | 859,169,382,750 | 2026-08-26 | 2026-08-28 | live |
 | v2 material borrowed endings, ranks 32001-40000 | 1 | 1 | 1 | 1,695,955,968,000 | 1,695,955,968,000 | 1,695,955,968,000 | 1,695,955,968,000 | 2026-08-25 | 2026-08-25 | untried |
-| borrowed decorations over held cores | 1 | 1 | 1 | 3,981,513,729,000 | 3,981,513,729,000 | 3,981,513,729,000 | 3,981,513,729,000 | 2026-08-24 | 2026-08-24 | untried |
-| not recorded | 1 | 77 | 3,749 | - | - | - | - | 2026-08-19 | 2026-08-25 | unmeasured |
+| borrowed decorations over held cores | 1 | 2 | 2 | 4,004,234,517,300 | 2,002,117,258,650 | 22,720,788,300 | 22,720,788,300 | 2026-08-24 | 2026-08-27 | live |
+| not recorded | 1 | 81 | 3,755 | - | - | - | - | 2026-08-19 | 2026-08-28 | unmeasured |
 | bo3 techset tag sweep | 1 | 2 | 1,673 | - | - | - | - | 2026-08-18 | 2026-08-19 | unmeasured |
 | cutting at underscores and recombining | 1 | 1 | 435 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | general search, confirmed seeds only | 1 | 3 | 75 | - | - | - | - | 2026-08-20 | 2026-08-20 | unmeasured |
@@ -359,7 +469,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-282 distinct methods, run 329 ways between them, across 1299 runs. `names` is what each run
+392 distinct methods, run 450 ways between them, across 1595 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
