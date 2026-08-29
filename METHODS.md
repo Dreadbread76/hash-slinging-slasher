@@ -1510,6 +1510,14 @@ already mined for 2,846, and the rest are single deep paths (`vdd/gfx_english/so
 there the cap is binding on a list that is genuinely short of slots, and `xsounds` sits at 10.7%
 named because of it.
 
+Black Ops 4 was given the same general plan and returned **0** over the same 230 billion
+candidates against its own 158,818 unnamed ids. That is the expected answer rather than a
+surprise -- the 27 are Cold War's cuts (`mcdp/`, `cp_`-flavoured paths), and a beginning list
+measured across both games' published tables drops whatever ranks lowest globally, not per
+title. Worth the twenty minutes to have it measured, and worth knowing before anybody aims
+this at Black Ops 4 again: **the cut list is only as title-specific as the corpus that ranked
+it**, so the sound side's 153 are Cold War's too.
+
 The honest ceiling on it is the cap itself: 153 beginnings is all a 700-slot file is currently
 hiding, so this is a seam rather than a mine. Raising `MOST_PREFIXES` would close it altogether,
 and is a decision about shared state rather than a pass.
