@@ -202,7 +202,7 @@ while :; do
     # --limit, because `gh pr list` defaults to 30 and a night leaves far more than that.
     # Without it the queue is only ever drained thirty at a time, and the tail of a big
     # batch looks like it merged when it was never looked at.
-    for pr in $(gh pr list --repo "$REPO" --limit 200 --json number --jq '.[].number' 2>/dev/null); do
+    for pr in $(gh pr list --repo "$REPO" --limit 500 --json number --jq '.[].number' 2>/dev/null); do
         tend_one "$pr"
     done
 
