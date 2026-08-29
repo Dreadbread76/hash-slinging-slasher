@@ -334,7 +334,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | v2 xanim borrowed endings, ranks 1001-2000 | 1 | 1 | 19 | 14,040,526,500 | 738,975,078 | 738,975,078 | 738,975,078 | 2026-08-28 | 2026-08-28 | untried |
 | char double deletions cw | 1 | 1 | 1 | 780,126,906 | 780,126,906 | 780,126,906 | 780,126,906 | 2026-08-24 | 2026-08-24 | untried |
 | family walking, whole words | 1 | 16 | 4,248 | 57,442,202,624 | 786,879,488 | 667,921,241 | 667,921,241 | 2026-08-19 | 2026-08-23 | live |
-| tails of length 3 | 1 | 69 | 2,858 | 2,325,800,826,582 | 813,786,153 | 35,873,048 | 16,849,267,963 | 2026-08-22 | 2026-08-29 | spent |
+| tails of length 3 | 1 | 70 | 2,864 | 2,359,506,150,144 | 823,849,912 | 35,873,048 | 5,617,553,927 | 2026-08-22 | 2026-08-29 | spent |
 | cold war sound files, core tails of length 1 and 2 | 1 | 1 | 1 | 881,657,430 | 881,657,430 | 881,657,430 | 881,657,430 | 2026-08-23 | 2026-08-23 | untried |
 | uncarried four-segment endings over all-boundary cores | 1 | 2 | 381 | 400,012,766,734 | 1,049,902,274 | 1,020,440,731 | 1,020,440,731 | 2026-08-23 | 2026-08-23 | live |
 | char insertions bo4 sounds | 1 | 1 | 1 | 1,068,730,763 | 1,068,730,763 | 1,068,730,763 | 1,068,730,763 | 2026-08-24 | 2026-08-24 | untried |
@@ -486,7 +486,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-408 distinct methods, run 468 ways between them, across 1694 runs. `names` is what each run
+408 distinct methods, run 468 ways between them, across 1695 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
