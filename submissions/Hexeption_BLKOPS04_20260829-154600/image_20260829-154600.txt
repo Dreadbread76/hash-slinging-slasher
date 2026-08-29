@@ -1,0 +1,2 @@
+1d3059b58147283c,ui_icon_emblems_sp_recon_eyes
+54290f32c00d5af0,ui_icon_emblems_sp_recon_tail
