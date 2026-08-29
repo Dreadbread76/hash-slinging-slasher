@@ -1,0 +1,2 @@
+eba377c4a6b7db5,ui_icon_emblems_sp_nomad_bg
+387bd7280f3ff251,i_mtl_preview_equip_monkey_bomb
