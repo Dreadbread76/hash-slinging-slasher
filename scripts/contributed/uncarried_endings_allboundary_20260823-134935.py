@@ -116,6 +116,10 @@ def main():
                         help="keep dotted (sound) endings in a non-sound pass. Off by default: "
                              "CLAUDE.md section 5, a sound ending tried against a model id can "
                              "only ever be a coincidence")
+    parser.add_argument("--write-plan", metavar="PATH",
+                        help="write a plan naming the two files this run just wrote. Use it. "
+                             "Hand-writing the plan is how a run ends up reading a stale pair "
+                             "from an earlier session and reporting a silent, convincing zero")
     parser.add_argument("--segments", type=int, default=2,
                         help="how many trailing segments count as an ENDING when measuring the "
                              "gap. This no longer constrains the cores -- that is the point. "
@@ -205,6 +209,28 @@ def main():
     print(f"{len(endings)} endings x {len(cores)} all-boundary cores "
           f"-> {len(endings) * len(cores):,} candidates", file=sys.stderr)
     print(f"wrote {ends_path.name} and {cores_path.name}", file=sys.stderr)
+
+    # The plan, written against the two files this run just produced.
+    #
+    # These land in `contrib/`, and it is very easy to point a plan at `borrowed/ab_*.txt`
+    # instead -- an older pair from an earlier session, under the same names. Nothing complains:
+    # the `@path` resolves, the search runs, and it re-sweeps ground already swept, which reads
+    # as a clean negative. That happened on 2026-08-29, cost five passes, and put a dead-end row
+    # in METHODS.md that had to be retracted. So write the plan from here rather than by hand,
+    # and check the stem and ending counts `confirm_plan` prints against the two numbers above.
+    if args.write_plan:
+        plan = pathlib.Path(args.write_plan)
+        if not plan.is_absolute():
+            plan = ROOT / plan
+        plan.parent.mkdir(parents=True, exist_ok=True)
+        kind = "sound " if sound else ""
+        body = (
+            "label: all-boundary {}cores x uncarried {}endings, {} segment(s), top {}".format(
+                kind, kind, args.segments, args.top) + chr(10) +
+            "stem: @{}".format(cores_path.relative_to(ROOT).as_posix()) + chr(10) +
+            "end:  @{}".format(ends_path.relative_to(ROOT).as_posix()) + chr(10))
+        plan.write_text(body, encoding="utf-8", newline=chr(10))
+        print(f"wrote {args.write_plan} naming those two files", file=sys.stderr)
 
 
 if __name__ == "__main__":
