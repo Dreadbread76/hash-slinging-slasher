@@ -1,0 +1,4 @@
+21301e44305d112d,wpn_flamethrower_first_raise_lvl3_npc
+3df9fb8aa466bc00,wpn_minigun_first_raise_lvl3_npc
+578d03444fd54174,wpn_flamethrower_first_raise_lvl3_plr
+7f0a968a38269141,wpn_minigun_first_raise_lvl3_plr
