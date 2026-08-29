@@ -1,0 +1,4 @@
+504ec5501cbfb00,mc/mtl_veh_t8_civ_sedan_standard_dashboard_decalsign_dead
+1d774301527fdff7,mc/mtl_veh_t8_civ_truck_med_light_top02_metal
+21e50b7f5bc432de,mc/mtl_veh_t8_civ_truck_med_light_top01_metal
+222dd377f4c86897,mc/mtl_veh_t8_doorhandle_decal
