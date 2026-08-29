@@ -1,0 +1,3 @@
+1dca0af882366c54,mc/mtl_veh_t8_civ_hotrod_engine_copper_dead
+43c0530aba6c918c,mc/mtl_veh_t8_civ_hotrod_engine_brass_dead
+6c8c555dff26f471,mc/mtl_veh_t8_civ_hotrod_engine_hole_dead
