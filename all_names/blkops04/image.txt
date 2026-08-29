@@ -20892,6 +20892,7 @@ b7c28ac50eededb,t8_gobo_soffit_01
 2854f780c43f1307,t8_wz_road_signage_railroad_crossing_g
 578fd2238cc0c5ee,theater_lighter_color
 21746039f43db75c,theater_lighter_delete
+3203b98c5ff05760,theater_lighter_delete_all
 30d24e1b46822a76,theater_lighter_move
 1d53e0099155fe86,theater_lighter_omni
 15f8e464085d5830,ugc_normal
