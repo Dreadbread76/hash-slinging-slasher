@@ -2281,6 +2281,99 @@ registry and the latter has decayed to 163,662 candidates a name.
 published material and image names. A method that swaps a trailing code cannot reach any of them
 while the list is capped, whatever else it gets right.
 
+## Why the yield per submission keeps falling — measured 2026-08-29
+
+Names per pull request have gone `26 -> 20 -> 15 -> 100 -> 27 -> 9 -> 4` (median, by day) while
+submissions per day rose from 166 to 355. Four explanations were tested against the run record in
+`submissions/`. **Three are wrong**, and knowing which matters, because each implies a different
+fix and two of them would waste a week.
+
+### It is not the pool running out
+
+    recovered by this project        326,275 names
+    still unnamed in wanted pools    320,924   (176,664 BO4 + 144,260 CW)
+
+Roughly half the job is left. Nothing is running out of targets.
+
+### It is not contributors colliding
+
+The opposite, and it has been fixed so thoroughly it now looks like a different project:
+
+    date        kept   dropped as already claimed   kept share
+    2026-08-19  1,179,635        16,924               98.5%
+    2026-08-20     57,076        12,481               81.8%
+    2026-08-22      4,547         6,030               16.5%
+    2026-08-26      5,064            61               98.8%
+    2026-08-29      1,145            27               97.7%
+
+Claim-drops fell from 16,924 a day to 27. Since the fingerprint and the open-pull-request check
+landed, 97.7% of everything found is genuinely new. Duplicate suppression is not the constraint.
+
+### It is not a failure to invent
+
+This was the expected answer and it is flatly contradicted. **New methods per day is rising:**
+
+    date        methods run   first seen that day   names   from new methods
+    2026-08-23      56              41             30,177        85.4%
+    2026-08-25     106              92              5,504        87.8%
+    2026-08-27      77              50              1,852        24.7%
+    2026-08-28      93              68              1,887        94.0%
+
+More invention, less yield. **Names per new method: 736 -> 166 -> 60 -> 132 -> 37 -> 28.**
+
+### What it actually is: the reachable set is finite, and the corpus cannot grow it
+
+Sorting every run by what kind of method it was makes it plain. Nearly all yield is *structural*
+— methods that exploit a gap between what the lists can express and what the game holds
+(uncarried endings, all-boundary cores, the final byte, image channels, the beginning ceiling):
+
+    2026-08-29   structural 1,032   external 0   perturbation 59   other 23
+
+and the yield of a structural run is collapsing on rising effort:
+
+    names per structural run   199 -> 24 -> 19 -> 11 -> 7
+
+**A structural gap is a seam, not a mine.** Sweeping it consumes it, and the corpus growing does
+not open another — a new confirmed name is more of the vocabulary already held, so it deepens a
+seam nobody can re-sweep rather than cutting a new one. That is why `derive_closure` returned 0 on
+2026-08-29 against a corpus 900 names larger than the run before it, and why re-measuring the
+lists never reopens anything.
+
+### And the one channel that adds new information is now provably closed
+
+*External* methods — reading the build, another title's archives, a mod tools tree — are the only
+ones that inject information the corpus does not already contain. They returned 3,020 names on
+2026-08-24 and **zero since**, because the source was read once and finished. That is now measured
+rather than assumed, in both directions:
+
+- the CASC index names 2,028 frames for Black Ops 4 and the magic hunt already found 2,101, so
+  nothing was being missed; and
+- the BLTE census finds **0 encrypted and 0 recursive chunks** in either build, so nothing was
+  being skipped for want of a key.
+
+### What follows from this
+
+**The project is information-limited, not effort-limited.** More passes, more contributors and
+more scripts do not change the answer, and the record shows exactly what happens when they are
+applied anyway: 336 of the 401 generators contributed on 2026-08-27 were perturbations of a known
+name — reversals, rotations, character swaps, rot13, atbash — and they returned **121 names, 0.36
+per script**, against roughly **16** per script for structural work in the same window. Permuting
+names you already hold cannot tell you a name you do not.
+
+So the next step change comes from a **new source, not a new recombination**. In descending order
+of what is actually on this disk:
+
+1. **Cold War's fast files.** 100 GB, AES-256-CTR, and the cipher is already identified. The key
+   is the single largest untapped source in the project and the only remaining barrier is
+   cryptographic rather than structural.
+2. **Builds nobody has walked.** Ten Call of Duty installs are on this machine; five have been
+   read. `harvest_retail.py` still points at an empty `D:\_CW_FILES`.
+3. **Anything that reads the game rather than the names** — the loader, a memory dump, a running
+   process.
+
+Ranking methods by past yield will not find these, because a ranking cannot rank a method nobody
+has written, and everything it *can* rank is a seam somebody is already finishing.
+
 ## Dead ends
 
 Do not spend a night rediscovering these. Each cost real time.
