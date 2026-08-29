@@ -81,7 +81,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | cold war source literals | 1 | 1 | 251 | 35,278 | 140 | 140 | 140 | 2026-08-26 | 2026-08-26 | untried |
 | build strings, lpc fast files | 1 | 1 | 7 | 2,135 | 305 | 305 | 305 | 2026-08-24 | 2026-08-24 | untried |
 | build strings, casc blte 0.5gb probe | 1 | 1 | 10 | 3,637 | 363 | 363 | 363 | 2026-08-24 | 2026-08-24 | untried |
-| final byte solved backwards | 1 | 91 | 2,823 | 1,935,442 | 685 | 18 | 4,117 | 2026-08-22 | 2026-08-29 | spent |
+| final byte solved backwards | 1 | 92 | 2,830 | 1,972,732 | 697 | 18 | 5,327 | 2026-08-22 | 2026-08-29 | spent |
 | gaps | 2 | 5 | 376 | 346,722 | 922 | 190 | 50,180 | 2026-08-20 | 2026-08-27 | spent |
 | final-byte-after-xanim-seed | 1 | 1 | 16 | 35,919 | 2,244 | 2,244 | 2,244 | 2026-08-29 | 2026-08-29 | untried |
 | black ops 1 build names, verbatim | 1 | 2 | 271 | 651,912 | 2,405 | 1,940 | 3,164 | 2026-08-22 | 2026-08-22 | live |
@@ -92,7 +92,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | image siblings | 3 | 5 | 529 | 4,621,863 | 8,736 | 1,734 | 68,329 | 2026-08-20 | 2026-08-21 | spent |
 | early cold war source literals | 1 | 1 | 3 | 26,471 | 8,823 | 8,823 | 8,823 | 2026-08-26 | 2026-08-26 | untried |
 | channels | 2 | 4 | 916 | 9,598,953 | 10,479 | 2,732 | 602,442 | 2026-08-20 | 2026-08-20 | spent |
-| family gap filling | 1 | 37 | 293 | 3,493,254 | 11,922 | 654 | 103,111 | 2026-08-19 | 2026-08-29 | spent |
+| family gap filling | 1 | 38 | 295 | 3,596,450 | 12,191 | 654 | 51,598 | 2026-08-19 | 2026-08-29 | spent |
 | paired-token-blocks-anim | 1 | 1 | 33 | 410,321 | 12,433 | 12,433 | 12,433 | 2026-08-20 | 2026-08-20 | untried |
 | black ops 3 build names, verbatim, full harvest | 1 | 2 | 177 | 2,462,622 | 13,913 | 8,858 | 32,402 | 2026-08-22 | 2026-08-22 | cooling |
 | cold war source filenames and text | 1 | 1 | 151 | 2,102,012 | 13,920 | 13,920 | 13,920 | 2026-08-27 | 2026-08-27 | untried |
@@ -104,7 +104,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | bo3 mod tools asset file list | 1 | 1 | 3 | 65,355 | 21,785 | 21,785 | 21,785 | 2026-08-22 | 2026-08-22 | untried |
 | rare shared-token splices | 1 | 2 | 7 | 158,622 | 22,660 | 13,212 | 79,348 | 2026-08-28 | 2026-08-29 | cooling |
 | bo3 mod tools gdt asset names | 1 | 2 | 3 | 84,078 | 28,026 | 21,019 | 42,039 | 2026-08-22 | 2026-08-22 | live |
-| image siblings of confirmed materials | 1 | 94 | 5,731 | 163,767,219 | 28,575 | 393 | 347,629 | 2026-08-19 | 2026-08-29 | spent |
+| image siblings of confirmed materials | 1 | 95 | 5,742 | 165,890,556 | 28,890 | 393 | 193,030 | 2026-08-19 | 2026-08-29 | spent |
 | cold war animation token edits after new findings | 1 | 1 | 92 | 2,951,382 | 32,080 | 32,080 | 32,080 | 2026-08-26 | 2026-08-26 | untried |
 | rare shared-token splices family size 13-30 | 1 | 1 | 10 | 325,039 | 32,503 | 32,503 | 32,503 | 2026-08-28 | 2026-08-28 | untried |
 | black ops 4 family gap filling after refreshed corpus | 1 | 2 | 6 | 200,472 | 33,412 | 33,412 | 33,412 | 2026-08-27 | 2026-08-27 | live |
@@ -344,7 +344,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | measured heads of length 40 | 1 | 2 | 116 | 83,913,981,368 | 723,396,391 | 599,385,581 | 912,108,493 | 2026-08-25 | 2026-08-25 | live |
 | char double deletions cw | 1 | 1 | 1 | 780,126,906 | 780,126,906 | 780,126,906 | 780,126,906 | 2026-08-24 | 2026-08-24 | untried |
 | family walking, whole words | 1 | 16 | 4,248 | 57,442,202,624 | 786,879,488 | 667,921,241 | 667,921,241 | 2026-08-19 | 2026-08-23 | live |
-| tails of length 3 | 1 | 73 | 2,910 | 2,460,710,512,060 | 845,604,986 | 35,873,048 | 912,442,823 | 2026-08-22 | 2026-08-29 | spent |
+| tails of length 3 | 1 | 74 | 2,911 | 2,494,481,331,244 | 856,915,606 | 35,873,048 | 33,770,819,184 | 2026-08-22 | 2026-08-29 | spent |
 | cold war sound files, core tails of length 1 and 2 | 1 | 1 | 1 | 881,657,430 | 881,657,430 | 881,657,430 | 881,657,430 | 2026-08-23 | 2026-08-23 | untried |
 | uncarried four-segment endings over all-boundary cores | 1 | 2 | 381 | 400,012,766,734 | 1,049,902,274 | 1,020,440,731 | 1,020,440,731 | 2026-08-23 | 2026-08-23 | live |
 | char insertions bo4 sounds | 1 | 1 | 1 | 1,068,730,763 | 1,068,730,763 | 1,068,730,763 | 1,068,730,763 | 2026-08-24 | 2026-08-24 | untried |
@@ -501,7 +501,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-423 distinct methods, run 483 ways between them, across 1759 runs. `names` is what each run
+423 distinct methods, run 483 ways between them, across 1763 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
