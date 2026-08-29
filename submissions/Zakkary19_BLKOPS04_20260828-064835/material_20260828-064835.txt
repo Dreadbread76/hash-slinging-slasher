@@ -1,0 +1,3 @@
+e6ab9e5657c21a5,mc/mtl_veh_t8_mil_apc_macv_armor_rope_paintblack
+4e2d9a2f8a761de1,mc/mtl_veh_t8_zmb_1912_coupe_headlights_paintblack
+547e08853069873c,mc/mtl_veh_t8_zmb_1912_coupe_undercarriage_paintblack
