@@ -2,18 +2,18 @@
   "games": {
     "blkops04": {
       "files": 6,
-      "names": 77488,
+      "names": 77521,
       "types": {
         "image": {
           "found_pct": 77.1,
-          "named": 128999,
-          "names": 21972,
+          "named": 129000,
+          "names": 21973,
           "total": 167360
         },
         "material": {
           "found_pct": 83.0,
-          "named": 101884,
-          "names": 29770,
+          "named": 101911,
+          "names": 29797,
           "total": 122750
         },
         "sound_alias": {
@@ -36,8 +36,8 @@
         },
         "xmodel": {
           "found_pct": 80.4,
-          "named": 49145,
-          "names": 9022,
+          "named": 49150,
+          "names": 9027,
           "total": 61139
         }
       }
@@ -95,6 +95,6 @@
   ],
   "totals": {
     "games": 2,
-    "names": 137833
+    "names": 137866
   }
 }
