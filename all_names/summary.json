@@ -44,7 +44,7 @@
     },
     "blkopscw": {
       "files": 6,
-      "names": 61466,
+      "names": 61468,
       "types": {
         "image": {
           "found_pct": 84.4,
@@ -72,8 +72,8 @@
         },
         "xanim": {
           "found_pct": 70.8,
-          "named": 20142,
-          "names": 3811,
+          "named": 20144,
+          "names": 3813,
           "total": 28468
         },
         "xmodel": {
@@ -95,6 +95,6 @@
   ],
   "totals": {
     "games": 2,
-    "names": 139212
+    "names": 139214
   }
 }
