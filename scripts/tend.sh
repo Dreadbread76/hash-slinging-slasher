@@ -106,6 +106,16 @@ tend_one() {
     branch=$(gh pr view "$pr" --repo "$REPO" --json headRefName --jq .headRefName 2>/dev/null)
     [ -z "$branch" ] && return 0
 
+    # The branch lives in the *fork*, not here. Reading it out of "$REPO" 404s for every
+    # fork pull request -- which is all of them -- and the `|| continue` below then skipped
+    # the generator check entirely and fell through to the merge. Measured on the queue of
+    # 2026-08-29: 37 pull requests carrying 456 contributed scripts, and this gate fired
+    # zero times. Every one of them merged with its generator unread.
+    head_repo=$(gh pr view "$pr" --repo "$REPO" \
+                --json headRepositoryOwner,headRepository \
+                --jq '.headRepositoryOwner.login + "/" + .headRepository.name' 2>/dev/null)
+    case "$head_repo" in ""|"/"|*/) head_repo="$REPO";; esac
+
     for path in $(printf '%s\n' "$files" | grep '^scripts/contributed/'); do
         name=$(basename "$path")
 
@@ -118,8 +128,15 @@ tend_one() {
         stem=$(echo "${name%.*}" | sed -E 's/_[0-9]{8}-[0-9]{6}$//')
 
         # Raw content straight from the API: no base64, no line-ending juggling.
-        gh api -H "Accept: application/vnd.github.raw" \
-            "repos/$REPO/contents/$path?ref=$branch" > logs/.incoming 2>/dev/null || continue
+        # Fails *closed*. If the script cannot be read then it has not been compared to
+        # anything, and merging it would be taking an unread generator on trust -- the one
+        # thing this function exists to prevent. So it holds rather than continuing.
+        if ! gh api -H "Accept: application/vnd.github.raw" \
+                "repos/$head_repo/contents/$path?ref=$branch" > logs/.incoming 2>/dev/null; then
+            rm -f logs/.incoming
+            say "#$pr could not read $name to check it -- leaving it for a human"
+            return 0
+        fi
 
         here=""
         for candidate in scripts/contributed/"$stem"_*."$ext" "scripts/contributed/$stem.$ext" "scripts/$stem.$ext"; do
@@ -137,13 +154,19 @@ tend_one() {
             return 0
         fi
 
-        sha=$(gh api "repos/$REPO/contents/$path?ref=$branch" --jq .sha 2>/dev/null)
-        [ -z "$sha" ] && continue
+        sha=$(gh api "repos/$head_repo/contents/$path?ref=$branch" --jq .sha 2>/dev/null)
+        [ -z "$sha" ] && { say "#$pr cannot read the sha for $name -- leaving it"; return 0; }
 
-        if gh api -X DELETE "repos/$REPO/contents/$path" \
+        # Against the fork too. Dropping the duplicate needs write access to that branch,
+        # which a fork grants only through "allow edits by maintainers"; where it is refused
+        # the pull request is held rather than merged with the duplicate still on it.
+        if gh api -X DELETE "repos/$head_repo/contents/$path" \
                -f message="Already in the library as $here" \
                -f sha="$sha" -f branch="$branch" >/dev/null 2>&1; then
             say "#$pr dropped duplicate $name (library has $here)"
+        else
+            say "#$pr carries duplicate $name and it could not be dropped -- leaving it"
+            return 0
         fi
     done
 
