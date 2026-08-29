@@ -1518,6 +1518,13 @@ title. Worth the twenty minutes to have it measured, and worth knowing before an
 this at Black Ops 4 again: **the cut list is only as title-specific as the corpus that ranked
 it**, so the sound side's 153 are Cold War's too.
 
+The obvious follow-up -- rank a beginning list on Black Ops 4 alone and drop *its* tail -- is
+already answered in the dead ends, and answered no: *uncarried beginnings crossed with the whole
+corpus* measured **0 on Black Ops 4** across 945 M candidates, because those beginnings have
+private vocabularies rather than borrowed ones. Rank by borrowed share first
+(`scripts/contributed/redecorations_20260823-023757.py`) if anybody tries anyway; on the
+2026-08-29 corpus the best non-`mcdp/` candidates top out at 52 cores, against `mcdp/`'s 692.
+
 The honest ceiling on it is the cap itself: 153 beginnings is all a 700-slot file is currently
 hiding, so this is a seam rather than a mine. Raising `MOST_PREFIXES` would close it altogether,
 and is a decision about shared state rather than a pass.
