@@ -1,0 +1,4 @@
+3228dcc4f4a28f4d,mc/mtl_veh_t8_civ_hotrod_body_02_brass_dead
+3fd653e07d2721c4,mc/mtl_veh_t8_civ_hotrod_body_01_steel_dead
+458616dc174e9b3a,mc/mtl_veh_t8_civ_hotrod_body_03_chrome
+7a61ae85fc72c35e,mc/mtl_veh_t8_civ_hotrod_body_02_chrome_dead
