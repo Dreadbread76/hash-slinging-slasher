@@ -187,6 +187,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | cold war corpus-mined substitutions rank 401-500 | 1 | 2 | 6 | 6,492,678 | 1,082,113 | 1,082,113 | 1,082,113 | 2026-08-27 | 2026-08-27 | live |
 | sibling token substitution, right context only | 1 | 1 | 369 | 461,529,482 | 1,250,757 | 1,250,757 | 1,250,757 | 2026-08-19 | 2026-08-19 | untried |
 | material cores spelled as image | 5 | 10 | 994 | 1,295,018,750 | 1,302,835 | 289,958 | 6,517,720 | 2026-08-25 | 2026-08-28 | spent |
+| token edits material current | 1 | 2 | 48 | 65,328,704 | 1,361,014 | 759,636 | 759,636 | 2026-08-29 | 2026-08-29 | live |
 | sound alias slot substitution | 1 | 2 | 3 | 4,119,600 | 1,373,200 | 1,028,660 | 2,062,280 | 2026-08-21 | 2026-08-22 | live |
 | refreshed token insertion/deletion | 1 | 1 | 9 | 13,694,727 | 1,521,636 | 1,521,636 | 1,521,636 | 2026-08-27 | 2026-08-27 | untried |
 | token edits material after new findings | 1 | 1 | 21 | 32,170,813 | 1,531,943 | 1,531,943 | 1,531,943 | 2026-08-25 | 2026-08-25 | untried |
@@ -492,7 +493,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-414 distinct methods, run 474 ways between them, across 1740 runs. `names` is what each run
+415 distinct methods, run 475 ways between them, across 1742 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
