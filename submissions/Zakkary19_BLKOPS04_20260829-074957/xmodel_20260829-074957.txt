@@ -1,0 +1,2 @@
+3c90f7be9ac3a5ca,attach_t8_sniper_vanguard_barrel_1_world
+5d64f2c9c46a3ab7,attach_t8_sniper_vanguard_barrel_2_world
