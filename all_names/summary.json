@@ -2,18 +2,18 @@
   "games": {
     "blkops04": {
       "files": 6,
-      "names": 77368,
+      "names": 77376,
       "types": {
         "image": {
           "found_pct": 77.1,
-          "named": 128975,
-          "names": 21948,
+          "named": 128978,
+          "names": 21951,
           "total": 167360
         },
         "material": {
           "found_pct": 82.9,
-          "named": 101800,
-          "names": 29686,
+          "named": 101805,
+          "names": 29691,
           "total": 122750
         },
         "sound_alias": {
@@ -95,6 +95,6 @@
   ],
   "totals": {
     "games": 2,
-    "names": 137428
+    "names": 137436
   }
 }
