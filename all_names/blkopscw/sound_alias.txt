@@ -2340,6 +2340,7 @@ c90c1712e45304,evt_igc_zm_platinum_intro
 6062a28f5bf1780,evt_jumppad_land
 1798f5d0c8b1d475,evt_jumppad_move_fail
 296e1c756ae8ae2b,evt_jumppad_wind
+62ee8fe0f1fbc9de,evt_klaus_power_data
 756d50506319a8bb,evt_klaus_power_off
 3646f4da853af657,evt_klaus_power_on
 4505233a0c07204,evt_klaus_power_on_lp
