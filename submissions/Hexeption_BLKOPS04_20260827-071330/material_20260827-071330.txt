@@ -1,0 +1,4 @@
+5fdc0828d34a539,vd/t8_decal_graphics_usa_militia_logo_02
+10b4b48a3e83ac2c,cltp/mtl_p8_foliage_moss_leaves_alpha_a
+2862c253891b2e61,mc/mtl_p8_foliage_moss_leaves_alpha_a
+550058e85ff0bd60,clt/mtl_p8_foliage_moss_leaves_alpha_a
