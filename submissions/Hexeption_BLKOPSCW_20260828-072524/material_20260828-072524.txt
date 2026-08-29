@@ -1,0 +1,3 @@
+11a29a474cd3bb7b,mcs/mtl_p8_news_ren_plastic_white_matt
+3d6c438294f4a593,cltp/mtl_p8_news_ren_plastic_white_matt
+7331d7fe78f26b0f,clt/mtl_p8_news_ren_plastic_white_matt
