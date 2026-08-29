@@ -1,0 +1,2 @@
+51792e782d5ef742,i_mtl_p9_rm_drv_record_single_01_decal_text_m
+517934782d5f0174,i_mtl_p9_rm_drv_record_single_01_decal_text_g
