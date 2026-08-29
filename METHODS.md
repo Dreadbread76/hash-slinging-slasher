@@ -43,6 +43,7 @@ python scripts/coverage.py --five                where the unnamed assets actual
 | 24 | measured image channels | `image`, through the channels method 13's hand-written list omits | `scripts/contributed/image_channels_wide_20260823-043005.py` | 36 names, but it widens a derivation `derive_closure` re-runs every round: 231 of 250 real channels were uncarried, `_thermalmap` alone heads 16,000 |
 | 25 | all-boundary cores | every method built as core x ending | `scripts/contributed/uncarried_endings_allboundary_20260823-134935.py` -> `confirm_plan` | **the most productive change measured on 2026-08-23.** Not a new method -- a fix to how every ending sweep builds its cores. Turned 2,065 names into 2,553 while using five times fewer endings, and 1,385 sound names into 1,746 in a single pass |
 | 30 | family grid completion | `sound_alias` above all | `scripts/unnamed_profile.py --grid`, `contrib/family_grid.py` -> `confirm_list` | **23 on Black Ops 4, and `derive_closure` turned those into 102 more.** Rank families by tails shared across more than one axis value, not by raw product: `i_` looks like 158 M cells and collapses to 694 K under that, because it is not a grid, it is every name beginning `i_` |
+| 31 | beginnings the ceiling drops | any type, through the beginnings `data/prefixes.txt` measures and then **discards for want of a slot** | `scripts/contributed/ceiling_dropped_begins_20260829-064955.py` -> `confirm_plan` | **9 on Cold War sound, and `derive_closure` turned them into 18 more.** Distinct from 22/23: those are endings the list never measured, these are beginnings it *did* measure and the 700 ceiling threw away. Spent by nothing yet; re-run after any pass that grows the corpus, since the cut list changes |
 | — | localize unfolding | `localizeentry` | `confirm_localize` | **off, and refuses to run.** Worthless — see dead ends |
 
 ### Every method that has actually been run
@@ -1449,6 +1450,59 @@ plan means nothing at all and was not counted here.
 Widening its own lists, eventually. Each step has returned more than the last so far, and the
 cores *shrink* as the lists widen -- deeper stripping leaves less middle -- so the two move against
 each other and there is a width past which it stops. Nobody has found it yet.
+
+---
+
+## 31. Beginnings the ceiling drops
+
+```
+python contrib/ceiling_dropped_begins.py --sound --plan plans/ceiling_sound.txt
+bin\windows\confirm_plan.exe plans/ceiling_sound.txt --game BLKOPSCW
+```
+
+Methods 22 and 23 mine the endings `data/suffixes.txt` **never measured**. This mines the
+beginnings it *did* measure and then threw away, which is a different failure and needs the
+opposite remedy.
+
+`reach.py` puts `xsounds` at **100% reached and 10.7% named** -- the endings can express these
+names, the beginnings almost never can. That reads exactly like a stale list asking to be
+re-measured, and it is the trap. `derive_lists.py` already says what is happening, in its own
+summary line:
+
+    sound.prefixes.txt: 839 measured, 14 carried, 153 past the ceiling of 700 dropped
+    the ceiling cut 153 measured beginnings, the largest being vox/scripted/sims/ (454 names)
+
+The measurement finds the vocabulary. **The cap discards it.** So re-measuring cannot raise reach
+-- it discards a different 153 -- which is the same displacement recorded above for the general
+lists, where three consecutive folds gave 55 names, then 294, then 51 on a corpus two and a half
+times larger.
+
+**A plan has no cap.** That is the entire method: put the discarded beginnings in front of the
+engine directly. Nothing shared changes and no fingerprint moves, because `data/` is never
+written -- the generator lifts the ceiling, takes the measurement, and restores the four committed
+lists from a backup in a `finally`.
+
+### What it returned
+
+153 beginnings x 1,985,997 all-boundary sound cores x 2,890 sound endings, **884 billion
+candidates on Cold War: 9 names**, at 0.0114 expected by coincidence. `derive_closure.py` then
+turned those 9 seeds into **18 more**, which is the usual multiple and the reason a small pass is
+still worth submitting.
+
+The 153 are not exotic. They are ordinary Cold War sound paths too deep for a 700-line file:
+`bik_execution_` -- which `reach.py` separately reports as heading 136 names with no cut carried
+-- `amb/cp_rus_amerika/control_room/emt_`, `cp/level/cp_nam_prisoner/bridge/evt_`.
+
+### And it is spent by
+
+Nothing yet, and it does not decay the way a recombination does: the cut list is recomputed from
+the corpus, so **every pass that confirms names changes which beginnings the ceiling drops**. Re-run
+it after any gain. The general lists have the same hole -- `--general` aims it there -- and that
+half is unmeasured.
+
+The honest ceiling on it is the cap itself: 153 beginnings is all a 700-slot file is currently
+hiding, so this is a seam rather than a mine. Raising `MOST_PREFIXES` would close it altogether,
+and is a decision about shared state rather than a pass.
 
 ---
 
