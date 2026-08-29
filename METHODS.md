@@ -2155,6 +2155,30 @@ corpus* returned 7 names and *doubly uncarried* returned 0, because both crossed
 with **Cold War's own** stems -- a corpus recombined with itself, bounded by the region it already
 covers. The cap matters when the stems come from **outside** it.
 
+### And on the sound side the ceiling is the binding constraint, not the measurement — 2026-08-29
+
+`reach.py` reports `xsounds` at **100% reached and 10.7% named**: the ending list can express
+these names, and the beginning list almost never can. The obvious reading is that the sound
+beginnings have gone stale and want re-measuring. They have not, and re-measuring does not help.
+
+`derive_lists.py` measures 839 sound beginnings against a ceiling of 700, and says what it did
+with the rest:
+
+    sound.prefixes.txt: 839 measured, 14 carried, 153 past the ceiling of 700 dropped
+    the ceiling cut 153 measured beginnings, the largest being vox/scripted/sims/ (454 names)
+
+So the measurement already finds the vocabulary and the **cap throws it away** -- and a re-measure
+throws away a different 153, which is the same displacement recorded above for the general lists
+(55 names, then 294, then 51, on a corpus two and a half times larger). Re-measuring a list whose
+ceiling is already binding reshuffles which beginnings survive; it does not raise reach.
+
+**What does reach past it is a plan**, which has no cap: `begin: @<the full measured list>` puts
+all 839 in front of the engine at once. That is the difference between the search everybody runs
+and one aimed at the ground the cap is hiding, and it costs no re-measurement and no fingerprint
+change to the shared lists. Note before building one that the `vox_` families this would reach
+are heavily worked already -- *the `vox_` slot grid* and *vox speaker x line grid* are both in the
+registry and the latter has decayed to 163,662 candidates a name.
+
 ### The endings list has the same hole, in the channel codes
 
 `data/suffixes.txt` does not carry **1,162** of the codes Cold War's own names end in, including
