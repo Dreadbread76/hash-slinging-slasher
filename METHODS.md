@@ -366,7 +366,6 @@ table under a name you would not have guessed is the thing you are about to rebu
 | uncarried endings ranks 3001-6000 over published cores | 1 | 1 | 1 | 2,409,887,028 | 2,409,887,028 | 2,409,887,028 | 2,409,887,028 | 2026-08-26 | 2026-08-26 | untried |
 | uncarried endings ranks 6001-9000 over published cores | 1 | 1 | 1 | 2,409,887,028 | 2,409,887,028 | 2,409,887,028 | 2,409,887,028 | 2026-08-26 | 2026-08-26 | untried |
 | measured tails of length 40 | 1 | 2 | 40 | 97,801,973,850 | 2,445,049,346 | 1,397,171,055 | 1,397,171,055 | 2026-08-25 | 2026-08-25 | live |
-| all-boundary cores x uncarried endings, 2 segment(s), top 300000 | 1 | 1 | 219 | 540,412,501,369 | 2,467,636,992 | 2,467,636,992 | 2,467,636,992 | 2026-08-29 | 2026-08-29 | untried |
 | heads of length 3, head-measured alphabet | 1 | 3 | 81 | 201,629,990,289 | 2,489,259,139 | 1,737,854,928 | 4,058,229,717 | 2026-08-23 | 2026-08-27 | live |
 | measured heads of length 24 | 1 | 2 | 114 | 296,486,731,600 | 2,600,760,803 | 1,629,047,975 | 6,445,363,730 | 2026-08-25 | 2026-08-25 | cooling |
 | measured tails of length 8 | 2 | 6 | 271 | 753,428,154,966 | 2,780,177,693 | 1,435,820,931 | 2,357,317,948 | 2026-08-25 | 2026-08-25 | live |
@@ -382,6 +381,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | measured tails of length 9 | 1 | 2 | 64 | 266,568,581,576 | 4,165,134,087 | 3,920,126,199 | 4,442,809,692 | 2026-08-25 | 2026-08-25 | live |
 | uncarried two-segment endings | 1 | 1 | 23 | 102,361,883,258 | 4,450,516,663 | 4,450,516,663 | 4,450,516,663 | 2026-08-26 | 2026-08-26 | untried |
 | uncarried endings ranks 60001-120000 over published cores | 1 | 2 | 21 | 95,849,557,466 | 4,564,264,641 | 2,995,298,670 | 9,584,955,746 | 2026-08-23 | 2026-08-23 | cooling |
+| all-boundary cores x uncarried endings, 2 segment(s), top 300000 | 1 | 2 | 231 | 1,080,825,002,738 | 4,678,896,115 | 2,467,636,992 | 45,034,375,114 | 2026-08-29 | 2026-08-29 | spent |
 | measured tails of length 5 | 2 | 8 | 105 | 533,600,850,606 | 5,081,912,862 | 2,214,417,335 | 4,556,006,356 | 2026-08-25 | 2026-08-25 | live |
 | measured tails of length 7 | 1 | 3 | 51 | 262,284,435,218 | 5,142,832,063 | 3,013,818,603 | 12,497,565,171 | 2026-08-25 | 2026-08-25 | cooling |
 | measured tails of length 10 | 2 | 7 | 262 | 1,357,535,317,614 | 5,181,432,509 | 2,868,533,268 | 11,751,144,491 | 2026-08-25 | 2026-08-25 | cooling |
@@ -480,7 +480,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | v2 material borrowed endings, ranks 40001-48000 | 1 | 2 | 3 | 3,413,430,625,500 | 1,137,810,208,500 | 859,169,382,750 | 859,169,382,750 | 2026-08-26 | 2026-08-28 | live |
 | v2 material borrowed endings, ranks 32001-40000 | 1 | 1 | 1 | 1,695,955,968,000 | 1,695,955,968,000 | 1,695,955,968,000 | 1,695,955,968,000 | 2026-08-25 | 2026-08-25 | untried |
 | borrowed decorations over held cores | 1 | 2 | 2 | 4,004,234,517,300 | 2,002,117,258,650 | 22,720,788,300 | 22,720,788,300 | 2026-08-24 | 2026-08-27 | live |
-| not recorded | 1 | 84 | 3,758 | - | - | - | - | 2026-08-19 | 2026-08-29 | unmeasured |
+| not recorded | 1 | 85 | 3,758 | - | - | - | - | 2026-08-19 | 2026-08-29 | unmeasured |
 | bo3 techset tag sweep | 1 | 2 | 1,673 | - | - | - | - | 2026-08-18 | 2026-08-19 | unmeasured |
 | cutting at underscores and recombining | 1 | 1 | 435 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | general search, confirmed seeds only | 1 | 3 | 75 | - | - | - | - | 2026-08-20 | 2026-08-20 | unmeasured |
@@ -503,7 +503,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-425 distinct methods, run 485 ways between them, across 1773 runs. `names` is what each run
+425 distinct methods, run 485 ways between them, across 1775 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
