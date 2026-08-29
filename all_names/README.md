@@ -5,11 +5,11 @@
 
 <table>
 <tr><th align="left"><code>blkops04/</code></th>
-<th align="right" colspan="2">77,730 names in 6 file(s)</th>
+<th align="right" colspan="2">77,731 names in 6 file(s)</th>
 </tr>
 <tr><th align="left">asset type</th><th align="right">found here</th><th align="right">named, of all in the game</th>
 </tr>
-<tr><td><code>xmodel</code></td><td align="right">9,046</td><td align="right">49,169 / 61,139 &nbsp;(80.4%)</td></tr>
+<tr><td><code>xmodel</code></td><td align="right">9,047</td><td align="right">49,170 / 61,139 &nbsp;(80.4%)</td></tr>
 <tr><td><code>material</code></td><td align="right">29,898</td><td align="right">102,012 / 122,750 &nbsp;(83.1%)</td></tr>
 <tr><td><code>image</code></td><td align="right">22,056</td><td align="right">129,083 / 167,360 &nbsp;(77.1%)</td></tr>
 <tr><td><code>xanim</code></td><td align="right">4,101</td><td align="right">16,070 / 21,968 &nbsp;(73.2%)</td></tr>

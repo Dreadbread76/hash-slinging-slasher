@@ -261,6 +261,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | rare shared-token splices family sizes 4201-4500 | 1 | 1 | 1 | 10,130,357 | 10,130,357 | 10,130,357 | 10,130,357 | 2026-08-28 | 2026-08-28 | untried |
 | \ bo4 rare shared-token splice family 2101-2400\ | 1 | 1 | 2 | 21,030,543 | 10,515,271 | 10,515,271 | 10,515,271 | 2026-08-28 | 2026-08-28 | untried |
 | sibling token substitution right context current | 1 | 1 | 23 | 296,853,548 | 12,906,676 | 12,906,676 | 12,906,676 | 2026-08-25 | 2026-08-25 | untried |
+| token edits model current | 1 | 1 | 1 | 13,717,240 | 13,717,240 | 13,717,240 | 13,717,240 | 2026-08-29 | 2026-08-29 | untried |
 | material cores spelled as xmodel | 3 | 5 | 35 | 495,999,750 | 14,171,421 | 90,750 | 43,640,625 | 2026-08-28 | 2026-08-28 | spent |
 | sibling token substitution left context current | 1 | 1 | 23 | 337,560,590 | 14,676,547 | 14,676,547 | 14,676,547 | 2026-08-25 | 2026-08-25 | untried |
 | character substitution | 1 | 1 | 81 | 1,256,307,739 | 15,509,972 | 15,509,972 | 15,509,972 | 2026-08-24 | 2026-08-24 | untried |
@@ -467,7 +468,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | v2 material borrowed endings, ranks 40001-48000 | 1 | 2 | 3 | 3,413,430,625,500 | 1,137,810,208,500 | 859,169,382,750 | 859,169,382,750 | 2026-08-26 | 2026-08-28 | live |
 | v2 material borrowed endings, ranks 32001-40000 | 1 | 1 | 1 | 1,695,955,968,000 | 1,695,955,968,000 | 1,695,955,968,000 | 1,695,955,968,000 | 2026-08-25 | 2026-08-25 | untried |
 | borrowed decorations over held cores | 1 | 2 | 2 | 4,004,234,517,300 | 2,002,117,258,650 | 22,720,788,300 | 22,720,788,300 | 2026-08-24 | 2026-08-27 | live |
-| not recorded | 1 | 83 | 3,758 | - | - | - | - | 2026-08-19 | 2026-08-29 | unmeasured |
+| not recorded | 1 | 84 | 3,758 | - | - | - | - | 2026-08-19 | 2026-08-29 | unmeasured |
 | bo3 techset tag sweep | 1 | 2 | 1,673 | - | - | - | - | 2026-08-18 | 2026-08-19 | unmeasured |
 | cutting at underscores and recombining | 1 | 1 | 435 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | general search, confirmed seeds only | 1 | 3 | 75 | - | - | - | - | 2026-08-20 | 2026-08-20 | unmeasured |
@@ -490,7 +491,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-412 distinct methods, run 472 ways between them, across 1736 runs. `names` is what each run
+413 distinct methods, run 473 ways between them, across 1738 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->

@@ -2,7 +2,7 @@
   "games": {
     "blkops04": {
       "files": 6,
-      "names": 77730,
+      "names": 77731,
       "types": {
         "image": {
           "found_pct": 77.1,
@@ -36,8 +36,8 @@
         },
         "xmodel": {
           "found_pct": 80.4,
-          "named": 49169,
-          "names": 9046,
+          "named": 49170,
+          "names": 9047,
           "total": 61139
         }
       }
@@ -95,6 +95,6 @@
   ],
   "totals": {
     "games": 2,
-    "names": 138870
+    "names": 138871
   }
 }
