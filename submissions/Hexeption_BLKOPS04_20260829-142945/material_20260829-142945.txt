@@ -1,0 +1,4 @@
+15c7eb62f9267c9,mc/mtl_p8_sta_vent_angled_fix
+181123bb28a94292,mc/mtl_p8_sta_parking_entrance_box_01_bolt_decal_02
+520dca466238bd8b,mc/mtl_c_t8_mp_spe_swat_dotd_warpaint1_com
+678ecf64c852c21b,mc/mtl_p8_spa_statue_planter_base_stone_decal
