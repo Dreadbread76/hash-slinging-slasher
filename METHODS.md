@@ -425,6 +425,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | all-boundary sound cores x uncarried sound endings, 4 segment(s), top 300000 | 1 | 1 | 21 | 609,524,631,742 | 29,024,982,463 | 29,024,982,463 | 29,024,982,463 | 2026-08-29 | 2026-08-29 | untried |
 | uncarried beginnings | 1 | 7 | 46 | 1,399,200,360,644 | 30,417,399,144 | 7,310,746,850 | 52,660,359,482 | 2026-08-23 | 2026-08-29 | cooling |
 | v2 material borrowed endings, ranks 1001-2000 | 1 | 2 | 12 | 426,823,897,500 | 35,568,658,125 | 23,561,037,500 | 71,591,520,000 | 2026-08-25 | 2026-08-28 | cooling |
+| all-boundary sound cores x uncarried sound endings, 5 segment(s), top 300000 | 1 | 1 | 17 | 609,393,831,306 | 35,846,695,959 | 35,846,695,959 | 35,846,695,959 | 2026-08-29 | 2026-08-29 | untried |
 | v2 xanim borrowed endings, ranks 16001-24000 | 1 | 2 | 6 | 221,211,648,000 | 36,868,608,000 | 28,137,516,750 | 28,137,516,750 | 2026-08-25 | 2026-08-28 | live |
 | xmodel cores under borrowed xmodel endings | 1 | 2 | 71 | 2,638,444,407,000 | 37,161,188,830 | 29,316,048,966 | 50,739,315,519 | 2026-08-24 | 2026-08-24 | live |
 | general beginnings the 700 ceiling drops | 1 | 3 | 11 | 421,400,593,610 | 38,309,144,873 | 11,115,142,226 | 11,115,142,226 | 2026-08-29 | 2026-08-29 | live |
@@ -508,7 +509,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-430 distinct methods, run 490 ways between them, across 1797 runs. `names` is what each run
+431 distinct methods, run 491 ways between them, across 1798 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
