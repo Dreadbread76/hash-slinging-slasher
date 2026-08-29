@@ -394,6 +394,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | measured tails of length 16 | 2 | 4 | 137 | 972,904,993,300 | 7,101,496,301 | 3,833,611,586 | 6,380,104,314 | 2026-08-25 | 2026-08-25 | live |
 | xmodel cores borrowed, xmodel decorations measured | 1 | 10 | 95 | 684,128,435,100 | 7,201,351,948 | 145,020,750 | 49,249,641,600 | 2026-08-24 | 2026-08-24 | spent |
 | measured tails of length 18 | 1 | 2 | 51 | 370,685,626,016 | 7,268,345,608 | 5,451,259,206 | 10,902,518,412 | 2026-08-25 | 2026-08-25 | live |
+| all-boundary cores x uncarried endings, 4 segment(s), top 300000 | 1 | 1 | 72 | 540,563,101,871 | 7,507,820,859 | 7,507,820,859 | 7,507,820,859 | 2026-08-29 | 2026-08-29 | untried |
 | measured tails of length 14 | 2 | 5 | 165 | 1,278,003,497,385 | 7,745,475,741 | 3,983,905,894 | 96,886,917,891 | 2026-08-25 | 2026-08-25 | spent |
 | xanim cores under borrowed xanim endings | 1 | 4 | 55 | 432,450,304,500 | 7,862,732,809 | 3,978,275,000 | 21,734,716,500 | 2026-08-24 | 2026-08-25 | cooling |
 | measured tails of length 12 | 2 | 8 | 190 | 1,547,737,441,906 | 8,145,986,536 | 477,783,178 | 477,783,178 | 2026-08-25 | 2026-08-25 | live |
@@ -505,7 +506,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-427 distinct methods, run 487 ways between them, across 1786 runs. `names` is what each run
+428 distinct methods, run 488 ways between them, across 1787 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
