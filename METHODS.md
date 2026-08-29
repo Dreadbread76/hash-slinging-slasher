@@ -441,9 +441,9 @@ table under a name you would not have guessed is the thing you are about to rebu
 | v2 material borrowed endings, ranks 3001-4000 | 1 | 3 | 6 | 641,527,887,000 | 106,921,314,500 | 106,007,401,500 | 107,421,063,750 | 2026-08-25 | 2026-08-28 | live |
 | v2 material borrowed endings, ranks 21001-22000 | 1 | 1 | 2 | 214,714,500,000 | 107,357,250,000 | 107,357,250,000 | 107,357,250,000 | 2026-08-27 | 2026-08-27 | untried |
 | v2 sound alias borrowed endings, ranks 1-8000 | 1 | 2 | 3 | 325,972,741,500 | 108,657,580,500 | 81,460,181,250 | 163,052,379,000 | 2026-08-25 | 2026-08-25 | live |
-| v2 xanim borrowed endings, ranks 8001-16000 | 1 | 1 | 1 | 108,889,609,500 | 108,889,609,500 | 108,889,609,500 | 108,889,609,500 | 2026-08-25 | 2026-08-25 | untried |
 | v2 xanim borrowed endings, ranks 56001-64000 | 1 | 1 | 1 | 109,885,734,000 | 109,885,734,000 | 109,885,734,000 | 109,885,734,000 | 2026-08-26 | 2026-08-26 | untried |
 | v2 xanim borrowed endings, ranks 72001-80000 | 1 | 2 | 2 | 221,415,673,500 | 110,707,836,750 | 108,865,606,500 | 112,550,067,000 | 2026-08-25 | 2026-08-28 | live |
+| v2 xanim borrowed endings, ranks 8001-16000 | 1 | 2 | 2 | 222,651,828,000 | 111,325,914,000 | 108,889,609,500 | 113,762,218,500 | 2026-08-25 | 2026-08-29 | live |
 | image cores under borrowed image endings | 1 | 4 | 66 | 8,319,045,063,000 | 126,046,137,318 | 47,775,902,275 | 173,376,335,343 | 2026-08-24 | 2026-08-24 | cooling |
 | v2 material borrowed endings, ranks 8001-9000 | 1 | 3 | 5 | 644,545,902,000 | 128,909,180,400 | 107,346,739,500 | 107,463,105,750 | 2026-08-27 | 2026-08-28 | live |
 | build strings under measured decorations | 1 | 1 | 6 | 885,240,258,000 | 147,540,043,000 | 147,540,043,000 | 147,540,043,000 | 2026-08-24 | 2026-08-24 | untried |
@@ -501,7 +501,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-423 distinct methods, run 483 ways between them, across 1758 runs. `names` is what each run
+423 distinct methods, run 483 ways between them, across 1759 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
