@@ -1,0 +1,2 @@
+2c9facc4ff85995d,ui_icon_emblems_sp_recon_torso
+76c2c5d8cacd8727,i_mtl_t8_drone_tank_robot_armor_decal1_ir
