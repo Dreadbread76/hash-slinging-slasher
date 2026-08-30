@@ -1,0 +1,3 @@
+154eb3b2eea188cc,ei/gfx9_fire_sm_base_anim_rof_i02_hdrg
+32f6c292c8322595,ei/gfx_gas_blur_thin_em_blue_pb_i16
+6b883c0159410f4f,ei/gfx9_fire_sm_base_anim_blue_i02_hdrg
