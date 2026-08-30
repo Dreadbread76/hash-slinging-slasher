@@ -1,0 +1,3 @@
+65486f675d3eac1a,mc/mtl_c_t8_blockout_gray_semi_gloss
+7045238fc33ef11b,mc/mtl_c_t8_blockout_gray_plastic_semi_gloss
+7cd3be2ec0128b1c,mc/mtl_veh_t8_mil_truck_att_3rd_top_black_dirty
