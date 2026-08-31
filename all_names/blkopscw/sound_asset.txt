@@ -191,6 +191,7 @@ df5334158b4df09,vox/scripted/mpl/anme/vox_anme_stk_hub_offline_01.rn75.pc.en.snd
 467c66409bb5bb14,vox/scripted/mpl/anme/vox_anme_stk_hub_online_mult_01.rn75.pc.en.snd
 3b41c28f660a7054,vox/scripted/operators/adlr/vox_adlr_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 1fb27ba5e5dbbf97,vox/scripted/operators/adlr/vox_adlr_mtx_execute_esad_00.rn75.pc.en.snd
+2002709fc1d80460,vox/scripted/operators/adlr/vox_adlr_mtx_execute_escape_death_00.rn75.pc.en.snd
 ac611dc5cd7f12c,vox/scripted/operators/adlr/vox_adlr_mtx_execute_explode_kill_00.rn75.pc.en.snd
 6cf57de39c238227,vox/scripted/operators/adlr/vox_adlr_mtx_execute_game_over_00.rn75.pc.en.snd
 47904b4c20a7782d,vox/scripted/operators/adlr/vox_adlr_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -198,6 +199,7 @@ b4894d9058165c0,vox/scripted/operators/adlr/vox_adlr_mtx_execute_knife_kill_00.r
 698e7a00842c85c,vox/scripted/operators/adlr/vox_adlr_mtx_execute_line_up_00.rn75.pc.en.snd
 58eecde4c68c8bbf,vox/scripted/operators/adlr/vox_adlr_mtx_execute_melee_kill_00.rn75.pc.en.snd
 b8ba2e49590f7d,vox/scripted/operators/adlr/vox_adlr_mtx_execute_nice_knife_00.rn75.pc.en.snd
+141f6ec64c61e060,vox/scripted/operators/adlr/vox_adlr_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 54beb798107b03f5,vox/scripted/operators/adlr/vox_adlr_mtx_execute_point_blank_00.rn75.pc.en.snd
 34e0e14a3150ace,vox/scripted/operators/adlr/vox_adlr_mtx_execute_rare_00.rn75.pc.en.snd
 698b9ef4383963ab,vox/scripted/operators/adlr/vox_adlr_mtx_execute_rare_01.rn75.pc.en.snd
@@ -211,6 +213,7 @@ b8ba2e49590f7d,vox/scripted/operators/adlr/vox_adlr_mtx_execute_nice_knife_00.rn
 287521fedb3b068f,vox/scripted/operators/adlr/vox_adlr_mtx_execute_war_over_00.rn75.pc.en.snd
 ede06168171afb8,vox/scripted/operators/antv/vox_antv_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 12f083ce51f3947b,vox/scripted/operators/antv/vox_antv_mtx_execute_esad_00.rn75.pc.en.snd
+305f841503ae0e44,vox/scripted/operators/antv/vox_antv_mtx_execute_escape_death_00.rn75.pc.en.snd
 2c6b81c9bb079490,vox/scripted/operators/antv/vox_antv_mtx_execute_explode_kill_00.rn75.pc.en.snd
 1c12ad98f6a66c4b,vox/scripted/operators/antv/vox_antv_mtx_execute_game_over_00.rn75.pc.en.snd
 35b43d5e5ecdcef9,vox/scripted/operators/antv/vox_antv_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -218,6 +221,7 @@ ede06168171afb8,vox/scripted/operators/antv/vox_antv_mtx_execute_arrow_stab_00.r
 24fe16f602677ce0,vox/scripted/operators/antv/vox_antv_mtx_execute_line_up_00.rn75.pc.en.snd
 47cbd7acfe89c913,vox/scripted/operators/antv/vox_antv_mtx_execute_melee_kill_00.rn75.pc.en.snd
 2462d04d1835e331,vox/scripted/operators/antv/vox_antv_mtx_execute_nice_knife_00.rn75.pc.en.snd
+5486d756849e71b4,vox/scripted/operators/antv/vox_antv_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 2ee2ed4c39796471,vox/scripted/operators/antv/vox_antv_mtx_execute_point_blank_00.rn75.pc.en.snd
 52673fbb4d050cba,vox/scripted/operators/antv/vox_antv_mtx_execute_rare_00.rn75.pc.en.snd
 4491055cbe59df57,vox/scripted/operators/antv/vox_antv_mtx_execute_rare_01.rn75.pc.en.snd
@@ -231,6 +235,7 @@ ede06168171afb8,vox/scripted/operators/antv/vox_antv_mtx_execute_arrow_stab_00.r
 31588e2edd1974bb,vox/scripted/operators/antv/vox_antv_mtx_execute_war_over_00.rn75.pc.en.snd
 38f901737e073d9a,vox/scripted/operators/bakr/vox_bakr_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 503f8ef15c10b255,vox/scripted/operators/bakr/vox_bakr_mtx_execute_esad_00.rn75.pc.en.snd
+de58effceb6f136,vox/scripted/operators/bakr/vox_bakr_mtx_execute_escape_death_00.rn75.pc.en.snd
 558d6110ae802b2,vox/scripted/operators/bakr/vox_bakr_mtx_execute_explode_kill_00.rn75.pc.en.snd
 1cca2bf4887d5281,vox/scripted/operators/bakr/vox_bakr_mtx_execute_game_over_00.rn75.pc.en.snd
 5e9e927073c7768f,vox/scripted/operators/bakr/vox_bakr_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -238,6 +243,7 @@ ede06168171afb8,vox/scripted/operators/antv/vox_antv_mtx_execute_arrow_stab_00.r
 7ddd63b44092d3da,vox/scripted/operators/bakr/vox_bakr_mtx_execute_line_up_00.rn75.pc.en.snd
 6275340415f7dc1,vox/scripted/operators/bakr/vox_bakr_mtx_execute_melee_kill_00.rn75.pc.en.snd
 13a02dfa12bc1ac7,vox/scripted/operators/bakr/vox_bakr_mtx_execute_nice_knife_00.rn75.pc.en.snd
+53147eba859bcc96,vox/scripted/operators/bakr/vox_bakr_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 25f630ff98c91403,vox/scripted/operators/bakr/vox_bakr_mtx_execute_point_blank_00.rn75.pc.en.snd
 77c928d86498f350,vox/scripted/operators/bakr/vox_bakr_mtx_execute_rare_00.rn75.pc.en.snd
 364c145400a58775,vox/scripted/operators/bakr/vox_bakr_mtx_execute_rare_01.rn75.pc.en.snd
@@ -251,6 +257,7 @@ ede06168171afb8,vox/scripted/operators/antv/vox_antv_mtx_execute_arrow_stab_00.r
 458a9b597680d7d1,vox/scripted/operators/bakr/vox_bakr_mtx_execute_war_over_00.rn75.pc.en.snd
 144e7a37994a9e3a,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 6a88253bbda5e2b5,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_esad_00.rn75.pc.en.snd
+4d9015e5c776f56,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_escape_death_00.rn75.pc.en.snd
 77a4ddbfff1fbdd2,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_explode_kill_00.rn75.pc.en.snd
 5cccac17830d8a1,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_game_over_00.rn75.pc.en.snd
 43113b7967ec3a2f,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -258,6 +265,7 @@ ede06168171afb8,vox/scripted/operators/antv/vox_antv_mtx_execute_arrow_stab_00.r
 15c268fa3da607a,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_line_up_00.rn75.pc.en.snd
 4fabf705ea0ac761,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_melee_kill_00.rn75.pc.en.snd
 53d341d0d8a3ed67,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_nice_knife_00.rn75.pc.en.snd
+1e7fc0256677bab6,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 748e129c5df6b23,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_point_blank_00.rn75.pc.en.snd
 125f8871a9fabdb0,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_rare_00.rn75.pc.en.snd
 c3bf26061b95ad5,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_rare_01.rn75.pc.en.snd
@@ -271,6 +279,7 @@ c3bf26061b95ad5,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_rare_01.rn75.pc
 4d71f492abb8d9f1,vox/scripted/operators/bdzr/vox_bdzr_mtx_execute_war_over_00.rn75.pc.en.snd
 1eecef10bed0444c,vox/scripted/operators/beck/vox_beck_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 fce7f446bb47bcf,vox/scripted/operators/beck/vox_beck_mtx_execute_esad_00.rn75.pc.en.snd
+67bc8f1bd98a6b38,vox/scripted/operators/beck/vox_beck_mtx_execute_escape_death_00.rn75.pc.en.snd
 7af2a03c272c3f84,vox/scripted/operators/beck/vox_beck_mtx_execute_explode_kill_00.rn75.pc.en.snd
 77d2d6b4c739d25f,vox/scripted/operators/beck/vox_beck_mtx_execute_game_over_00.rn75.pc.en.snd
 37e48bf53c103655,vox/scripted/operators/beck/vox_beck_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -278,6 +287,7 @@ fce7f446bb47bcf,vox/scripted/operators/beck/vox_beck_mtx_execute_esad_00.rn75.pc
 25077f6f85c1b44,vox/scripted/operators/beck/vox_beck_mtx_execute_line_up_00.rn75.pc.en.snd
 e1d721f27e9bd27,vox/scripted/operators/beck/vox_beck_mtx_execute_melee_kill_00.rn75.pc.en.snd
 27f912e7017bddb5,vox/scripted/operators/beck/vox_beck_mtx_execute_nice_knife_00.rn75.pc.en.snd
+2151784c5d40d788,vox/scripted/operators/beck/vox_beck_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 667c000506cab7ed,vox/scripted/operators/beck/vox_beck_mtx_execute_point_blank_00.rn75.pc.en.snd
 2587637cb756be06,vox/scripted/operators/beck/vox_beck_mtx_execute_rare_00.rn75.pc.en.snd
 5bd70bb9c3247c23,vox/scripted/operators/beck/vox_beck_mtx_execute_rare_01.rn75.pc.en.snd
@@ -291,6 +301,7 @@ e1d721f27e9bd27,vox/scripted/operators/beck/vox_beck_mtx_execute_melee_kill_00.r
 55b0620ec62831c7,vox/scripted/operators/beck/vox_beck_mtx_execute_war_over_00.rn75.pc.en.snd
 3092b56371bf8e62,vox/scripted/operators/frs1/vox_frs1_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 1836d4c81049d0fd,vox/scripted/operators/frs1/vox_frs1_mtx_execute_esad_00.rn75.pc.en.snd
+270a0d58c6cf9ade,vox/scripted/operators/frs1/vox_frs1_mtx_execute_escape_death_00.rn75.pc.en.snd
 28217c27138b93a,vox/scripted/operators/frs1/vox_frs1_mtx_execute_explode_kill_00.rn75.pc.en.snd
 55a65861faf7fc69,vox/scripted/operators/frs1/vox_frs1_mtx_execute_game_over_00.rn75.pc.en.snd
 7889f78f3b1b3807,vox/scripted/operators/frs1/vox_frs1_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -298,6 +309,7 @@ e1d721f27e9bd27,vox/scripted/operators/beck/vox_beck_mtx_execute_melee_kill_00.r
 2fa64aa7b313bdf2,vox/scripted/operators/frs1/vox_frs1_mtx_execute_line_up_00.rn75.pc.en.snd
 64162da43f99c7f9,vox/scripted/operators/frs1/vox_frs1_mtx_execute_melee_kill_00.rn75.pc.en.snd
 49cdd55bf636d0af,vox/scripted/operators/frs1/vox_frs1_mtx_execute_nice_knife_00.rn75.pc.en.snd
+788649c5ed43b8ae,vox/scripted/operators/frs1/vox_frs1_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 5c518b11f237a8ab,vox/scripted/operators/frs1/vox_frs1_mtx_execute_point_blank_00.rn75.pc.en.snd
 5a9ca70837cd0438,vox/scripted/operators/frs1/vox_frs1_mtx_execute_rare_00.rn75.pc.en.snd
 6d1536d4d8f4f07d,vox/scripted/operators/frs1/vox_frs1_mtx_execute_rare_01.rn75.pc.en.snd
@@ -311,6 +323,7 @@ e1d721f27e9bd27,vox/scripted/operators/beck/vox_beck_mtx_execute_melee_kill_00.r
 1a7469889ab257b9,vox/scripted/operators/frs1/vox_frs1_mtx_execute_war_over_00.rn75.pc.en.snd
 6d142e6ca561fc70,vox/scripted/operators/frs2/vox_frs2_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 41011ac92f1ae833,vox/scripted/operators/frs2/vox_frs2_mtx_execute_esad_00.rn75.pc.en.snd
+15800d55213180dc,vox/scripted/operators/frs2/vox_frs2_mtx_execute_escape_death_00.rn75.pc.en.snd
 20fb9791b8a59d48,vox/scripted/operators/frs2/vox_frs2_mtx_execute_explode_kill_00.rn75.pc.en.snd
 34d4ef9e8f79d383,vox/scripted/operators/frs2/vox_frs2_mtx_execute_game_over_00.rn75.pc.en.snd
 3e2cfe9114337b21,vox/scripted/operators/frs2/vox_frs2_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -318,6 +331,7 @@ e1d721f27e9bd27,vox/scripted/operators/beck/vox_beck_mtx_execute_melee_kill_00.r
 5f29dfc6c410da48,vox/scripted/operators/frs2/vox_frs2_mtx_execute_line_up_00.rn75.pc.en.snd
 c5145dda75b025b,vox/scripted/operators/frs2/vox_frs2_mtx_execute_melee_kill_00.rn75.pc.en.snd
 608ecdeb163d34a9,vox/scripted/operators/frs2/vox_frs2_mtx_execute_nice_knife_00.rn75.pc.en.snd
+18bf55cc2edece3c,vox/scripted/operators/frs2/vox_frs2_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 38391dca48bf4489,vox/scripted/operators/frs2/vox_frs2_mtx_execute_point_blank_00.rn75.pc.en.snd
 29d7ece26c282632,vox/scripted/operators/frs2/vox_frs2_mtx_execute_rare_00.rn75.pc.en.snd
 1f8d16e58b32b9af,vox/scripted/operators/frs2/vox_frs2_mtx_execute_rare_01.rn75.pc.en.snd
@@ -331,6 +345,7 @@ c5145dda75b025b,vox/scripted/operators/frs2/vox_frs2_mtx_execute_melee_kill_00.r
 35ccbfac16dd3,vox/scripted/operators/frs2/vox_frs2_mtx_execute_war_over_00.rn75.pc.en.snd
 3e2b09ce98e1f51e,vox/scripted/operators/fuze/vox_fuze_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 3cb47ef505eb79b9,vox/scripted/operators/fuze/vox_fuze_mtx_execute_esad_00.rn75.pc.en.snd
+8bbd5c9d339ba7a,vox/scripted/operators/fuze/vox_fuze_mtx_execute_escape_death_00.rn75.pc.en.snd
 292f8a05b6c44776,vox/scripted/operators/fuze/vox_fuze_mtx_execute_explode_kill_00.rn75.pc.en.snd
 3b06d1ead398795,vox/scripted/operators/fuze/vox_fuze_mtx_execute_game_over_00.rn75.pc.en.snd
 3113aba5d9e0053b,vox/scripted/operators/fuze/vox_fuze_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -338,6 +353,7 @@ c5145dda75b025b,vox/scripted/operators/frs2/vox_frs2_mtx_execute_melee_kill_00.r
 600b867f2b0f039e,vox/scripted/operators/fuze/vox_fuze_mtx_execute_line_up_00.rn75.pc.en.snd
 1170c130f5c2ea65,vox/scripted/operators/fuze/vox_fuze_mtx_execute_melee_kill_00.rn75.pc.en.snd
 b0b2a08c0c53ecb,vox/scripted/operators/fuze/vox_fuze_mtx_execute_nice_knife_00.rn75.pc.en.snd
+474ddfdc8beae5ba,vox/scripted/operators/fuze/vox_fuze_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 72406ce4c43c999f,vox/scripted/operators/fuze/vox_fuze_mtx_execute_point_blank_00.rn75.pc.en.snd
 91a27c21282482c,vox/scripted/operators/fuze/vox_fuze_mtx_execute_rare_00.rn75.pc.en.snd
 2f0b8be01c0c47d1,vox/scripted/operators/fuze/vox_fuze_mtx_execute_rare_01.rn75.pc.en.snd
@@ -351,6 +367,7 @@ b0b2a08c0c53ecb,vox/scripted/operators/fuze/vox_fuze_mtx_execute_nice_knife_00.r
 6622d0c9e6ce2e8d,vox/scripted/operators/fuze/vox_fuze_mtx_execute_war_over_00.rn75.pc.en.snd
 5440f754d04dd9d0,vox/scripted/operators/grca/vox_grca_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 3b8468c106ac1153,vox/scripted/operators/grca/vox_grca_mtx_execute_esad_00.rn75.pc.en.snd
+4deedc7dbdaa8e3c,vox/scripted/operators/grca/vox_grca_mtx_execute_escape_death_00.rn75.pc.en.snd
 627f105025ba2128,vox/scripted/operators/grca/vox_grca_mtx_execute_explode_kill_00.rn75.pc.en.snd
 545858878baee63,vox/scripted/operators/grca/vox_grca_mtx_execute_game_over_00.rn75.pc.en.snd
 4f421ecce8ce2901,vox/scripted/operators/grca/vox_grca_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -358,6 +375,7 @@ b0b2a08c0c53ecb,vox/scripted/operators/fuze/vox_fuze_mtx_execute_nice_knife_00.r
 24ea1ee101072228,vox/scripted/operators/grca/vox_grca_mtx_execute_line_up_00.rn75.pc.en.snd
 70bc4ab106aa1dbb,vox/scripted/operators/grca/vox_grca_mtx_execute_melee_kill_00.rn75.pc.en.snd
 4bfa7528a67e3609,vox/scripted/operators/grca/vox_grca_mtx_execute_nice_knife_00.rn75.pc.en.snd
+4f6f4e65940d431c,vox/scripted/operators/grca/vox_grca_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 4c4305329af386e9,vox/scripted/operators/grca/vox_grca_mtx_execute_point_blank_00.rn75.pc.en.snd
 3565a21f9ba12fd2,vox/scripted/operators/grca/vox_grca_mtx_execute_rare_00.rn75.pc.en.snd
 7355f2717e5a714f,vox/scripted/operators/grca/vox_grca_mtx_execute_rare_01.rn75.pc.en.snd
@@ -371,6 +389,7 @@ b0b2a08c0c53ecb,vox/scripted/operators/fuze/vox_fuze_mtx_execute_nice_knife_00.r
 2003122148012c33,vox/scripted/operators/grca/vox_grca_mtx_execute_war_over_00.rn75.pc.en.snd
 1ceb3920dc0476ce,vox/scripted/operators/gstf/vox_gstf_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 2dcd84df946f6209,vox/scripted/operators/gstf/vox_gstf_mtx_execute_esad_00.rn75.pc.en.snd
+260deec044ce08ea,vox/scripted/operators/gstf/vox_gstf_mtx_execute_escape_death_00.rn75.pc.en.snd
 30252ae238ba5c6,vox/scripted/operators/gstf/vox_gstf_mtx_execute_explode_kill_00.rn75.pc.en.snd
 59493c4bd5f73a85,vox/scripted/operators/gstf/vox_gstf_mtx_execute_game_over_00.rn75.pc.en.snd
 5c1951c9bb4c760b,vox/scripted/operators/gstf/vox_gstf_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -378,6 +397,7 @@ b0b2a08c0c53ecb,vox/scripted/operators/fuze/vox_fuze_mtx_execute_nice_knife_00.r
 7ad804e5e924edce,vox/scripted/operators/gstf/vox_gstf_mtx_execute_line_up_00.rn75.pc.en.snd
 4c873450d77ba4b5,vox/scripted/operators/gstf/vox_gstf_mtx_execute_melee_kill_00.rn75.pc.en.snd
 754a887f6d17045b,vox/scripted/operators/gstf/vox_gstf_mtx_execute_nice_knife_00.rn75.pc.en.snd
+55301f1a3839a94a,vox/scripted/operators/gstf/vox_gstf_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 2f555367da42b94f,vox/scripted/operators/gstf/vox_gstf_mtx_execute_point_blank_00.rn75.pc.en.snd
 42798478142415dc,vox/scripted/operators/gstf/vox_gstf_mtx_execute_rare_00.rn75.pc.en.snd
 3cac82b69f2cd041,vox/scripted/operators/gstf/vox_gstf_mtx_execute_rare_01.rn75.pc.en.snd
@@ -393,6 +413,7 @@ b0b2a08c0c53ecb,vox/scripted/operators/fuze/vox_fuze_mtx_execute_nice_knife_00.r
 69410dc58951e1f2,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_baseball_bat_00.rn75.pc.en.snd
 3218a5d9e360619b,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_confirm_kill_00.rn75.pc.en.snd
 3e5b39e0a20e8ffb,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_esad_00.rn75.pc.en.snd
+396f761cf05b79c4,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_escape_death_00.rn75.pc.en.snd
 357b73d1a7b50010,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_explode_kill_00.rn75.pc.en.snd
 38ee53fa39b8aecb,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_game_over_00.rn75.pc.en.snd
 742ba78fd2b1f579,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -402,6 +423,7 @@ b0b2a08c0c53ecb,vox/scripted/operators/fuze/vox_fuze_mtx_execute_nice_knife_00.r
 bf09657e5504ad9,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_move_up_00.rn75.pc.en.snd
 4830c1daf74b8c22,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_newb_00.rn75.pc.en.snd
 3fe10792103ce2b1,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_nice_knife_00.rn75.pc.en.snd
+12fe4187f8829834,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 6d5a577dad5d8af1,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_point_blank_00.rn75.pc.en.snd
 7dd1f5cd9d20083a,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_rare_00.rn75.pc.en.snd
 6ffbbb6f0e74dad7,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_rare_01.rn75.pc.en.snd
@@ -416,6 +438,7 @@ bf09657e5504ad9,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_move_up_00.rn75
 3c04a3751e93e83b,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_war_over_00.rn75.pc.en.snd
 4a19df9fee8129a,vox/scripted/operators/jckl/vox_jckl_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 59f4b1a2dfe02f55,vox/scripted/operators/jckl/vox_jckl_mtx_execute_esad_00.rn75.pc.en.snd
+7b9ce69379980e36,vox/scripted/operators/jckl/vox_jckl_mtx_execute_escape_death_00.rn75.pc.en.snd
 73102da4b5c91fb2,vox/scripted/operators/jckl/vox_jckl_mtx_execute_explode_kill_00.rn75.pc.en.snd
 5239963efe7ca981,vox/scripted/operators/jckl/vox_jckl_mtx_execute_game_over_00.rn75.pc.en.snd
 4ef58afd71d1658f,vox/scripted/operators/jckl/vox_jckl_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -423,6 +446,7 @@ bf09657e5504ad9,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_move_up_00.rn75
 7c93df3cf53152da,vox/scripted/operators/jckl/vox_jckl_mtx_execute_line_up_00.rn75.pc.en.snd
 51cfefc6c24052c1,vox/scripted/operators/jckl/vox_jckl_mtx_execute_melee_kill_00.rn75.pc.en.snd
 5f48ca80939cefc7,vox/scripted/operators/jckl/vox_jckl_mtx_execute_nice_knife_00.rn75.pc.en.snd
+436b774783a5bb96,vox/scripted/operators/jckl/vox_jckl_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 164d298c96d30303,vox/scripted/operators/jckl/vox_jckl_mtx_execute_point_blank_00.rn75.pc.en.snd
 17e4b89e8687050,vox/scripted/operators/jckl/vox_jckl_mtx_execute_rare_00.rn75.pc.en.snd
 4001370584750475,vox/scripted/operators/jckl/vox_jckl_mtx_execute_rare_01.rn75.pc.en.snd
@@ -436,6 +460,7 @@ bf09657e5504ad9,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_move_up_00.rn75
 341d84a45fd2a4d1,vox/scripted/operators/jckl/vox_jckl_mtx_execute_war_over_00.rn75.pc.en.snd
 3c1ef5d82e2e12b8,vox/scripted/operators/kngs/vox_kngs_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 17d8f2a4a06b0f7b,vox/scripted/operators/kngs/vox_kngs_mtx_execute_esad_00.rn75.pc.en.snd
+1c53ffbd7fa2e944,vox/scripted/operators/kngs/vox_kngs_mtx_execute_escape_death_00.rn75.pc.en.snd
 185ffd7236fc6f90,vox/scripted/operators/kngs/vox_kngs_mtx_execute_explode_kill_00.rn75.pc.en.snd
 3f802e4bcc8fd4b,vox/scripted/operators/kngs/vox_kngs_mtx_execute_game_over_00.rn75.pc.en.snd
 576ea376e2ea07f9,vox/scripted/operators/kngs/vox_kngs_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -443,6 +468,7 @@ bf09657e5504ad9,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_move_up_00.rn75
 1ec6db2f540a5e0,vox/scripted/operators/kngs/vox_kngs_mtx_execute_line_up_00.rn75.pc.en.snd
 750cc76eab462c13,vox/scripted/operators/kngs/vox_kngs_mtx_execute_melee_kill_00.rn75.pc.en.snd
 51a3c00ec4f24631,vox/scripted/operators/kngs/vox_kngs_mtx_execute_nice_knife_00.rn75.pc.en.snd
+76413d6f08baaab4,vox/scripted/operators/kngs/vox_kngs_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 509d5364bd959d71,vox/scripted/operators/kngs/vox_kngs_mtx_execute_point_blank_00.rn75.pc.en.snd
 574fae919b7c87ba,vox/scripted/operators/kngs/vox_kngs_mtx_execute_rare_00.rn75.pc.en.snd
 497974330cd15a57,vox/scripted/operators/kngs/vox_kngs_mtx_execute_rare_01.rn75.pc.en.snd
@@ -456,6 +482,7 @@ bf09657e5504ad9,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_move_up_00.rn75
 737ef13f841a1fbb,vox/scripted/operators/kngs/vox_kngs_mtx_execute_war_over_00.rn75.pc.en.snd
 4b2a8c1e58ed2aaa,vox/scripted/operators/kngt/vox_kngt_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 368592ba61ad0445,vox/scripted/operators/kngt/vox_kngt_mtx_execute_esad_00.rn75.pc.en.snd
+55c251783e1b0586,vox/scripted/operators/kngt/vox_kngt_mtx_execute_escape_death_00.rn75.pc.en.snd
 20e4f7f96cf30362,vox/scripted/operators/kngt/vox_kngt_mtx_execute_explode_kill_00.rn75.pc.en.snd
 1386af2c2d9e68d1,vox/scripted/operators/kngt/vox_kngt_mtx_execute_game_over_00.rn75.pc.en.snd
 63ff34f8d801e4bf,vox/scripted/operators/kngt/vox_kngt_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -463,6 +490,7 @@ bf09657e5504ad9,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_move_up_00.rn75
 7de275f7ce0459aa,vox/scripted/operators/kngt/vox_kngt_mtx_execute_line_up_00.rn75.pc.en.snd
 1e5ba265a77f6d71,vox/scripted/operators/kngt/vox_kngt_mtx_execute_melee_kill_00.rn75.pc.en.snd
 6bd13494d5e1ab77,vox/scripted/operators/kngt/vox_kngt_mtx_execute_nice_knife_00.rn75.pc.en.snd
+46b5cb6c067e5906,vox/scripted/operators/kngt/vox_kngt_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 311288b3941e853,vox/scripted/operators/kngt/vox_kngt_mtx_execute_point_blank_00.rn75.pc.en.snd
 4fdc4a7531825820,vox/scripted/operators/kngt/vox_kngt_mtx_execute_rare_00.rn75.pc.en.snd
 284d259a3e8e785,vox/scripted/operators/kngt/vox_kngt_mtx_execute_rare_01.rn75.pc.en.snd
@@ -476,6 +504,7 @@ bf09657e5504ad9,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_move_up_00.rn75
 5487cf779e934001,vox/scripted/operators/kngt/vox_kngt_mtx_execute_war_over_00.rn75.pc.en.snd
 1511eea89ecefea,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 2fb7860989757085,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_esad_00.rn75.pc.en.snd
+40f85596f49563c6,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_escape_death_00.rn75.pc.en.snd
 2cade12876e6d7a2,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_explode_kill_00.rn75.pc.en.snd
 4eda4ad7715f0011,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_game_over_00.rn75.pc.en.snd
 10fe66f72e95d7ff,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -483,6 +512,7 @@ bf09657e5504ad9,vox/scripted/operators/hdsn/vox_hdsn_mtx_execute_move_up_00.rn75
 52a10576e1b32eea,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_line_up_00.rn75.pc.en.snd
 18ccdf57214500b1,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_melee_kill_00.rn75.pc.en.snd
 386d278070137cb7,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_nice_knife_00.rn75.pc.en.snd
+ddffd7fe622c646,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 5ece246b0a0db193,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_point_blank_00.rn75.pc.en.snd
 20dbee2219fe4a60,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_rare_00.rn75.pc.en.snd
 92a77327e30f4c5,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_rare_01.rn75.pc.en.snd
@@ -496,6 +526,7 @@ e455fbfaa688783,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_shotgun_kill_00
 6288566344792941,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_war_over_00.rn75.pc.en.snd
 4595f3f5040cf978,vox/scripted/operators/lazr/vox_lazr_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 4465be30148e23b,vox/scripted/operators/lazr/vox_lazr_mtx_execute_esad_00.rn75.pc.en.snd
+54dc869c5d065f04,vox/scripted/operators/lazr/vox_lazr_mtx_execute_escape_death_00.rn75.pc.en.snd
 3ca7d54a61d0b350,vox/scripted/operators/lazr/vox_lazr_mtx_execute_explode_kill_00.rn75.pc.en.snd
 67549d6480a2aa0b,vox/scripted/operators/lazr/vox_lazr_mtx_execute_game_over_00.rn75.pc.en.snd
 4b6111a71de081b9,vox/scripted/operators/lazr/vox_lazr_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -503,6 +534,7 @@ e455fbfaa688783,vox/scripted/operators/ktsn/vox_ktsn_mtx_execute_shotgun_kill_00
 2f99014ed2849a0,vox/scripted/operators/lazr/vox_lazr_mtx_execute_line_up_00.rn75.pc.en.snd
 59c141147f33c7d3,vox/scripted/operators/lazr/vox_lazr_mtx_execute_melee_kill_00.rn75.pc.en.snd
 3af08c4aafe45df1,vox/scripted/operators/lazr/vox_lazr_mtx_execute_nice_knife_00.rn75.pc.en.snd
+492a41e691a90074,vox/scripted/operators/lazr/vox_lazr_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 3b11fd0f3dceca31,vox/scripted/operators/lazr/vox_lazr_mtx_execute_point_blank_00.rn75.pc.en.snd
 70a58f4a17ce037a,vox/scripted/operators/lazr/vox_lazr_mtx_execute_rare_00.rn75.pc.en.snd
 663554eb8c05ff17,vox/scripted/operators/lazr/vox_lazr_mtx_execute_rare_01.rn75.pc.en.snd
@@ -516,6 +548,7 @@ c976bb0018738d5,vox/scripted/operators/lazr/vox_lazr_mtx_execute_rare_03.rn75.pc
 458c56bfdc43477b,vox/scripted/operators/lazr/vox_lazr_mtx_execute_war_over_00.rn75.pc.en.snd
 2f79cca7ea6d0d28,vox/scripted/operators/masn/vox_masn_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 225b5b76017fb60b,vox/scripted/operators/masn/vox_masn_mtx_execute_esad_00.rn75.pc.en.snd
+72b34656e46b9a34,vox/scripted/operators/masn/vox_masn_mtx_execute_escape_death_00.rn75.pc.en.snd
 5ecc47e3d401220,vox/scripted/operators/masn/vox_masn_mtx_execute_explode_kill_00.rn75.pc.en.snd
 7240635f3a2bd87b,vox/scripted/operators/masn/vox_masn_mtx_execute_game_over_00.rn75.pc.en.snd
 5a5194f881415609,vox/scripted/operators/masn/vox_masn_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -523,6 +556,7 @@ c976bb0018738d5,vox/scripted/operators/lazr/vox_lazr_mtx_execute_rare_03.rn75.pc
 7175765223afbd90,vox/scripted/operators/masn/vox_masn_mtx_execute_line_up_00.rn75.pc.en.snd
 4adc27fe830f663,vox/scripted/operators/masn/vox_masn_mtx_execute_melee_kill_00.rn75.pc.en.snd
 1afee6094b2d9581,vox/scripted/operators/masn/vox_masn_mtx_execute_nice_knife_00.rn75.pc.en.snd
+72b8b00c9ad47004,vox/scripted/operators/masn/vox_masn_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 5b664ff5772ba661,vox/scripted/operators/masn/vox_masn_mtx_execute_point_blank_00.rn75.pc.en.snd
 52cb412bfe783faa,vox/scripted/operators/masn/vox_masn_mtx_execute_rare_00.rn75.pc.en.snd
 24c3090e268e7087,vox/scripted/operators/masn/vox_masn_mtx_execute_rare_01.rn75.pc.en.snd
@@ -536,6 +570,7 @@ c976bb0018738d5,vox/scripted/operators/lazr/vox_lazr_mtx_execute_rare_03.rn75.pc
 614b3f4d98dd988b,vox/scripted/operators/masn/vox_masn_mtx_execute_war_over_00.rn75.pc.en.snd
 294c3c197992fc08,vox/scripted/operators/maxi/vox_maxi_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 627ead4bce9e882b,vox/scripted/operators/maxi/vox_maxi_mtx_execute_esad_00.rn75.pc.en.snd
+1b4b2a7d51dc1494,vox/scripted/operators/maxi/vox_maxi_mtx_execute_escape_death_00.rn75.pc.en.snd
 3e356fb819bc7c00,vox/scripted/operators/maxi/vox_maxi_mtx_execute_explode_kill_00.rn75.pc.en.snd
 4a14fa471dcacedb,vox/scripted/operators/maxi/vox_maxi_mtx_execute_game_over_00.rn75.pc.en.snd
 6f5eb6c2bcb27e69,vox/scripted/operators/maxi/vox_maxi_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -543,6 +578,7 @@ c976bb0018738d5,vox/scripted/operators/lazr/vox_lazr_mtx_execute_rare_03.rn75.pc
 334ad5008a156070,vox/scripted/operators/maxi/vox_maxi_mtx_execute_line_up_00.rn75.pc.en.snd
 2f1f6a508918ddc3,vox/scripted/operators/maxi/vox_maxi_mtx_execute_melee_kill_00.rn75.pc.en.snd
 127f34a36f3b5de1,vox/scripted/operators/maxi/vox_maxi_mtx_execute_nice_knife_00.rn75.pc.en.snd
+65e83ab7a6b8e64,vox/scripted/operators/maxi/vox_maxi_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 14b35f9fd486eb41,vox/scripted/operators/maxi/vox_maxi_mtx_execute_point_blank_00.rn75.pc.en.snd
 3d30772492ec66ca,vox/scripted/operators/maxi/vox_maxi_mtx_execute_rare_00.rn75.pc.en.snd
 76410468cf4d0c27,vox/scripted/operators/maxi/vox_maxi_mtx_execute_rare_01.rn75.pc.en.snd
@@ -572,6 +608,7 @@ fb085684d7b2d9c,vox/scripted/operators/maxi/vox_maxi_mtx_execute_rare_06.rn75.pc
 13072495d1f5cc5e,vox/scripted/operators/mcln/vox_mcln_mtx_execute_rare_15.rn75.pc.en.snd
 794695af148aead8,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 75f190bbfa8b51db,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_esad_00.rn75.pc.en.snd
+393985eb0b1a0fe4,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_escape_death_00.rn75.pc.en.snd
 75fa046232037eb0,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_explode_kill_00.rn75.pc.en.snd
 646de2690c4e196b,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_game_over_00.rn75.pc.en.snd
 44b7a642248ae19,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -579,6 +616,7 @@ fb085684d7b2d9c,vox/scripted/operators/maxi/vox_maxi_mtx_execute_rare_06.rn75.pc
 6db7487fec72500,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_line_up_00.rn75.pc.en.snd
 2c574f9e253ea1b3,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_melee_kill_00.rn75.pc.en.snd
 4c54c075ccd42ad1,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_nice_knife_00.rn75.pc.en.snd
+48d63acada072ed4,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 4237e710105aaa91,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_point_blank_00.rn75.pc.en.snd
 1ed26ecc5345e11a,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_rare_00.rn75.pc.en.snd
 7f7627eb5fb109b7,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_rare_01.rn75.pc.en.snd
@@ -592,6 +630,7 @@ e3a20b146645e11,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_rare_07.rn75.pc
 5e11a037d24139db,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_war_over_00.rn75.pc.en.snd
 46ecc0fb8c505c66,vox/scripted/operators/mrs2/vox_mrs2_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 53a37d8f69152621,vox/scripted/operators/mrs2/vox_mrs2_mtx_execute_esad_00.rn75.pc.en.snd
+35ec8841343a8a62,vox/scripted/operators/mrs2/vox_mrs2_mtx_execute_escape_death_00.rn75.pc.en.snd
 2e60028db79805be,vox/scripted/operators/mrs2/vox_mrs2_mtx_execute_explode_kill_00.rn75.pc.en.snd
 53a671b262d5571d,vox/scripted/operators/mrs2/vox_mrs2_mtx_execute_game_over_00.rn75.pc.en.snd
 3af634da84ddb3b3,vox/scripted/operators/mrs2/vox_mrs2_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -599,6 +638,7 @@ e3a20b146645e11,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_rare_07.rn75.pc
 148cdee3ee11c096,vox/scripted/operators/mrs2/vox_mrs2_mtx_execute_line_up_00.rn75.pc.en.snd
 10f025a3b3f9b79d,vox/scripted/operators/mrs2/vox_mrs2_mtx_execute_melee_kill_00.rn75.pc.en.snd
 12921eefdbd4c7b3,vox/scripted/operators/mrs2/vox_mrs2_mtx_execute_nice_knife_00.rn75.pc.en.snd
+36a7ccd1f093cbb2,vox/scripted/operators/mrs2/vox_mrs2_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 2a1b96c72ecee7c7,vox/scripted/operators/mrs2/vox_mrs2_mtx_execute_point_blank_00.rn75.pc.en.snd
 5866bcabcc9fde14,vox/scripted/operators/mrs2/vox_mrs2_mtx_execute_rare_00.rn75.pc.en.snd
 76e50ef7424d919,vox/scripted/operators/mrs2/vox_mrs2_mtx_execute_rare_01.rn75.pc.en.snd
@@ -612,6 +652,7 @@ e3a20b146645e11,vox/scripted/operators/mrs1/vox_mrs1_mtx_execute_rare_07.rn75.pc
 2ce6553d1b5f3515,vox/scripted/operators/mrs2/vox_mrs2_mtx_execute_war_over_00.rn75.pc.en.snd
 27ffa4f797a89448,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 4d7835edd702c56b,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_esad_00.rn75.pc.en.snd
+26a387de7f3ad2d4,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_escape_death_00.rn75.pc.en.snd
 bcbd3ea24070c40,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_explode_kill_00.rn75.pc.en.snd
 7ae88a635ba15f1b,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_game_over_00.rn75.pc.en.snd
 157801b5de0284a9,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -619,6 +660,7 @@ bcbd3ea24070c40,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_explode_kill_00
 110f10c21eb48fb0,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_line_up_00.rn75.pc.en.snd
 2f62d8753a313c03,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_melee_kill_00.rn75.pc.en.snd
 769d162814715421,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_nice_knife_00.rn75.pc.en.snd
+53d77bffc3543ea4,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 410341e7c0998a81,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_point_blank_00.rn75.pc.en.snd
 7c9fede9bba69f0a,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_rare_00.rn75.pc.en.snd
 ed65541df98fc67,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_rare_01.rn75.pc.en.snd
@@ -632,6 +674,7 @@ ed65541df98fc67,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_rare_01.rn75.pc
 4fe2c29caf164a2b,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_war_over_00.rn75.pc.en.snd
 48532f2f4d1f0c98,vox/scripted/operators/naga/vox_naga_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 6cdcd5e88b28569b,vox/scripted/operators/naga/vox_naga_mtx_execute_esad_00.rn75.pc.en.snd
+184fcefeb28dc1a4,vox/scripted/operators/naga/vox_naga_mtx_execute_escape_death_00.rn75.pc.en.snd
 118d8a7037fbcb70,vox/scripted/operators/naga/vox_naga_mtx_execute_explode_kill_00.rn75.pc.en.snd
 110b38f7c8f942b,vox/scripted/operators/naga/vox_naga_mtx_execute_game_over_00.rn75.pc.en.snd
 2da14d402de31fd9,vox/scripted/operators/naga/vox_naga_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -639,6 +682,7 @@ ed65541df98fc67,vox/scripted/operators/mrs3/vox_mrs3_mtx_execute_rare_01.rn75.pc
 14cdfb0e89423bc0,vox/scripted/operators/naga/vox_naga_mtx_execute_line_up_00.rn75.pc.en.snd
 3f68e78a3eeec773,vox/scripted/operators/naga/vox_naga_mtx_execute_melee_kill_00.rn75.pc.en.snd
 5cac0f973b82ad91,vox/scripted/operators/naga/vox_naga_mtx_execute_nice_knife_00.rn75.pc.en.snd
+7a1d5d774a20cb94,vox/scripted/operators/naga/vox_naga_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 59a0e7f2f5f70451,vox/scripted/operators/naga/vox_naga_mtx_execute_point_blank_00.rn75.pc.en.snd
 e0b1851f02709da,vox/scripted/operators/naga/vox_naga_mtx_execute_rare_00.rn75.pc.en.snd
 7b426e2d770f3077,vox/scripted/operators/naga/vox_naga_mtx_execute_rare_01.rn75.pc.en.snd
@@ -652,6 +696,7 @@ e0b1851f02709da,vox/scripted/operators/naga/vox_naga_mtx_execute_rare_00.rn75.pc
 afcb45a0a39c69b,vox/scripted/operators/naga/vox_naga_mtx_execute_war_over_00.rn75.pc.en.snd
 56490f52f96a066a,vox/scripted/operators/park/vox_park_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 46e3750d832f3b05,vox/scripted/operators/park/vox_park_mtx_execute_esad_00.rn75.pc.en.snd
+32225026e7917e46,vox/scripted/operators/park/vox_park_mtx_execute_escape_death_00.rn75.pc.en.snd
 1dd7dbb869e2f222,vox/scripted/operators/park/vox_park_mtx_execute_explode_kill_00.rn75.pc.en.snd
 303dffdef914f91,vox/scripted/operators/park/vox_park_mtx_execute_game_over_00.rn75.pc.en.snd
 6f62686ca023137f,vox/scripted/operators/park/vox_park_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -659,6 +704,7 @@ afcb45a0a39c69b,vox/scripted/operators/naga/vox_naga_mtx_execute_war_over_00.rn7
 13685cb4c138726a,vox/scripted/operators/park/vox_park_mtx_execute_line_up_00.rn75.pc.en.snd
 6dc4cfbf90c21731,vox/scripted/operators/park/vox_park_mtx_execute_melee_kill_00.rn75.pc.en.snd
 d6517e8df909337,vox/scripted/operators/park/vox_park_mtx_execute_nice_knife_00.rn75.pc.en.snd
+6c43fef557b001c6,vox/scripted/operators/park/vox_park_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 3d3225e07b9aed13,vox/scripted/operators/park/vox_park_mtx_execute_point_blank_00.rn75.pc.en.snd
 3807dd2613b814e0,vox/scripted/operators/park/vox_park_mtx_execute_rare_00.rn75.pc.en.snd
 2056663677eabf45,vox/scripted/operators/park/vox_park_mtx_execute_rare_01.rn75.pc.en.snd
@@ -672,6 +718,7 @@ fd6d486c87946d3,vox/scripted/operators/park/vox_park_mtx_execute_rare_07.rn75.pc
 7a85148613eadbc1,vox/scripted/operators/park/vox_park_mtx_execute_war_over_00.rn75.pc.en.snd
 24c032ed7549255e,vox/scripted/operators/prce/vox_prce_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 1f9a2eb7f378d3f9,vox/scripted/operators/prce/vox_prce_mtx_execute_esad_00.rn75.pc.en.snd
+3c6266ce8cef1fba,vox/scripted/operators/prce/vox_prce_mtx_execute_escape_death_00.rn75.pc.en.snd
 5c9a0bcdbb3636b6,vox/scripted/operators/prce/vox_prce_mtx_execute_explode_kill_00.rn75.pc.en.snd
 401df29342c773d5,vox/scripted/operators/prce/vox_prce_mtx_execute_game_over_00.rn75.pc.en.snd
 2f6dfae160453b7b,vox/scripted/operators/prce/vox_prce_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -679,6 +726,7 @@ fd6d486c87946d3,vox/scripted/operators/park/vox_park_mtx_execute_rare_07.rn75.pc
 483752f260b0c6de,vox/scripted/operators/prce/vox_prce_mtx_execute_line_up_00.rn75.pc.en.snd
 4ab7e47692b1b5a5,vox/scripted/operators/prce/vox_prce_mtx_execute_melee_kill_00.rn75.pc.en.snd
 1e9797785728a90b,vox/scripted/operators/prce/vox_prce_mtx_execute_nice_knife_00.rn75.pc.en.snd
+1adc6ef328e738fa,vox/scripted/operators/prce/vox_prce_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 1099b29781560ddf,vox/scripted/operators/prce/vox_prce_mtx_execute_point_blank_00.rn75.pc.en.snd
 6396a55c83bf1d6c,vox/scripted/operators/prce/vox_prce_mtx_execute_rare_00.rn75.pc.en.snd
 5de38970fd0d9a11,vox/scripted/operators/prce/vox_prce_mtx_execute_rare_01.rn75.pc.en.snd
@@ -692,6 +740,7 @@ fd6d486c87946d3,vox/scripted/operators/park/vox_park_mtx_execute_rare_07.rn75.pc
 4914f5a198c3ecd,vox/scripted/operators/prce/vox_prce_mtx_execute_war_over_00.rn75.pc.en.snd
 5a9870adf06fffba,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 6a20dc0471625035,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_esad_00.rn75.pc.en.snd
+528217e339e88cd6,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_escape_death_00.rn75.pc.en.snd
 454df444dc90db52,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_explode_kill_00.rn75.pc.en.snd
 3f846849e63121,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_game_over_00.rn75.pc.en.snd
 5820868f7c70e6af,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -699,6 +748,7 @@ fd6d486c87946d3,vox/scripted/operators/park/vox_park_mtx_execute_rare_07.rn75.pc
 25bf01b175dc84fa,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_line_up_00.rn75.pc.en.snd
 15f5ed7c413028e1,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_melee_kill_00.rn75.pc.en.snd
 1a1d38472fc94ee7,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_nice_knife_00.rn75.pc.en.snd
+338f0b3b7afc6736,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 1c582c3fda6417a3,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_point_blank_00.rn75.pc.en.snd
 11f83f3a5db72b30,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_rare_00.rn75.pc.en.snd
 bd4a9291575c855,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_rare_01.rn75.pc.en.snd
@@ -718,6 +768,7 @@ bd4a9291575c855,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_rare_01.rn75.pc
 5b66ff177654b1,vox/scripted/operators/rmbo/vox_rmbo_mtx_execute_rare_05.rn75.pc.en.snd
 59a8e19993d85dd6,vox/scripted/operators/rvas/vox_rvas_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 7c33dc66f4f1c6f1,vox/scripted/operators/rvas/vox_rvas_mtx_execute_esad_00.rn75.pc.en.snd
+2dd1afd8cd87a292,vox/scripted/operators/rvas/vox_rvas_mtx_execute_escape_death_00.rn75.pc.en.snd
 1c77ec6d9d68298e,vox/scripted/operators/rvas/vox_rvas_mtx_execute_explode_kill_00.rn75.pc.en.snd
 2e30464e9227e0d,vox/scripted/operators/rvas/vox_rvas_mtx_execute_game_over_00.rn75.pc.en.snd
 475edfdff4ace383,vox/scripted/operators/rvas/vox_rvas_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -725,6 +776,7 @@ bd4a9291575c855,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_rare_01.rn75.pc
 6f6e5a05e344a786,vox/scripted/operators/rvas/vox_rvas_mtx_execute_line_up_00.rn75.pc.en.snd
 77df54a76b0f572d,vox/scripted/operators/rvas/vox_rvas_mtx_execute_melee_kill_00.rn75.pc.en.snd
 62e55b6eaf712b43,vox/scripted/operators/rvas/vox_rvas_mtx_execute_nice_knife_00.rn75.pc.en.snd
+25a725640e06f902,vox/scripted/operators/rvas/vox_rvas_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 7bc4bc515ef2c3f7,vox/scripted/operators/rvas/vox_rvas_mtx_execute_point_blank_00.rn75.pc.en.snd
 5ead6a48ec02b844,vox/scripted/operators/rvas/vox_rvas_mtx_execute_rare_00.rn75.pc.en.snd
 2e49fe91a0a7b009,vox/scripted/operators/rvas/vox_rvas_mtx_execute_rare_01.rn75.pc.en.snd
@@ -738,6 +790,7 @@ bd4a9291575c855,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_rare_01.rn75.pc
 5c034d595d199525,vox/scripted/operators/rvas/vox_rvas_mtx_execute_war_over_00.rn75.pc.en.snd
 443832b1b2eb5ec4,vox/scripted/operators/sala/vox_sala_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 19a7aecbfd584f27,vox/scripted/operators/sala/vox_sala_mtx_execute_esad_00.rn75.pc.en.snd
+13272dd541048750,vox/scripted/operators/sala/vox_sala_mtx_execute_escape_death_00.rn75.pc.en.snd
 2271c9f1b3f980fc,vox/scripted/operators/sala/vox_sala_mtx_execute_explode_kill_00.rn75.pc.en.snd
 1a95423bb83ac557,vox/scripted/operators/sala/vox_sala_mtx_execute_game_over_00.rn75.pc.en.snd
 488568f6763729fd,vox/scripted/operators/sala/vox_sala_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -745,6 +798,7 @@ bd4a9291575c855,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_rare_01.rn75.pc
 5cbfd191cd3962cc,vox/scripted/operators/sala/vox_sala_mtx_execute_line_up_00.rn75.pc.en.snd
 6418f05d21cfbd4f,vox/scripted/operators/sala/vox_sala_mtx_execute_melee_kill_00.rn75.pc.en.snd
 1c942f0721be7a4d,vox/scripted/operators/sala/vox_sala_mtx_execute_nice_knife_00.rn75.pc.en.snd
+e053dbf4e2cb5f0,vox/scripted/operators/sala/vox_sala_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 105013c459dc21e5,vox/scripted/operators/sala/vox_sala_mtx_execute_point_blank_00.rn75.pc.en.snd
 3b8b88b7b03c6c7e,vox/scripted/operators/sala/vox_sala_mtx_execute_rare_00.rn75.pc.en.snd
 4a27d9f1e6ef91db,vox/scripted/operators/sala/vox_sala_mtx_execute_rare_01.rn75.pc.en.snd
@@ -758,6 +812,7 @@ bd4a9291575c855,vox/scripted/operators/ptnv/vox_ptnv_mtx_execute_rare_01.rn75.pc
 312007791fa65a5f,vox/scripted/operators/sala/vox_sala_mtx_execute_war_over_00.rn75.pc.en.snd
 562eba6a22eb7e62,vox/scripted/operators/sims/vox_sims_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 1dd3994ca65540fd,vox/scripted/operators/sims/vox_sims_mtx_execute_esad_00.rn75.pc.en.snd
+61292cdcfca90ade,vox/scripted/operators/sims/vox_sims_mtx_execute_escape_death_00.rn75.pc.en.snd
 3ca13746a712293a,vox/scripted/operators/sims/vox_sims_mtx_execute_explode_kill_00.rn75.pc.en.snd
 2f0381004dc44c69,vox/scripted/operators/sims/vox_sims_mtx_execute_game_over_00.rn75.pc.en.snd
 c9681ee48c40807,vox/scripted/operators/sims/vox_sims_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -765,6 +820,7 @@ c9681ee48c40807,vox/scripted/operators/sims/vox_sims_mtx_execute_hammer_kill_00.
 4f24ae2955d78df2,vox/scripted/operators/sims/vox_sims_mtx_execute_line_up_00.rn75.pc.en.snd
 9b232aaf0c5b7f9,vox/scripted/operators/sims/vox_sims_mtx_execute_melee_kill_00.rn75.pc.en.snd
 6f69da62a762c0af,vox/scripted/operators/sims/vox_sims_mtx_execute_nice_knife_00.rn75.pc.en.snd
+c92d424faec88ae,vox/scripted/operators/sims/vox_sims_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 705e1570ffe078ab,vox/scripted/operators/sims/vox_sims_mtx_execute_point_blank_00.rn75.pc.en.snd
 60396b8ccdd87438,vox/scripted/operators/sims/vox_sims_mtx_execute_rare_00.rn75.pc.en.snd
 72b1fb596f00607d,vox/scripted/operators/sims/vox_sims_mtx_execute_rare_01.rn75.pc.en.snd
@@ -778,6 +834,7 @@ c9681ee48c40807,vox/scripted/operators/sims/vox_sims_mtx_execute_hammer_kill_00.
 62077ed02d6cc7b9,vox/scripted/operators/sims/vox_sims_mtx_execute_war_over_00.rn75.pc.en.snd
 7f59a91276567206,vox/scripted/operators/stch/vox_stch_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 5f006fcca1acc301,vox/scripted/operators/stch/vox_stch_mtx_execute_esad_00.rn75.pc.en.snd
+7753d37ed4a47f02,vox/scripted/operators/stch/vox_stch_mtx_execute_escape_death_00.rn75.pc.en.snd
 636e5b8d2225cd5e,vox/scripted/operators/stch/vox_stch_mtx_execute_explode_kill_00.rn75.pc.en.snd
 5816cc521aff8cbd,vox/scripted/operators/stch/vox_stch_mtx_execute_game_over_00.rn75.pc.en.snd
 34d6163946f17c53,vox/scripted/operators/stch/vox_stch_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -785,6 +842,7 @@ c9681ee48c40807,vox/scripted/operators/sims/vox_sims_mtx_execute_hammer_kill_00.
 3778316557eff3b6,vox/scripted/operators/stch/vox_stch_mtx_execute_line_up_00.rn75.pc.en.snd
 247b6af259d4e1bd,vox/scripted/operators/stch/vox_stch_mtx_execute_melee_kill_00.rn75.pc.en.snd
 6dea7b375f2b2153,vox/scripted/operators/stch/vox_stch_mtx_execute_nice_knife_00.rn75.pc.en.snd
+4bf8c2197cf4c3d2,vox/scripted/operators/stch/vox_stch_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 2ab247add587ce67,vox/scripted/operators/stch/vox_stch_mtx_execute_point_blank_00.rn75.pc.en.snd
 358eaa5b46d179f4,vox/scripted/operators/stch/vox_stch_mtx_execute_rare_00.rn75.pc.en.snd
 42b0eefa7250fef9,vox/scripted/operators/stch/vox_stch_mtx_execute_rare_01.rn75.pc.en.snd
@@ -798,6 +856,7 @@ c9681ee48c40807,vox/scripted/operators/sims/vox_sims_mtx_execute_hammer_kill_00.
 4413ed82f750a635,vox/scripted/operators/stch/vox_stch_mtx_execute_war_over_00.rn75.pc.en.snd
 2d0cfc3dd52799ba,vox/scripted/operators/stry/vox_stry_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 5e3b14ca9f26ba35,vox/scripted/operators/stry/vox_stry_mtx_execute_esad_00.rn75.pc.en.snd
+6b68d32cdcde36d6,vox/scripted/operators/stry/vox_stry_mtx_execute_escape_death_00.rn75.pc.en.snd
 5e34af8e7f868552,vox/scripted/operators/stry/vox_stry_mtx_execute_explode_kill_00.rn75.pc.en.snd
 439df35e06bf2f21,vox/scripted/operators/stry/vox_stry_mtx_execute_game_over_00.rn75.pc.en.snd
 2bc3ac11206b94af,vox/scripted/operators/stry/vox_stry_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -805,6 +864,7 @@ c9681ee48c40807,vox/scripted/operators/sims/vox_sims_mtx_execute_hammer_kill_00.
 640fed5e8f3b52fa,vox/scripted/operators/stry/vox_stry_mtx_execute_line_up_00.rn75.pc.en.snd
 686a790c25e7c2e1,vox/scripted/operators/stry/vox_stry_mtx_execute_melee_kill_00.rn75.pc.en.snd
 6c91c3d71480e8e7,vox/scripted/operators/stry/vox_stry_mtx_execute_nice_knife_00.rn75.pc.en.snd
+73230bd1ef71536,vox/scripted/operators/stry/vox_stry_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 6ffb51c17e5ec5a3,vox/scripted/operators/stry/vox_stry_mtx_execute_point_blank_00.rn75.pc.en.snd
 61278008b7b9530,vox/scripted/operators/stry/vox_stry_mtx_execute_rare_00.rn75.pc.en.snd
 7feee1ef433a3255,vox/scripted/operators/stry/vox_stry_mtx_execute_rare_01.rn75.pc.en.snd
@@ -818,6 +878,7 @@ c9681ee48c40807,vox/scripted/operators/sims/vox_sims_mtx_execute_hammer_kill_00.
 65df462ca174e971,vox/scripted/operators/stry/vox_stry_mtx_execute_war_over_00.rn75.pc.en.snd
 448eb478b4cad388,vox/scripted/operators/weav/vox_weav_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 7892301238311bab,vox/scripted/operators/weav/vox_weav_mtx_execute_esad_00.rn75.pc.en.snd
+20c859b000e41814,vox/scripted/operators/weav/vox_weav_mtx_execute_escape_death_00.rn75.pc.en.snd
 43b29eeac8c47f80,vox/scripted/operators/weav/vox_weav_mtx_execute_explode_kill_00.rn75.pc.en.snd
 30648df9a70cd95b,vox/scripted/operators/weav/vox_weav_mtx_execute_game_over_00.rn75.pc.en.snd
 7928c0945c95ace9,vox/scripted/operators/weav/vox_weav_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -825,6 +886,7 @@ c9681ee48c40807,vox/scripted/operators/sims/vox_sims_mtx_execute_hammer_kill_00.
 352219d995d6e6f0,vox/scripted/operators/weav/vox_weav_mtx_execute_line_up_00.rn75.pc.en.snd
 4a61e2afc450b543,vox/scripted/operators/weav/vox_weav_mtx_execute_melee_kill_00.rn75.pc.en.snd
 2dc1ad02aa733561,vox/scripted/operators/weav/vox_weav_mtx_execute_nice_knife_00.rn75.pc.en.snd
+10288d7d1a4ebce4,vox/scripted/operators/weav/vox_weav_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 1e7d6971746a19c1,vox/scripted/operators/weav/vox_weav_mtx_execute_point_blank_00.rn75.pc.en.snd
 5343f9eafc7efa4a,vox/scripted/operators/weav/vox_weav_mtx_execute_rare_00.rn75.pc.en.snd
 c54872f38df9fa7,vox/scripted/operators/weav/vox_weav_mtx_execute_rare_01.rn75.pc.en.snd
@@ -838,6 +900,7 @@ c54872f38df9fa7,vox/scripted/operators/weav/vox_weav_mtx_execute_rare_01.rn75.pc
 5036d93b48e4c86b,vox/scripted/operators/weav/vox_weav_mtx_execute_war_over_00.rn75.pc.en.snd
 221ae3e840850396,vox/scripted/operators/wolf/vox_wolf_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 1c4dcd15f7998cb1,vox/scripted/operators/wolf/vox_wolf_mtx_execute_esad_00.rn75.pc.en.snd
+72c534b2b518cb52,vox/scripted/operators/wolf/vox_wolf_mtx_execute_escape_death_00.rn75.pc.en.snd
 c00567448fd384e,vox/scripted/operators/wolf/vox_wolf_mtx_execute_explode_kill_00.rn75.pc.en.snd
 7828f67f4517e3cd,vox/scripted/operators/wolf/vox_wolf_mtx_execute_game_over_00.rn75.pc.en.snd
 5eb6732cdd79ba43,vox/scripted/operators/wolf/vox_wolf_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -845,6 +908,7 @@ c00567448fd384e,vox/scripted/operators/wolf/vox_wolf_mtx_execute_explode_kill_00
 517a60521513bb46,vox/scripted/operators/wolf/vox_wolf_mtx_execute_line_up_00.rn75.pc.en.snd
 4f045cbccd86eed,vox/scripted/operators/wolf/vox_wolf_mtx_execute_melee_kill_00.rn75.pc.en.snd
 7abc402cb6ecfa03,vox/scripted/operators/wolf/vox_wolf_mtx_execute_nice_knife_00.rn75.pc.en.snd
+1384d5480dec22c2,vox/scripted/operators/wolf/vox_wolf_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 eddf8c0cdc33fb7,vox/scripted/operators/wolf/vox_wolf_mtx_execute_point_blank_00.rn75.pc.en.snd
 5de4d80b9c025104,vox/scripted/operators/wolf/vox_wolf_mtx_execute_rare_00.rn75.pc.en.snd
 18fa62142c3962c9,vox/scripted/operators/wolf/vox_wolf_mtx_execute_rare_01.rn75.pc.en.snd
@@ -858,6 +922,7 @@ eddf8c0cdc33fb7,vox/scripted/operators/wolf/vox_wolf_mtx_execute_point_blank_00.
 2b1e3985ac0e14e5,vox/scripted/operators/wolf/vox_wolf_mtx_execute_war_over_00.rn75.pc.en.snd
 354f4b3474fc2ab8,vox/scripted/operators/wood/vox_wood_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 125fc29f1469e77b,vox/scripted/operators/wood/vox_wood_mtx_execute_esad_00.rn75.pc.en.snd
+710b0be9c5ecc144,vox/scripted/operators/wood/vox_wood_mtx_execute_escape_death_00.rn75.pc.en.snd
 6d17099e7d464790,vox/scripted/operators/wood/vox_wood_mtx_execute_explode_kill_00.rn75.pc.en.snd
 27ccfe3c5c6854b,vox/scripted/operators/wood/vox_wood_mtx_execute_game_over_00.rn75.pc.en.snd
 12a7af43331ccff9,vox/scripted/operators/wood/vox_wood_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -865,6 +930,7 @@ eddf8c0cdc33fb7,vox/scripted/operators/wolf/vox_wolf_mtx_execute_point_blank_00.
 3aea7f6a32caede0,vox/scripted/operators/wood/vox_wood_mtx_execute_line_up_00.rn75.pc.en.snd
 6e3d1ccaf2144413,vox/scripted/operators/wood/vox_wood_mtx_execute_melee_kill_00.rn75.pc.en.snd
 4ad4156b0bc05e31,vox/scripted/operators/wood/vox_wood_mtx_execute_nice_knife_00.rn75.pc.en.snd
+317a493b58ed72b4,vox/scripted/operators/wood/vox_wood_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 bd65f310dc86571,vox/scripted/operators/wood/vox_wood_mtx_execute_point_blank_00.rn75.pc.en.snd
 51d67e8c0f7b5fba,vox/scripted/operators/wood/vox_wood_mtx_execute_rare_00.rn75.pc.en.snd
 4400442d80d03257,vox/scripted/operators/wood/vox_wood_mtx_execute_rare_01.rn75.pc.en.snd
@@ -878,6 +944,7 @@ bd65f310dc86571,vox/scripted/operators/wood/vox_wood_mtx_execute_point_blank_00.
 557f0b9d161277bb,vox/scripted/operators/wood/vox_wood_mtx_execute_war_over_00.rn75.pc.en.snd
 34af7dd4805af88,vox/scripted/operators/wrth/vox_wrth_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 6e10a248f322d7ab,vox/scripted/operators/wrth/vox_wrth_mtx_execute_esad_00.rn75.pc.en.snd
+2b2279ce7e655414,vox/scripted/operators/wrth/vox_wrth_mtx_execute_escape_death_00.rn75.pc.en.snd
 4e0cbf094645bb80,vox/scripted/operators/wrth/vox_wrth_mtx_execute_explode_kill_00.rn75.pc.en.snd
 411df3f10e608d5b,vox/scripted/operators/wrth/vox_wrth_mtx_execute_game_over_00.rn75.pc.en.snd
 4deb447a899980e9,vox/scripted/operators/wrth/vox_wrth_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -885,6 +952,7 @@ bd65f310dc86571,vox/scripted/operators/wood/vox_wood_mtx_execute_point_blank_00.
 518d28f4f1d77af0,vox/scripted/operators/wrth/vox_wrth_mtx_execute_line_up_00.rn75.pc.en.snd
 91e2614578b9143,vox/scripted/operators/wrth/vox_wrth_mtx_execute_melee_kill_00.rn75.pc.en.snd
 6c7df0673dae1161,vox/scripted/operators/wrth/vox_wrth_mtx_execute_nice_knife_00.rn75.pc.en.snd
+64eb1163475290e4,vox/scripted/operators/wrth/vox_wrth_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 733fed57a16dedc1,vox/scripted/operators/wrth/vox_wrth_mtx_execute_point_blank_00.rn75.pc.en.snd
 48c26c21b770b64a,vox/scripted/operators/wrth/vox_wrth_mtx_execute_rare_00.rn75.pc.en.snd
 1d2f965f3d15ba7,vox/scripted/operators/wrth/vox_wrth_mtx_execute_rare_01.rn75.pc.en.snd
@@ -898,6 +966,7 @@ bd65f310dc86571,vox/scripted/operators/wood/vox_wood_mtx_execute_point_blank_00.
 1ab584b89de0446b,vox/scripted/operators/wrth/vox_wrth_mtx_execute_war_over_00.rn75.pc.en.snd
 6ff3d0a04cf180e6,vox/scripted/operators/zyna/vox_zyna_mtx_execute_arrow_stab_00.rn75.pc.en.snd
 1ac6499ee1036ea1,vox/scripted/operators/zyna/vox_zyna_mtx_execute_esad_00.rn75.pc.en.snd
+4c41a1b53a66e2e2,vox/scripted/operators/zyna/vox_zyna_mtx_execute_escape_death_00.rn75.pc.en.snd
 44b51c01bdc45e3e,vox/scripted/operators/zyna/vox_zyna_mtx_execute_explode_kill_00.rn75.pc.en.snd
 35084454d80609d,vox/scripted/operators/zyna/vox_zyna_mtx_execute_game_over_00.rn75.pc.en.snd
 131a49cdd6aeb933,vox/scripted/operators/zyna/vox_zyna_mtx_execute_hammer_kill_00.rn75.pc.en.snd
@@ -905,6 +974,7 @@ bd65f310dc86571,vox/scripted/operators/wood/vox_wood_mtx_execute_point_blank_00.
 586cf75ce1ab2e16,vox/scripted/operators/zyna/vox_zyna_mtx_execute_line_up_00.rn75.pc.en.snd
 39f73548749adc1d,vox/scripted/operators/zyna/vox_zyna_mtx_execute_melee_kill_00.rn75.pc.en.snd
 3b992e949c75ec33,vox/scripted/operators/zyna/vox_zyna_mtx_execute_nice_knife_00.rn75.pc.en.snd
+ecbe1c54264d132,vox/scripted/operators/zyna/vox_zyna_mtx_execute_pistol_whip_00.rn75.pc.en.snd
 23fabba809fed47,vox/scripted/operators/zyna/vox_zyna_mtx_execute_point_blank_00.rn75.pc.en.snd
 1f8988bb448e2694,vox/scripted/operators/zyna/vox_zyna_mtx_execute_rare_00.rn75.pc.en.snd
 4e911cfeec132199,vox/scripted/operators/zyna/vox_zyna_mtx_execute_rare_01.rn75.pc.en.snd
