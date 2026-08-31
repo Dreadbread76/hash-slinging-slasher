@@ -293,10 +293,10 @@ table under a name you would not have guessed is the thing you are about to rebu
 | sibling token substitution right context current | 1 | 1 | 23 | 296,853,548 | 12,906,676 | 12,906,676 | 12,906,676 | 2026-08-25 | 2026-08-25 | untried |
 | token edits model current | 1 | 2 | 2 | 27,434,480 | 13,717,240 | 13,717,240 | 13,717,240 | 2026-08-29 | 2026-08-29 | live |
 | \ bo4 material token edits cap70 minseen1 20260830\ | 1 | 1 | 13 | 184,040,349 | 14,156,949 | 14,156,949 | 14,156,949 | 2026-08-30 | 2026-08-30 | untried |
-| material cores spelled as xmodel | 3 | 5 | 35 | 495,999,750 | 14,171,421 | 90,750 | 43,640,625 | 2026-08-28 | 2026-08-28 | spent |
 | \ bo4 material token edits cap50 minseen2 20260830\ | 1 | 1 | 9 | 131,591,450 | 14,621,272 | 14,621,272 | 14,621,272 | 2026-08-30 | 2026-08-30 | untried |
 | sibling token substitution left context current | 1 | 1 | 23 | 337,560,590 | 14,676,547 | 14,676,547 | 14,676,547 | 2026-08-25 | 2026-08-25 | untried |
 | character substitution | 1 | 1 | 81 | 1,256,307,739 | 15,509,972 | 15,509,972 | 15,509,972 | 2026-08-24 | 2026-08-24 | untried |
+| material cores spelled as xmodel | 4 | 6 | 37 | 581,092,250 | 15,705,195 | 90,750 | 42,546,250 | 2026-08-28 | 2026-08-31 | spent |
 | rare shared-token splices family sizes 11701-12000 | 1 | 1 | 1 | 17,801,434 | 17,801,434 | 17,801,434 | 17,801,434 | 2026-08-28 | 2026-08-28 | untried |
 | corpus-mined substitutions, top 300 | 1 | 4 | 6 | 109,732,535 | 18,288,755 | 13,715,940 | 27,434,695 | 2026-08-27 | 2026-08-27 | live |
 | character insertion | 1 | 2 | 135 | 2,577,959,172 | 19,095,993 | 16,740,545 | 16,740,545 | 2026-08-24 | 2026-08-24 | live |
@@ -520,7 +520,8 @@ table under a name you would not have guessed is the thing you are about to rebu
 | v2 image borrowed endings, ranks 1-8000 | 1 | 2 | 12 | 2,773,570,653,000 | 231,130,887,750 | 173,348,165,812 | 173,348,165,812 | 2026-08-25 | 2026-08-25 | live |
 | bo3 mod tools vocabulary under measured decorations | 1 | 2 | 19 | 5,624,859,212,000 | 296,045,221,684 | 281,242,960,600 | 312,492,178,444 | 2026-08-24 | 2026-08-24 | live |
 | heads of length 4 | 1 | 2 | 13 | 3,981,775,705,600 | 306,290,438,892 | 220,031,196,218 | 500,373,734,908 | 2026-08-24 | 2026-08-27 | live |
-| general search | 2 | 81 | 110,977 | 2,151,070,451,439,470 | 399,678,642,036 | 35,073,084,706 | 3,662,839,276,519 | 2026-08-19 | 2026-08-29 | spent |
+| borrowed decorations over held cores | 1 | 3 | 26 | 9,689,246,292,300 | 372,663,318,934 | 22,720,788,300 | 236,875,490,625 | 2026-08-24 | 2026-08-31 | spent |
+| general search | 2 | 82 | 111,239 | 2,151,070,451,439,470 | 399,678,642,036 | 35,073,084,706 | 3,662,839,276,519 | 2026-08-19 | 2026-08-31 | spent |
 | v2 material borrowed endings, ranks 56001-64000 | 1 | 2 | 8 | 3,394,468,255,500 | 424,308,531,937 | 339,049,575,900 | 566,406,792,000 | 2026-08-26 | 2026-08-26 | live |
 | v2 material borrowed endings, ranks 80001-88000 | 1 | 1 | 4 | 1,698,956,343,000 | 424,739,085,750 | 424,739,085,750 | 424,739,085,750 | 2026-08-26 | 2026-08-26 | untried |
 | v2 material borrowed endings, ranks 1-8000 | 1 | 1 | 3 | 1,694,983,846,500 | 564,994,615,500 | 564,994,615,500 | 564,994,615,500 | 2026-08-25 | 2026-08-25 | untried |
@@ -533,7 +534,6 @@ table under a name you would not have guessed is the thing you are about to rebu
 | v2 material borrowed endings, ranks 72001-80000 | 1 | 2 | 3 | 3,394,432,251,000 | 1,131,477,417,000 | 847,761,957,000 | 1,698,908,337,000 | 2026-08-26 | 2026-08-26 | live |
 | v2 material borrowed endings, ranks 40001-48000 | 1 | 2 | 3 | 3,413,430,625,500 | 1,137,810,208,500 | 859,169,382,750 | 859,169,382,750 | 2026-08-26 | 2026-08-28 | live |
 | v2 material borrowed endings, ranks 32001-40000 | 1 | 1 | 1 | 1,695,955,968,000 | 1,695,955,968,000 | 1,695,955,968,000 | 1,695,955,968,000 | 2026-08-25 | 2026-08-25 | untried |
-| borrowed decorations over held cores | 1 | 2 | 2 | 4,004,234,517,300 | 2,002,117,258,650 | 22,720,788,300 | 22,720,788,300 | 2026-08-24 | 2026-08-27 | live |
 | not recorded | 1 | 88 | 3,759 | - | - | - | - | 2026-08-19 | 2026-08-31 | unmeasured |
 | bo3 techset tag sweep | 1 | 2 | 1,673 | - | - | - | - | 2026-08-18 | 2026-08-19 | unmeasured |
 | cutting at underscores and recombining | 1 | 1 | 435 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
@@ -557,7 +557,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-479 distinct methods, run 543 ways between them, across 1931 runs. `names` is what each run
+479 distinct methods, run 544 ways between them, across 1934 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
