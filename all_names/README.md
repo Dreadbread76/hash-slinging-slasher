@@ -5,7 +5,7 @@
 
 <table>
 <tr><th align="left"><code>blkops04/</code></th>
-<th align="right" colspan="2">82,020 names in 6 file(s)</th>
+<th align="right" colspan="2">82,023 names in 6 file(s)</th>
 </tr>
 <tr><th align="left">asset type</th><th align="right">found here</th><th align="right">named, of all in the game</th>
 </tr>
@@ -14,7 +14,7 @@
 <tr><td><code>image</code></td><td align="right">23,613</td><td align="right">130,640 / 167,360 &nbsp;(78.1%)</td></tr>
 <tr><td><code>xanim</code></td><td align="right">4,322</td><td align="right">16,291 / 21,968 &nbsp;(74.2%)</td></tr>
 <tr><td><code>sound_asset</code></td><td align="right">179</td><td align="right">8,563 / 79,263 &nbsp;(10.8%)</td></tr>
-<tr><td><code>sound_alias</code></td><td align="right">13,428</td><td align="right">39,899 / 50,043 &nbsp;(79.7%)</td></tr>
+<tr><td><code>sound_alias</code></td><td align="right">13,431</td><td align="right">39,902 / 50,043 &nbsp;(79.7%)</td></tr>
 </table>
 
 </td>

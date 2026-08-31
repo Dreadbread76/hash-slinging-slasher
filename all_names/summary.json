@@ -2,7 +2,7 @@
   "games": {
     "blkops04": {
       "files": 6,
-      "names": 82020,
+      "names": 82023,
       "types": {
         "image": {
           "found_pct": 78.1,
@@ -18,8 +18,8 @@
         },
         "sound_alias": {
           "found_pct": 79.7,
-          "named": 39899,
-          "names": 13428,
+          "named": 39902,
+          "names": 13431,
           "total": 50043
         },
         "sound_asset": {
@@ -95,6 +95,6 @@
   ],
   "totals": {
     "games": 2,
-    "names": 146597
+    "names": 146600
   }
 }
