@@ -5,7 +5,7 @@
 
 <table>
 <tr><th align="left"><code>blkops04/</code></th>
-<th align="right" colspan="2">83,080 names in 6 file(s)</th>
+<th align="right" colspan="2">83,082 names in 6 file(s)</th>
 </tr>
 <tr><th align="left">asset type</th><th align="right">found here</th><th align="right">named, of all in the game</th>
 </tr>
@@ -14,7 +14,7 @@
 <tr><td><code>image</code></td><td align="right">23,876</td><td align="right">130,903 / 167,360 &nbsp;(78.2%)</td></tr>
 <tr><td><code>xanim</code></td><td align="right">4,353</td><td align="right">16,322 / 21,968 &nbsp;(74.3%)</td></tr>
 <tr><td><code>sound_asset</code></td><td align="right">179</td><td align="right">8,563 / 79,263 &nbsp;(10.8%)</td></tr>
-<tr><td><code>sound_alias</code></td><td align="right">13,736</td><td align="right">40,207 / 50,043 &nbsp;(80.3%)</td></tr>
+<tr><td><code>sound_alias</code></td><td align="right">13,738</td><td align="right">40,209 / 50,043 &nbsp;(80.3%)</td></tr>
 </table>
 
 </td>
@@ -22,16 +22,16 @@
 
 <table>
 <tr><th align="left"><code>blkopscw/</code></th>
-<th align="right" colspan="2">65,216 names in 6 file(s)</th>
+<th align="right" colspan="2">65,311 names in 6 file(s)</th>
 </tr>
 <tr><th align="left">asset type</th><th align="right">found here</th><th align="right">named, of all in the game</th>
 </tr>
-<tr><td><code>xmodel</code></td><td align="right">3,475</td><td align="right">67,940 / 85,612 &nbsp;(79.4%)</td></tr>
-<tr><td><code>material</code></td><td align="right">19,053</td><td align="right">139,424 / 158,158 &nbsp;(88.2%)</td></tr>
-<tr><td><code>image</code></td><td align="right">9,052</td><td align="right">208,060 / 245,235 &nbsp;(84.8%)</td></tr>
-<tr><td><code>xanim</code></td><td align="right">4,161</td><td align="right">20,492 / 28,468 &nbsp;(72.0%)</td></tr>
+<tr><td><code>xmodel</code></td><td align="right">3,480</td><td align="right">67,945 / 85,612 &nbsp;(79.4%)</td></tr>
+<tr><td><code>material</code></td><td align="right">19,107</td><td align="right">139,478 / 158,158 &nbsp;(88.2%)</td></tr>
+<tr><td><code>image</code></td><td align="right">9,076</td><td align="right">208,084 / 245,235 &nbsp;(84.9%)</td></tr>
+<tr><td><code>xanim</code></td><td align="right">4,169</td><td align="right">20,500 / 28,468 &nbsp;(72.0%)</td></tr>
 <tr><td><code>sound_asset</code></td><td align="right">1,051</td><td align="right">78,989 / 97,217 &nbsp;(81.3%)</td></tr>
-<tr><td><code>sound_alias</code></td><td align="right">28,424</td><td align="right">36,843 / 50,890 &nbsp;(72.4%)</td></tr>
+<tr><td><code>sound_alias</code></td><td align="right">28,428</td><td align="right">36,847 / 50,890 &nbsp;(72.4%)</td></tr>
 </table>
 
 </td>

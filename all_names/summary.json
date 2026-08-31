@@ -2,7 +2,7 @@
   "games": {
     "blkops04": {
       "files": 6,
-      "names": 83080,
+      "names": 83082,
       "types": {
         "image": {
           "found_pct": 78.2,
@@ -18,8 +18,8 @@
         },
         "sound_alias": {
           "found_pct": 80.3,
-          "named": 40207,
-          "names": 13736,
+          "named": 40209,
+          "names": 13738,
           "total": 50043
         },
         "sound_asset": {
@@ -44,24 +44,24 @@
     },
     "blkopscw": {
       "files": 6,
-      "names": 65216,
+      "names": 65311,
       "types": {
         "image": {
-          "found_pct": 84.8,
-          "named": 208060,
-          "names": 9052,
+          "found_pct": 84.9,
+          "named": 208084,
+          "names": 9076,
           "total": 245235
         },
         "material": {
           "found_pct": 88.2,
-          "named": 139424,
-          "names": 19053,
+          "named": 139478,
+          "names": 19107,
           "total": 158158
         },
         "sound_alias": {
           "found_pct": 72.4,
-          "named": 36843,
-          "names": 28424,
+          "named": 36847,
+          "names": 28428,
           "total": 50890
         },
         "sound_asset": {
@@ -72,14 +72,14 @@
         },
         "xanim": {
           "found_pct": 72.0,
-          "named": 20492,
-          "names": 4161,
+          "named": 20500,
+          "names": 4169,
           "total": 28468
         },
         "xmodel": {
           "found_pct": 79.4,
-          "named": 67940,
-          "names": 3475,
+          "named": 67945,
+          "names": 3480,
           "total": 85612
         }
       }
@@ -95,6 +95,6 @@
   ],
   "totals": {
     "games": 2,
-    "names": 148296
+    "names": 148393
   }
 }
