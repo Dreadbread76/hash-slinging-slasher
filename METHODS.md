@@ -96,7 +96,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | paired-token-blocks-anim | 1 | 1 | 33 | 410,321 | 12,433 | 12,433 | 12,433 | 2026-08-20 | 2026-08-20 | untried |
 | black ops 3 build names, verbatim, full harvest | 1 | 2 | 177 | 2,462,622 | 13,913 | 8,858 | 32,402 | 2026-08-22 | 2026-08-22 | cooling |
 | cold war source filenames and text | 1 | 1 | 151 | 2,102,012 | 13,920 | 13,920 | 13,920 | 2026-08-27 | 2026-08-27 | untried |
-| family gap filling | 1 | 50 | 330 | 4,850,042 | 14,697 | 654 | 107,597 | 2026-08-19 | 2026-08-31 | spent |
+| family gap filling | 1 | 51 | 333 | 4,957,720 | 14,888 | 654 | 35,892 | 2026-08-19 | 2026-08-31 | spent |
 | \ bo4 image siblings from confirmed materials 20260830\ | 1 | 1 | 135 | 2,163,297 | 16,024 | 16,024 | 16,024 | 2026-08-30 | 2026-08-30 | untried |
 | alias slot substitution | 4 | 9 | 1,354 | 21,780,323 | 16,085 | 6,535 | 2,047,927 | 2026-08-20 | 2026-08-21 | spent |
 | rare-token-compound-splice-anim | 1 | 3 | 30 | 521,194 | 17,373 | 10,849 | 17,385 | 2026-08-20 | 2026-08-20 | live |
@@ -177,7 +177,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | \ cw adjacent material token order 20260830\ | 1 | 1 | 4 | 2,374,577 | 593,644 | 593,644 | 593,644 | 2026-08-30 | 2026-08-30 | untried |
 | locally evidenced adjacent token order | 1 | 1 | 2 | 1,205,866 | 602,933 | 602,933 | 602,933 | 2026-08-26 | 2026-08-26 | untried |
 | cold war same-directory token graft | 1 | 2 | 10 | 6,114,860 | 611,486 | 611,486 | 611,486 | 2026-08-27 | 2026-08-27 | live |
-| materials from image cores | 1 | 85 | 611 | 402,915,576 | 659,436 | 68,987 | 1,609,072 | 2026-08-20 | 2026-08-31 | spent |
+| materials from image cores | 1 | 86 | 612 | 407,742,888 | 666,246 | 68,987 | 4,827,312 | 2026-08-20 | 2026-08-31 | spent |
 | mined classes over indel-augmented pairs | 1 | 2 | 75 | 55,459,097 | 739,454 | 396,848 | 8,962,006 | 2026-08-25 | 2026-08-25 | spent |
 | correlated-token-blocks-material-image-wide | 1 | 6 | 563 | 425,162,272 | 755,172 | 270,359 | 5,907,185 | 2026-08-20 | 2026-08-20 | spent |
 | rare shared-token splices family sizes 9901-10200 | 1 | 1 | 9 | 7,174,482 | 797,164 | 797,164 | 797,164 | 2026-08-28 | 2026-08-28 | untried |
@@ -387,8 +387,8 @@ table under a name you would not have guessed is the thing you are about to rebu
 | all-boundary cores with uncarried three-segment endings | 2 | 3 | 58 | 53,493,592,404 | 922,303,317 | 446,051,682 | 1,943,570,114 | 2026-08-30 | 2026-08-31 | cooling |
 | family walking, numbers in place | 1 | 30 | 1,658 | 155,933,991,490 | 933,736,475 | 200,051,105 | 867,401,081 | 2026-08-19 | 2026-08-31 | cooling |
 | family walking, whole words | 1 | 38 | 12,734 | 4,443,947,208,224 | 945,721,900 | 149,450,943 | 2,683,437,722 | 2026-08-19 | 2026-08-31 | spent |
-| tails of length 3 | 1 | 94 | 3,177 | 3,173,399,780,522 | 998,866,786 | 35,873,048 | 34,099,968,876 | 2026-08-22 | 2026-08-31 | spent |
 | all-boundary cores with uncarried four-segment endings | 1 | 1 | 16 | 16,060,860,607 | 1,003,803,787 | 1,003,803,787 | 1,003,803,787 | 2026-08-30 | 2026-08-30 | untried |
+| tails of length 3 | 1 | 95 | 3,178 | 3,207,500,863,786 | 1,009,282,839 | 35,873,048 | 34,101,083,264 | 2026-08-22 | 2026-08-31 | spent |
 | uncarried four-segment endings over all-boundary cores | 1 | 2 | 381 | 400,012,766,734 | 1,049,902,274 | 1,020,440,731 | 1,020,440,731 | 2026-08-23 | 2026-08-23 | live |
 | char insertions bo4 sounds | 1 | 1 | 1 | 1,068,730,763 | 1,068,730,763 | 1,068,730,763 | 1,068,730,763 | 2026-08-24 | 2026-08-24 | untried |
 | all-boundary cores x uncarried endings, 2 segments | 1 | 1 | 163 | 177,157,271,555 | 1,086,854,426 | 1,086,854,426 | 1,086,854,426 | 2026-08-23 | 2026-08-23 | untried |
@@ -417,9 +417,9 @@ table under a name you would not have guessed is the thing you are about to rebu
 | sound all-boundary cores with uncarried two-segment endings | 2 | 2 | 13 | 33,006,930,066 | 2,538,994,620 | 2,062,883,128 | 3,300,773,007 | 2026-08-30 | 2026-08-30 | live |
 | measured heads of length 24 | 1 | 2 | 114 | 296,486,731,600 | 2,600,760,803 | 1,629,047,975 | 6,445,363,730 | 2026-08-25 | 2026-08-25 | cooling |
 | sound beginnings the 700 ceiling drops | 1 | 5 | 134 | 358,176,889,070 | 2,672,961,858 | 1,235,117,520 | 73,964,211,300 | 2026-08-29 | 2026-08-30 | spent |
+| all-boundary sound cores x uncarried sound endings | 1 | 45 | 1,660 | 4,541,120,808,972 | 2,735,614,945 | 315,255,599 | 315,255,599 | 2026-08-25 | 2026-08-31 | live |
 | sound all-boundary cores with uncarried three-segment endings | 2 | 2 | 12 | 33,009,330,090 | 2,750,777,507 | 2,063,120,631 | 2,063,120,631 | 2026-08-30 | 2026-08-30 | live |
 | sound all-boundary cores with uncarried four-segment endings | 1 | 1 | 6 | 16,506,165,060 | 2,751,027,510 | 2,751,027,510 | 2,751,027,510 | 2026-08-30 | 2026-08-30 | untried |
-| all-boundary sound cores x uncarried sound endings | 1 | 44 | 1,631 | 4,531,978,396,601 | 2,778,650,151 | 383,858,936 | 457,063,617 | 2026-08-25 | 2026-08-31 | live |
 | measured tails of length 8 | 2 | 6 | 271 | 753,428,154,966 | 2,780,177,693 | 1,435,820,931 | 2,357,317,948 | 2026-08-25 | 2026-08-25 | live |
 | measured tails of length 4 | 1 | 4 | 69 | 192,512,386,856 | 2,790,034,592 | 1,850,196,005 | 3,210,073,152 | 2026-08-25 | 2026-08-25 | live |
 | measured heads of length 28 | 1 | 2 | 92 | 257,912,038,902 | 2,803,391,727 | 2,433,132,442 | 2,433,132,442 | 2026-08-25 | 2026-08-25 | live |
@@ -561,7 +561,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-483 distinct methods, run 549 ways between them, across 2043 runs. `names` is what each run
+483 distinct methods, run 549 ways between them, across 2047 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
