@@ -165,6 +165,7 @@ c91a846de73d663,amb_diesel_engine_run
 214ce5b01db9f545,amb_docks_interior
 1db557e32995fa56,amb_docks_quad
 10b4231a611a9bf,amb_door_howl
+34f21429e16734f4,amb_door_open_sliding
 72c7dfc9ed03a89b,amb_door_squeak
 62a278281295d8ad,amb_doves
 20d9ee482b50aeb9,amb_drafty_wind
@@ -888,6 +889,7 @@ fc452f2a7883a1f,evt_exp_transformers
 626d49a9b63510ec,evt_explo_dist
 3a555ad2a5452527,evt_finger_down
 2339e042348dbefe,evt_finger_up
+7f08b47352413d9a,evt_flinger_fling_personal
 5913634c5007a95,evt_flinger_tension
 98073be0dcc892f,evt_flyby_far
 2d5b9df14c061da6,evt_flyby_fire
@@ -1245,6 +1247,7 @@ d76aadb39668a12,fly_bump_chain_door
 141a63f7fcb2e48d,fly_cloth_land_medium_lt_plr
 7e4026a826b75576,fly_cloth_land_npc_hv
 116a43f63af263be,fly_cloth_land_rapid_lt_plr
+67bd8e171f4a4994,fly_coinbag_jingle
 7f4df56d4db55f06,fly_combat_knife_taunt
 70ebd25757d6760a,fly_combat_knife_taunt_npc
 15a0c78efb181274,fly_crossbow_inspect_a
@@ -1261,6 +1264,7 @@ d76aadb39668a12,fly_bump_chain_door
 7d3e5108bf113d0e,fly_demo_hammer_inspect_78_npc
 726e4168fb11c3f,fly_demo_hammer_inspect_91
 4bc2fd8176fa7ef7,fly_demo_hammer_inspect_91_npc
+7171db7474c1a6a6,fly_dg2_sniper_amb_lp
 69687c650ac89eb4,fly_dog_melee_npc
 62dc9b597d0985c1,fly_dog_melee_victim
 6bd51d5a531ff32,fly_drop_armor
@@ -3866,6 +3870,7 @@ a3e7c4ecc66f45f,gdt_hawk_pov_out
 9b40eefa77d6446,mpl_death_by_weapon_sniper
 7d53dd7b886b60ae,mpl_electrical_surge
 112352517abf5b11,mpl_emp_static_done
+2074ed89869d4eb6,mpl_green_goal
 374ba7f6097c0339,mpl_health_dot_tick
 49c91f73f1aac992,mpl_health_level_full
 1215b3e8d1be983b,mpl_health_ready
@@ -12528,6 +12533,8 @@ a30bb42e31d0282,zmb_box_electricity
 38c39a7f0966480e,zmb_challenges_head_fire_lp
 46d65ad99f59d218,zmb_chandelier_fall
 69e071a8eb1f216e,zmb_charcoal_pu
+4f64bfb4c243e852,zmb_clock_tick_1_lp
+4cbb119df079b8ad,zmb_clock_tick_2_lp
 ab6e1592d11cda9,zmb_combo_case_open
 261ddea1d791e99f,zmb_combo_case_open_bell
 41879bbde78fcc85,zmb_combo_case_stop
