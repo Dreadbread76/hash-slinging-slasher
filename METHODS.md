@@ -370,8 +370,8 @@ table under a name you would not have guessed is the thing you are about to rebu
 | measured tails of length 56 | 1 | 1 | 5 | 2,521,780,812 | 504,356,162 | 504,356,162 | 504,356,162 | 2026-08-25 | 2026-08-25 | untried |
 | all-boundary sound cores x uncarried sound endings, 2 segments, top 200k | 1 | 1 | 634 | 320,548,256,700 | 505,596,619 | 505,596,619 | 505,596,619 | 2026-08-29 | 2026-08-29 | untried |
 | first twenty ceiling-dropped black ops 4 sound beginnings | 1 | 1 | 17 | 8,705,046,735 | 512,061,572 | 512,061,572 | 512,061,572 | 2026-08-29 | 2026-08-29 | untried |
-| family walking, whole words | 1 | 30 | 8,503 | 1,701,430,488,064 | 519,997,092 | 149,450,943 | 1,012,424,380 | 2026-08-19 | 2026-08-31 | cooling |
 | affix sweep | 1 | 1 | 1 | 532,497,168 | 532,497,168 | 532,497,168 | 532,497,168 | 2026-08-20 | 2026-08-20 | untried |
+| family walking, whole words | 1 | 31 | 9,120 | 2,162,888,518,656 | 556,155,443 | 149,450,943 | 747,906,046 | 2026-08-19 | 2026-08-31 | cooling |
 | measured heads of length 48 | 1 | 2 | 51 | 30,025,694,930 | 588,739,116 | 428,938,499 | 938,302,966 | 2026-08-25 | 2026-08-25 | live |
 | animation transition grid | 1 | 2 | 2 | 1,295,625,020 | 647,812,510 | 647,812,510 | 647,812,510 | 2026-08-23 | 2026-08-23 | live |
 | heads of length 3 | 1 | 9 | 717 | 495,967,132,221 | 691,725,428 | 66,983,541 | 53,101,554,920 | 2026-08-22 | 2026-08-29 | spent |
@@ -557,7 +557,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-479 distinct methods, run 544 ways between them, across 1951 runs. `names` is what each run
+479 distinct methods, run 544 ways between them, across 1952 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
