@@ -1,0 +1,8 @@
+205adefaaf5e9750,en\vox\scripted\mpl\anme\vox_anme_prop_hunt_mission_order_attack_00.sn100.pc.snd
+2315ce138994c0f1,en\vox\scripted\mpl\anme\vox_anme_prop_hunt_mission_order_defend_01.sn100.pc.snd
+28c0dfbc9ff3a376,en\vox\scripted\mpl\anbo\vox_anbo_prop_hunt_mission_order_defend_00.sn100.pc.snd
+40076548a3898a4a,en\vox\scripted\mpl\anbo\vox_anbo_prop_hunt_mission_order_attack_00.sn100.pc.snd
+5490ad923ae1bec5,en\vox\scripted\mpl\anme\vox_anme_prop_hunt_mission_order_attack_01.sn100.pc.snd
+5bb54bb3cbdf30cc,en\vox\scripted\mpl\anme\vox_anme_prop_hunt_mission_order_defend_00.sn100.pc.snd
+6570f96e96d85c67,en\vox\scripted\mpl\anbo\vox_anbo_prop_hunt_mission_order_attack_01.sn100.pc.snd
+6948bb5f51f878f3,en\vox\scripted\mpl\anbo\vox_anbo_prop_hunt_mission_order_defend_01.sn100.pc.snd
