@@ -81,7 +81,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | cold war source literals | 1 | 1 | 251 | 35,278 | 140 | 140 | 140 | 2026-08-26 | 2026-08-26 | untried |
 | build strings, lpc fast files | 1 | 1 | 7 | 2,135 | 305 | 305 | 305 | 2026-08-24 | 2026-08-24 | untried |
 | build strings, casc blte 0.5gb probe | 1 | 1 | 10 | 3,637 | 363 | 363 | 363 | 2026-08-24 | 2026-08-24 | untried |
-| final byte solved backwards | 1 | 104 | 2,921 | 2,338,785 | 800 | 18 | 38,454 | 2026-08-22 | 2026-08-30 | spent |
+| final byte solved backwards | 1 | 105 | 2,954 | 2,359,917 | 798 | 18 | 640 | 2026-08-22 | 2026-08-31 | spent |
 | gaps | 2 | 5 | 376 | 346,722 | 922 | 190 | 50,180 | 2026-08-20 | 2026-08-27 | spent |
 | final-byte-after-xanim-seed | 1 | 1 | 16 | 35,919 | 2,244 | 2,244 | 2,244 | 2026-08-29 | 2026-08-29 | untried |
 | black ops 1 build names, verbatim | 1 | 2 | 271 | 651,912 | 2,405 | 1,940 | 3,164 | 2026-08-22 | 2026-08-22 | live |
@@ -95,7 +95,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | paired-token-blocks-anim | 1 | 1 | 33 | 410,321 | 12,433 | 12,433 | 12,433 | 2026-08-20 | 2026-08-20 | untried |
 | black ops 3 build names, verbatim, full harvest | 1 | 2 | 177 | 2,462,622 | 13,913 | 8,858 | 32,402 | 2026-08-22 | 2026-08-22 | cooling |
 | cold war source filenames and text | 1 | 1 | 151 | 2,102,012 | 13,920 | 13,920 | 13,920 | 2026-08-27 | 2026-08-27 | untried |
-| family gap filling | 1 | 47 | 315 | 4,530,529 | 14,382 | 654 | 103,895 | 2026-08-19 | 2026-08-30 | spent |
+| family gap filling | 1 | 48 | 328 | 4,635,332 | 14,132 | 654 | 8,061 | 2026-08-19 | 2026-08-31 | spent |
 | \ bo4 image siblings from confirmed materials 20260830\ | 1 | 1 | 135 | 2,163,297 | 16,024 | 16,024 | 16,024 | 2026-08-30 | 2026-08-30 | untried |
 | alias slot substitution | 4 | 9 | 1,354 | 21,780,323 | 16,085 | 6,535 | 2,047,927 | 2026-08-20 | 2026-08-21 | spent |
 | rare-token-compound-splice-anim | 1 | 3 | 30 | 521,194 | 17,373 | 10,849 | 17,385 | 2026-08-20 | 2026-08-20 | live |
@@ -105,7 +105,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | bo3 mod tools asset file list | 1 | 1 | 3 | 65,355 | 21,785 | 21,785 | 21,785 | 2026-08-22 | 2026-08-22 | untried |
 | rare shared-token splices | 1 | 2 | 7 | 158,622 | 22,660 | 13,212 | 79,348 | 2026-08-28 | 2026-08-29 | cooling |
 | bo3 mod tools gdt asset names | 1 | 2 | 3 | 84,078 | 28,026 | 21,019 | 42,039 | 2026-08-22 | 2026-08-22 | live |
-| image siblings of confirmed materials | 1 | 97 | 5,752 | 170,159,286 | 29,582 | 393 | 2,140,209 | 2026-08-19 | 2026-08-29 | spent |
+| image siblings of confirmed materials | 1 | 99 | 5,792 | 174,534,216 | 30,133 | 393 | 437,608 | 2026-08-19 | 2026-08-31 | spent |
 | cold war animation token edits after new findings | 1 | 1 | 92 | 2,951,382 | 32,080 | 32,080 | 32,080 | 2026-08-26 | 2026-08-26 | untried |
 | rare shared-token splices family size 13-30 | 1 | 1 | 10 | 325,039 | 32,503 | 32,503 | 32,503 | 2026-08-28 | 2026-08-28 | untried |
 | black ops 4 family gap filling after refreshed corpus | 1 | 2 | 6 | 200,472 | 33,412 | 33,412 | 33,412 | 2026-08-27 | 2026-08-27 | live |
@@ -132,7 +132,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | rare-token-compound-splice-batch | 1 | 4 | 236 | 26,219,346 | 111,098 | 48,548 | 3,278,056 | 2026-08-20 | 2026-08-20 | spent |
 | sound language and encoding variants | 1 | 1 | 38 | 4,296,303 | 113,060 | 113,060 | 113,060 | 2026-08-20 | 2026-08-20 | untried |
 | rare shared-token splices family size 61-120 | 1 | 1 | 18 | 2,355,489 | 130,860 | 130,860 | 130,860 | 2026-08-28 | 2026-08-28 | untried |
-| image channel completion | 1 | 73 | 1,388 | 182,286,724 | 131,330 | 5,159 | 2,547,486 | 2026-08-20 | 2026-08-30 | spent |
+| image channel completion | 1 | 74 | 1,400 | 184,836,331 | 132,025 | 5,159 | 212,467 | 2026-08-20 | 2026-08-31 | spent |
 | alias slot substitution, right context only | 1 | 2 | 146 | 22,349,656 | 153,079 | 121,544 | 121,544 | 2026-08-20 | 2026-08-20 | live |
 | rare shared-token splices families 18901-19200 | 1 | 1 | 20 | 3,237,958 | 161,897 | 161,897 | 161,897 | 2026-08-29 | 2026-08-29 | untried |
 | vox speaker x line grid, unseen cells | 1 | 1 | 34 | 5,564,535 | 163,662 | 163,662 | 163,662 | 2026-08-23 | 2026-08-23 | untried |
@@ -175,7 +175,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | \ cw adjacent material token order 20260830\ | 1 | 1 | 4 | 2,374,577 | 593,644 | 593,644 | 593,644 | 2026-08-30 | 2026-08-30 | untried |
 | locally evidenced adjacent token order | 1 | 1 | 2 | 1,205,866 | 602,933 | 602,933 | 602,933 | 2026-08-26 | 2026-08-26 | untried |
 | cold war same-directory token graft | 1 | 2 | 10 | 6,114,860 | 611,486 | 611,486 | 611,486 | 2026-08-27 | 2026-08-27 | live |
-| materials from image cores | 1 | 74 | 527 | 349,929,552 | 664,002 | 68,987 | 4,797,480 | 2026-08-20 | 2026-08-30 | spent |
+| materials from image cores | 1 | 75 | 537 | 354,728,184 | 660,573 | 68,987 | 479,863 | 2026-08-20 | 2026-08-31 | cooling |
 | mined classes over indel-augmented pairs | 1 | 2 | 75 | 55,459,097 | 739,454 | 396,848 | 8,962,006 | 2026-08-25 | 2026-08-25 | spent |
 | correlated-token-blocks-material-image-wide | 1 | 6 | 563 | 425,162,272 | 755,172 | 270,359 | 5,907,185 | 2026-08-20 | 2026-08-20 | spent |
 | rare shared-token splices family sizes 9901-10200 | 1 | 1 | 9 | 7,174,482 | 797,164 | 797,164 | 797,164 | 2026-08-28 | 2026-08-28 | untried |
@@ -382,7 +382,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | confirmed-only all-boundary cold war sound cores x uncarried sound endings | 1 | 1 | 17 | 14,337,543,374 | 843,384,904 | 843,384,904 | 843,384,904 | 2026-08-29 | 2026-08-29 | untried |
 | cold war sound files, core tails of length 1 and 2 | 1 | 1 | 1 | 881,657,430 | 881,657,430 | 881,657,430 | 881,657,430 | 2026-08-23 | 2026-08-23 | untried |
 | all-boundary cores with uncarried three-segment endings | 2 | 3 | 58 | 53,493,592,404 | 922,303,317 | 446,051,682 | 1,943,570,114 | 2026-08-30 | 2026-08-31 | cooling |
-| tails of length 3 | 1 | 81 | 2,960 | 2,731,125,827,326 | 922,677,644 | 35,873,048 | 1,879,392,849 | 2026-08-22 | 2026-08-30 | spent |
+| tails of length 3 | 1 | 82 | 2,976 | 2,765,027,435,138 | 929,108,681 | 35,873,048 | 2,118,850,488 | 2026-08-22 | 2026-08-31 | spent |
 | family walking, numbers in place | 1 | 26 | 1,303 | 155,933,991,490 | 933,736,475 | 200,051,105 | 867,401,081 | 2026-08-19 | 2026-08-31 | cooling |
 | all-boundary cores with uncarried four-segment endings | 1 | 1 | 16 | 16,060,860,607 | 1,003,803,787 | 1,003,803,787 | 1,003,803,787 | 2026-08-30 | 2026-08-30 | untried |
 | uncarried four-segment endings over all-boundary cores | 1 | 2 | 381 | 400,012,766,734 | 1,049,902,274 | 1,020,440,731 | 1,020,440,731 | 2026-08-23 | 2026-08-23 | live |
@@ -557,7 +557,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-479 distinct methods, run 543 ways between them, across 1924 runs. `names` is what each run
+479 distinct methods, run 543 ways between them, across 1931 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
