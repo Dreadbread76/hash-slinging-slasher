@@ -441,7 +441,6 @@ table under a name you would not have guessed is the thing you are about to rebu
 | measured tails of length 6 | 2 | 7 | 91 | 628,969,016,333 | 6,911,747,432 | 1,977,717,171 | 9,578,231,709 | 2026-08-25 | 2026-08-25 | cooling |
 | measured tails of length 16 | 2 | 4 | 137 | 972,904,993,300 | 7,101,496,301 | 3,833,611,586 | 6,380,104,314 | 2026-08-25 | 2026-08-25 | live |
 | confirmed-only all-boundary bo4 sound cores x uncarried endings | 1 | 1 | 2 | 14,335,743,356 | 7,167,871,678 | 7,167,871,678 | 7,167,871,678 | 2026-08-29 | 2026-08-29 | untried |
-| xmodel cores borrowed, xmodel decorations measured | 1 | 10 | 95 | 684,128,435,100 | 7,201,351,948 | 145,020,750 | 49,249,641,600 | 2026-08-24 | 2026-08-24 | spent |
 | measured tails of length 18 | 1 | 2 | 51 | 370,685,626,016 | 7,268,345,608 | 5,451,259,206 | 10,902,518,412 | 2026-08-25 | 2026-08-25 | live |
 | all-boundary cores x uncarried endings, 4 segment(s), top 300000 | 1 | 1 | 72 | 540,563,101,871 | 7,507,820,859 | 7,507,820,859 | 7,507,820,859 | 2026-08-29 | 2026-08-29 | untried |
 | measured tails of length 14 | 2 | 5 | 165 | 1,278,003,497,385 | 7,745,475,741 | 3,983,905,894 | 96,886,917,891 | 2026-08-25 | 2026-08-25 | spent |
@@ -457,6 +456,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | measured tails of length 11 | 1 | 2 | 33 | 346,197,974,320 | 10,490,847,706 | 9,110,473,008 | 9,110,473,008 | 2026-08-25 | 2026-08-25 | live |
 | v2 sound alias borrowed endings, ranks 16001-19155 | 1 | 2 | 13 | 138,052,908,000 | 10,619,454,461 | 6,275,132,181 | 34,513,227,000 | 2026-08-28 | 2026-08-28 | cooling |
 | measured tails of length 24 | 2 | 4 | 54 | 627,132,483,832 | 11,613,564,515 | 3,309,040,403 | 64,813,595,798 | 2026-08-25 | 2026-08-25 | spent |
+| xmodel cores borrowed, xmodel decorations measured | 1 | 11 | 101 | 1,233,339,419,100 | 12,211,281,377 | 145,020,750 | 91,535,164,000 | 2026-08-24 | 2026-08-31 | spent |
 | measured heads of length 20 | 2 | 4 | 36 | 456,964,818,448 | 12,693,467,179 | 6,682,647,252 | 21,184,377,456 | 2026-08-25 | 2026-08-25 | cooling |
 | head of one name, tail of another | 1 | 2 | 7 | 96,000,800,000 | 13,714,400,000 | 8,000,066,666 | 8,000,066,666 | 2026-08-22 | 2026-08-22 | live |
 | v2 xanim borrowed endings, ranks 5001-6000 | 1 | 1 | 1 | 14,078,064,000 | 14,078,064,000 | 14,078,064,000 | 14,078,064,000 | 2026-08-28 | 2026-08-28 | untried |
@@ -557,7 +557,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-479 distinct methods, run 544 ways between them, across 1935 runs. `names` is what each run
+479 distinct methods, run 544 ways between them, across 1936 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
