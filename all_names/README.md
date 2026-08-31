@@ -5,16 +5,16 @@
 
 <table>
 <tr><th align="left"><code>blkops04/</code></th>
-<th align="right" colspan="2">80,057 names in 6 file(s)</th>
+<th align="right" colspan="2">80,658 names in 6 file(s)</th>
 </tr>
 <tr><th align="left">asset type</th><th align="right">found here</th><th align="right">named, of all in the game</th>
 </tr>
-<tr><td><code>xmodel</code></td><td align="right">9,270</td><td align="right">49,393 / 61,139 &nbsp;(80.8%)</td></tr>
-<tr><td><code>material</code></td><td align="right">30,635</td><td align="right">102,749 / 122,750 &nbsp;(83.7%)</td></tr>
-<tr><td><code>image</code></td><td align="right">22,919</td><td align="right">129,946 / 167,360 &nbsp;(77.6%)</td></tr>
-<tr><td><code>xanim</code></td><td align="right">4,230</td><td align="right">16,199 / 21,968 &nbsp;(73.7%)</td></tr>
+<tr><td><code>xmodel</code></td><td align="right">9,350</td><td align="right">49,473 / 61,139 &nbsp;(80.9%)</td></tr>
+<tr><td><code>material</code></td><td align="right">30,711</td><td align="right">102,825 / 122,750 &nbsp;(83.8%)</td></tr>
+<tr><td><code>image</code></td><td align="right">23,122</td><td align="right">130,149 / 167,360 &nbsp;(77.8%)</td></tr>
+<tr><td><code>xanim</code></td><td align="right">4,278</td><td align="right">16,247 / 21,968 &nbsp;(74.0%)</td></tr>
 <tr><td><code>sound_asset</code></td><td align="right">179</td><td align="right">8,563 / 79,263 &nbsp;(10.8%)</td></tr>
-<tr><td><code>sound_alias</code></td><td align="right">12,824</td><td align="right">39,295 / 50,043 &nbsp;(78.5%)</td></tr>
+<tr><td><code>sound_alias</code></td><td align="right">13,018</td><td align="right">39,489 / 50,043 &nbsp;(78.9%)</td></tr>
 </table>
 
 </td>
@@ -43,9 +43,9 @@ the community tables, against every id the game holds.
 
 They are not the same measure, and the second is much the larger.
 
-Where `image` under `blkops04/` reads 22,919 and 129,946 / 167,360:
-this project found 22,919 of the 129,946 names anybody has for that pool, and
-37,414 of its ids are still nameless. The percentage is the fraction named,
+Where `image` under `blkops04/` reads 23,122 and 130,149 / 167,360:
+this project found 23,122 of the 130,149 names anybody has for that pool, and
+37,211 of its ids are still nameless. The percentage is the fraction named,
 not the fraction found here.
 
 The emptiest pool is `sound_asset` under `blkops04/`: 8,563 of 79,263 named,
