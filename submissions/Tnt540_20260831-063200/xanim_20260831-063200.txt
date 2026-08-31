@@ -1,0 +1,6 @@
+6d9a94696708ecea,vm_drone_hawk_brawler_cancel
+26bad9185f3cec54,vm_drone_hawk_brawler_fire
+7b80739c8e85ce61,vm_drone_hawk_brawler_pullout
+62c860dcfaed49fd,vm_drone_hawk_rh_cancel
+2bedd183b920ebd7,vm_drone_hawk_rh_fire
+1a7a308990c12048,vm_drone_hawk_rh_pullout
