@@ -520,7 +520,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | v2 image borrowed endings, ranks 1-8000 | 1 | 2 | 12 | 2,773,570,653,000 | 231,130,887,750 | 173,348,165,812 | 173,348,165,812 | 2026-08-25 | 2026-08-25 | live |
 | bo3 mod tools vocabulary under measured decorations | 1 | 2 | 19 | 5,624,859,212,000 | 296,045,221,684 | 281,242,960,600 | 312,492,178,444 | 2026-08-24 | 2026-08-24 | live |
 | heads of length 4 | 1 | 2 | 13 | 3,981,775,705,600 | 306,290,438,892 | 220,031,196,218 | 500,373,734,908 | 2026-08-24 | 2026-08-27 | live |
-| general search | 2 | 83 | 113,882 | 2,151,070,451,439,470 | 399,678,642,036 | 35,073,084,706 | 3,662,839,276,519 | 2026-08-19 | 2026-08-31 | spent |
+| general search | 2 | 84 | 114,172 | 2,151,070,451,439,470 | 399,678,642,036 | 35,073,084,706 | 3,662,839,276,519 | 2026-08-19 | 2026-08-31 | spent |
 | v2 material borrowed endings, ranks 56001-64000 | 1 | 2 | 8 | 3,394,468,255,500 | 424,308,531,937 | 339,049,575,900 | 566,406,792,000 | 2026-08-26 | 2026-08-26 | live |
 | v2 material borrowed endings, ranks 80001-88000 | 1 | 1 | 4 | 1,698,956,343,000 | 424,739,085,750 | 424,739,085,750 | 424,739,085,750 | 2026-08-26 | 2026-08-26 | untried |
 | v2 material borrowed endings, ranks 1-8000 | 1 | 1 | 3 | 1,694,983,846,500 | 564,994,615,500 | 564,994,615,500 | 564,994,615,500 | 2026-08-25 | 2026-08-25 | untried |
@@ -557,7 +557,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-479 distinct methods, run 544 ways between them, across 1949 runs. `names` is what each run
+479 distinct methods, run 544 ways between them, across 1950 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
