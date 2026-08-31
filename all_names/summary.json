@@ -2,24 +2,24 @@
   "games": {
     "blkops04": {
       "files": 6,
-      "names": 82099,
+      "names": 82378,
       "types": {
         "image": {
           "found_pct": 78.1,
-          "named": 130676,
-          "names": 23649,
+          "named": 130739,
+          "names": 23712,
           "total": 167360
         },
         "material": {
           "found_pct": 84.1,
-          "named": 103191,
-          "names": 31077,
+          "named": 103265,
+          "names": 31151,
           "total": 122750
         },
         "sound_alias": {
-          "found_pct": 79.8,
-          "named": 39912,
-          "names": 13441,
+          "found_pct": 79.9,
+          "named": 40003,
+          "names": 13532,
           "total": 50043
         },
         "sound_asset": {
@@ -29,39 +29,39 @@
           "total": 79263
         },
         "xanim": {
-          "found_pct": 74.2,
-          "named": 16292,
-          "names": 4323,
+          "found_pct": 74.3,
+          "named": 16317,
+          "names": 4348,
           "total": 21968
         },
         "xmodel": {
-          "found_pct": 81.0,
-          "named": 49553,
-          "names": 9430,
+          "found_pct": 81.1,
+          "named": 49579,
+          "names": 9456,
           "total": 61139
         }
       }
     },
     "blkopscw": {
       "files": 6,
-      "names": 64822,
+      "names": 65121,
       "types": {
         "image": {
-          "found_pct": 84.7,
-          "named": 207830,
-          "names": 8822,
+          "found_pct": 84.8,
+          "named": 208056,
+          "names": 9048,
           "total": 245235
         },
         "material": {
           "found_pct": 88.1,
-          "named": 139321,
-          "names": 18950,
+          "named": 139364,
+          "names": 18993,
           "total": 158158
         },
         "sound_alias": {
           "found_pct": 72.4,
-          "named": 36831,
-          "names": 28412,
+          "named": 36840,
+          "names": 28421,
           "total": 50890
         },
         "sound_asset": {
@@ -77,9 +77,9 @@
           "total": 28468
         },
         "xmodel": {
-          "found_pct": 79.3,
-          "named": 67918,
-          "names": 3453,
+          "found_pct": 79.4,
+          "named": 67939,
+          "names": 3474,
           "total": 85612
         }
       }
@@ -95,6 +95,6 @@
   ],
   "totals": {
     "games": 2,
-    "names": 146921
+    "names": 147499
   }
 }

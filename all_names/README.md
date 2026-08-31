@@ -5,16 +5,16 @@
 
 <table>
 <tr><th align="left"><code>blkops04/</code></th>
-<th align="right" colspan="2">82,099 names in 6 file(s)</th>
+<th align="right" colspan="2">82,378 names in 6 file(s)</th>
 </tr>
 <tr><th align="left">asset type</th><th align="right">found here</th><th align="right">named, of all in the game</th>
 </tr>
-<tr><td><code>xmodel</code></td><td align="right">9,430</td><td align="right">49,553 / 61,139 &nbsp;(81.0%)</td></tr>
-<tr><td><code>material</code></td><td align="right">31,077</td><td align="right">103,191 / 122,750 &nbsp;(84.1%)</td></tr>
-<tr><td><code>image</code></td><td align="right">23,649</td><td align="right">130,676 / 167,360 &nbsp;(78.1%)</td></tr>
-<tr><td><code>xanim</code></td><td align="right">4,323</td><td align="right">16,292 / 21,968 &nbsp;(74.2%)</td></tr>
+<tr><td><code>xmodel</code></td><td align="right">9,456</td><td align="right">49,579 / 61,139 &nbsp;(81.1%)</td></tr>
+<tr><td><code>material</code></td><td align="right">31,151</td><td align="right">103,265 / 122,750 &nbsp;(84.1%)</td></tr>
+<tr><td><code>image</code></td><td align="right">23,712</td><td align="right">130,739 / 167,360 &nbsp;(78.1%)</td></tr>
+<tr><td><code>xanim</code></td><td align="right">4,348</td><td align="right">16,317 / 21,968 &nbsp;(74.3%)</td></tr>
 <tr><td><code>sound_asset</code></td><td align="right">179</td><td align="right">8,563 / 79,263 &nbsp;(10.8%)</td></tr>
-<tr><td><code>sound_alias</code></td><td align="right">13,441</td><td align="right">39,912 / 50,043 &nbsp;(79.8%)</td></tr>
+<tr><td><code>sound_alias</code></td><td align="right">13,532</td><td align="right">40,003 / 50,043 &nbsp;(79.9%)</td></tr>
 </table>
 
 </td>
@@ -22,16 +22,16 @@
 
 <table>
 <tr><th align="left"><code>blkopscw/</code></th>
-<th align="right" colspan="2">64,822 names in 6 file(s)</th>
+<th align="right" colspan="2">65,121 names in 6 file(s)</th>
 </tr>
 <tr><th align="left">asset type</th><th align="right">found here</th><th align="right">named, of all in the game</th>
 </tr>
-<tr><td><code>xmodel</code></td><td align="right">3,453</td><td align="right">67,918 / 85,612 &nbsp;(79.3%)</td></tr>
-<tr><td><code>material</code></td><td align="right">18,950</td><td align="right">139,321 / 158,158 &nbsp;(88.1%)</td></tr>
-<tr><td><code>image</code></td><td align="right">8,822</td><td align="right">207,830 / 245,235 &nbsp;(84.7%)</td></tr>
+<tr><td><code>xmodel</code></td><td align="right">3,474</td><td align="right">67,939 / 85,612 &nbsp;(79.4%)</td></tr>
+<tr><td><code>material</code></td><td align="right">18,993</td><td align="right">139,364 / 158,158 &nbsp;(88.1%)</td></tr>
+<tr><td><code>image</code></td><td align="right">9,048</td><td align="right">208,056 / 245,235 &nbsp;(84.8%)</td></tr>
 <tr><td><code>xanim</code></td><td align="right">4,134</td><td align="right">20,465 / 28,468 &nbsp;(71.9%)</td></tr>
 <tr><td><code>sound_asset</code></td><td align="right">1,051</td><td align="right">78,989 / 97,217 &nbsp;(81.3%)</td></tr>
-<tr><td><code>sound_alias</code></td><td align="right">28,412</td><td align="right">36,831 / 50,890 &nbsp;(72.4%)</td></tr>
+<tr><td><code>sound_alias</code></td><td align="right">28,421</td><td align="right">36,840 / 50,890 &nbsp;(72.4%)</td></tr>
 </table>
 
 </td>
@@ -43,9 +43,9 @@ the community tables, against every id the game holds.
 
 They are not the same measure, and the second is much the larger.
 
-Where `image` under `blkops04/` reads 23,649 and 130,676 / 167,360:
-this project found 23,649 of the 130,676 names anybody has for that pool, and
-36,684 of its ids are still nameless. The percentage is the fraction named,
+Where `image` under `blkops04/` reads 23,712 and 130,739 / 167,360:
+this project found 23,712 of the 130,739 names anybody has for that pool, and
+36,621 of its ids are still nameless. The percentage is the fraction named,
 not the fraction found here.
 
 The emptiest pool is `sound_asset` under `blkops04/`: 8,563 of 79,263 named,
