@@ -1,0 +1,2 @@
+5f6fc193d117cdc3,p8_aut_balcony_restaurant_01_dmg_rt_snow
+7776df80caabd26d,p8_aut_balcony_restaurant_01_dmg_lt_snow
