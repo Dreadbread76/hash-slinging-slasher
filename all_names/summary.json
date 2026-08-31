@@ -2,18 +2,18 @@
   "games": {
     "blkops04": {
       "files": 6,
-      "names": 82076,
+      "names": 82098,
       "types": {
         "image": {
           "found_pct": 78.1,
-          "named": 130666,
-          "names": 23639,
+          "named": 130675,
+          "names": 23648,
           "total": 167360
         },
         "material": {
           "found_pct": 84.1,
-          "named": 103181,
-          "names": 31067,
+          "named": 103191,
+          "names": 31077,
           "total": 122750
         },
         "sound_alias": {
@@ -30,32 +30,32 @@
         },
         "xanim": {
           "found_pct": 74.2,
-          "named": 16291,
-          "names": 4322,
+          "named": 16292,
+          "names": 4323,
           "total": 21968
         },
         "xmodel": {
           "found_pct": 81.0,
-          "named": 49551,
-          "names": 9428,
+          "named": 49553,
+          "names": 9430,
           "total": 61139
         }
       }
     },
     "blkopscw": {
       "files": 6,
-      "names": 64577,
+      "names": 64610,
       "types": {
         "image": {
           "found_pct": 84.7,
-          "named": 207711,
-          "names": 8703,
+          "named": 207727,
+          "names": 8719,
           "total": 245235
         },
         "material": {
           "found_pct": 88.0,
-          "named": 139232,
-          "names": 18861,
+          "named": 139245,
+          "names": 18874,
           "total": 158158
         },
         "sound_alias": {
@@ -71,15 +71,15 @@
           "total": 97217
         },
         "xanim": {
-          "found_pct": 71.8,
-          "named": 20452,
-          "names": 4121,
+          "found_pct": 71.9,
+          "named": 20455,
+          "names": 4124,
           "total": 28468
         },
         "xmodel": {
           "found_pct": 79.3,
-          "named": 67906,
-          "names": 3441,
+          "named": 67907,
+          "names": 3442,
           "total": 85612
         }
       }
@@ -95,6 +95,6 @@
   ],
   "totals": {
     "games": 2,
-    "names": 146653
+    "names": 146708
   }
 }
