@@ -177,7 +177,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | \ cw adjacent material token order 20260830\ | 1 | 1 | 4 | 2,374,577 | 593,644 | 593,644 | 593,644 | 2026-08-30 | 2026-08-30 | untried |
 | locally evidenced adjacent token order | 1 | 1 | 2 | 1,205,866 | 602,933 | 602,933 | 602,933 | 2026-08-26 | 2026-08-26 | untried |
 | cold war same-directory token graft | 1 | 2 | 10 | 6,114,860 | 611,486 | 611,486 | 611,486 | 2026-08-27 | 2026-08-27 | live |
-| materials from image cores | 1 | 84 | 608 | 398,088,360 | 654,750 | 68,987 | 2,413,524 | 2026-08-20 | 2026-08-31 | spent |
+| materials from image cores | 1 | 85 | 611 | 402,915,576 | 659,436 | 68,987 | 1,609,072 | 2026-08-20 | 2026-08-31 | spent |
 | mined classes over indel-augmented pairs | 1 | 2 | 75 | 55,459,097 | 739,454 | 396,848 | 8,962,006 | 2026-08-25 | 2026-08-25 | spent |
 | correlated-token-blocks-material-image-wide | 1 | 6 | 563 | 425,162,272 | 755,172 | 270,359 | 5,907,185 | 2026-08-20 | 2026-08-20 | spent |
 | rare shared-token splices family sizes 9901-10200 | 1 | 1 | 9 | 7,174,482 | 797,164 | 797,164 | 797,164 | 2026-08-28 | 2026-08-28 | untried |
@@ -387,7 +387,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | all-boundary cores with uncarried three-segment endings | 2 | 3 | 58 | 53,493,592,404 | 922,303,317 | 446,051,682 | 1,943,570,114 | 2026-08-30 | 2026-08-31 | cooling |
 | family walking, numbers in place | 1 | 30 | 1,658 | 155,933,991,490 | 933,736,475 | 200,051,105 | 867,401,081 | 2026-08-19 | 2026-08-31 | cooling |
 | family walking, whole words | 1 | 37 | 11,688 | 4,443,947,208,224 | 945,721,900 | 149,450,943 | 2,683,437,722 | 2026-08-19 | 2026-08-31 | spent |
-| tails of length 3 | 1 | 93 | 3,176 | 3,139,299,811,646 | 988,444,525 | 35,873,048 | 11,365,964,020 | 2026-08-22 | 2026-08-31 | spent |
+| tails of length 3 | 1 | 94 | 3,177 | 3,173,399,780,522 | 998,866,786 | 35,873,048 | 34,099,968,876 | 2026-08-22 | 2026-08-31 | spent |
 | all-boundary cores with uncarried four-segment endings | 1 | 1 | 16 | 16,060,860,607 | 1,003,803,787 | 1,003,803,787 | 1,003,803,787 | 2026-08-30 | 2026-08-30 | untried |
 | uncarried four-segment endings over all-boundary cores | 1 | 2 | 381 | 400,012,766,734 | 1,049,902,274 | 1,020,440,731 | 1,020,440,731 | 2026-08-23 | 2026-08-23 | live |
 | char insertions bo4 sounds | 1 | 1 | 1 | 1,068,730,763 | 1,068,730,763 | 1,068,730,763 | 1,068,730,763 | 2026-08-24 | 2026-08-24 | untried |
@@ -419,10 +419,10 @@ table under a name you would not have guessed is the thing you are about to rebu
 | sound beginnings the 700 ceiling drops | 1 | 5 | 134 | 358,176,889,070 | 2,672,961,858 | 1,235,117,520 | 73,964,211,300 | 2026-08-29 | 2026-08-30 | spent |
 | sound all-boundary cores with uncarried three-segment endings | 2 | 2 | 12 | 33,009,330,090 | 2,750,777,507 | 2,063,120,631 | 2,063,120,631 | 2026-08-30 | 2026-08-30 | live |
 | sound all-boundary cores with uncarried four-segment endings | 1 | 1 | 6 | 16,506,165,060 | 2,751,027,510 | 2,751,027,510 | 2,751,027,510 | 2026-08-30 | 2026-08-30 | untried |
+| all-boundary sound cores x uncarried sound endings | 1 | 44 | 1,631 | 4,531,978,396,601 | 2,778,650,151 | 383,858,936 | 457,063,617 | 2026-08-25 | 2026-08-31 | live |
 | measured tails of length 8 | 2 | 6 | 271 | 753,428,154,966 | 2,780,177,693 | 1,435,820,931 | 2,357,317,948 | 2026-08-25 | 2026-08-25 | live |
 | measured tails of length 4 | 1 | 4 | 69 | 192,512,386,856 | 2,790,034,592 | 1,850,196,005 | 3,210,073,152 | 2026-08-25 | 2026-08-25 | live |
 | measured heads of length 28 | 1 | 2 | 92 | 257,912,038,902 | 2,803,391,727 | 2,433,132,442 | 2,433,132,442 | 2026-08-25 | 2026-08-25 | live |
-| all-boundary sound cores x uncarried sound endings | 1 | 43 | 1,611 | 4,522,837,124,249 | 2,807,471,833 | 383,858,936 | 964,314,811 | 2026-08-25 | 2026-08-31 | live |
 | all-boundary sound cores x uncarried sound endings, 2 segment(s), top 200000 | 1 | 2 | 196 | 642,349,141,010 | 3,277,291,535 | 2,310,125,571 | 5,635,819,063 | 2026-08-29 | 2026-08-29 | live |
 | measured tails of length 28 | 1 | 2 | 57 | 199,395,031,004 | 3,498,158,438 | 1,917,259,913 | 1,917,259,913 | 2026-08-25 | 2026-08-25 | live |
 | all-boundary cores x uncarried endings, 3 segment(s), top 300000 | 1 | 1 | 146 | 540,504,901,677 | 3,702,088,367 | 3,702,088,367 | 3,702,088,367 | 2026-08-29 | 2026-08-29 | untried |
@@ -437,7 +437,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | measured tails of length 7 | 1 | 3 | 51 | 262,284,435,218 | 5,142,832,063 | 3,013,818,603 | 12,497,565,171 | 2026-08-25 | 2026-08-25 | cooling |
 | measured tails of length 10 | 2 | 7 | 262 | 1,357,535,317,614 | 5,181,432,509 | 2,868,533,268 | 11,751,144,491 | 2026-08-25 | 2026-08-25 | cooling |
 | all-boundary sound cores x uncarried sound endings, 2 segments | 1 | 1 | 37 | 198,601,685,997 | 5,367,613,135 | 5,367,613,135 | 5,367,613,135 | 2026-08-23 | 2026-08-23 | untried |
-| all-boundary cores x uncarried endings | 1 | 67 | 2,113 | 11,937,305,750,963 | 5,649,458,471 | 594,582,025 | 16,441,018,954 | 2026-08-25 | 2026-08-31 | spent |
+| all-boundary cores x uncarried endings | 1 | 69 | 2,123 | 12,299,009,067,960 | 5,793,221,416 | 594,582,025 | 45,213,027,125 | 2026-08-25 | 2026-08-31 | spent |
 | xanim cores borrowed, xanim decorations measured | 1 | 14 | 391 | 2,379,936,774,200 | 6,086,794,818 | 26,167,942 | 50,169,424,421 | 2026-08-24 | 2026-08-31 | spent |
 | measured heads of length 14 | 1 | 2 | 15 | 92,163,619,882 | 6,144,241,325 | 5,760,226,242 | 6,583,115,705 | 2026-08-25 | 2026-08-25 | live |
 | measured tails of length 6 | 2 | 7 | 91 | 628,969,016,333 | 6,911,747,432 | 1,977,717,171 | 9,578,231,709 | 2026-08-25 | 2026-08-25 | cooling |
@@ -561,7 +561,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-483 distinct methods, run 549 ways between them, across 2037 runs. `names` is what each run
+483 distinct methods, run 549 ways between them, across 2042 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
