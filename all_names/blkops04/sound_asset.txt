@@ -32,6 +32,14 @@ c99620f53760ad,blk\maps\wz_open_skyscrapers\destinations\asylum\amb_spooky\amb_s
 5dfbc8e70d58e0bb,blk\maps\wz_open_skyscrapers\destinations\asylum\whispers\whispers_01.ln100.pc.snd
 2ad6664aca429964,blk\maps\wz_open_skyscrapers\destinations\asylum\whispers\whispers_02.ln100.pc.snd
 43a68797655e7353,cin/mp_worldbuilder_intro/mp_worldbuilder_intro_lr.rr75.pc.en.snd
+40076548a3898a4a,en\vox\scripted\mpl\anbo\vox_anbo_prop_hunt_mission_order_attack_00.sn100.pc.snd
+6570f96e96d85c67,en\vox\scripted\mpl\anbo\vox_anbo_prop_hunt_mission_order_attack_01.sn100.pc.snd
+28c0dfbc9ff3a376,en\vox\scripted\mpl\anbo\vox_anbo_prop_hunt_mission_order_defend_00.sn100.pc.snd
+6948bb5f51f878f3,en\vox\scripted\mpl\anbo\vox_anbo_prop_hunt_mission_order_defend_01.sn100.pc.snd
+205adefaaf5e9750,en\vox\scripted\mpl\anme\vox_anme_prop_hunt_mission_order_attack_00.sn100.pc.snd
+5490ad923ae1bec5,en\vox\scripted\mpl\anme\vox_anme_prop_hunt_mission_order_attack_01.sn100.pc.snd
+5bb54bb3cbdf30cc,en\vox\scripted\mpl\anme\vox_anme_prop_hunt_mission_order_defend_00.sn100.pc.snd
+2315ce138994c0f1,en\vox\scripted\mpl\anme\vox_anme_prop_hunt_mission_order_defend_01.sn100.pc.snd
 7b704acb7543d952,fly\emotes\emote_sparkler_lp.ll100.pc.snd
 20b1726d59fc502e,fly\emotes\raygun_fem_start.ln100.pc.snd
 74f6507f59beb735,fly\emotes\raygun_male_start.ln100.pc.snd
