@@ -1,0 +1,4 @@
+fdd4d2cc1be7f42,mc/mtl_c_t9_zmb_dlc4_requiem_soldier_pants
+1058ff44602f2408,mc/mtl_c_t9_zmb_dlc4_requiem_soldier_bandolier
+661c1294834258ed,mc/mtl_c_t9_zmb_dlc4_requiem_soldier_scarf
+7af2dabc2065c9d7,mc/mtl_c_t9_zmb_dlc4_requiem_soldier_holster
