@@ -1,0 +1,4 @@
+30bb26984121f9b9,vm_sniper_power_semi_ads_acog_wz_up
+3d9f40bf7ca119db,vm_ar_fastfire_ads_acog_wz_up
+5975a5e0cfeb4dae,vm_ar_fastfire_ads_acog_wz_down
+710321e527599c20,vm_sniper_power_semi_ads_acog_wz_down
