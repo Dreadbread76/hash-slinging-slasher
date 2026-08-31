@@ -1,0 +1,1 @@
+4e0d441ba39d6a88,vox/scripted/cp_seige/vox_cp_mc/mtl_p8_usa_mount_brace_mechanical_decal_movement/rattles/chains/chain_swing_squeak_02.ll100.pc.snd
